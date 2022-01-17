@@ -1,0 +1,11 @@
+C:\Users\ALUMNOS\source\repos\Entities2\Entities2\bin\Debug\netcoreapp2.1\Entities2.deps.json
+C:\Users\ALUMNOS\source\repos\Entities2\Entities2\bin\Debug\netcoreapp2.1\Entities2.runtimeconfig.json
+C:\Users\ALUMNOS\source\repos\Entities2\Entities2\bin\Debug\netcoreapp2.1\Entities2.runtimeconfig.dev.json
+C:\Users\ALUMNOS\source\repos\Entities2\Entities2\bin\Debug\netcoreapp2.1\Entities2.dll
+C:\Users\ALUMNOS\source\repos\Entities2\Entities2\bin\Debug\netcoreapp2.1\Entities2.pdb
+C:\Users\ALUMNOS\source\repos\Entities2\Entities2\obj\Debug\netcoreapp2.1\Entities2.csprojAssemblyReference.cache
+C:\Users\ALUMNOS\source\repos\Entities2\Entities2\obj\Debug\netcoreapp2.1\Entities2.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNOS\source\repos\Entities2\Entities2\obj\Debug\netcoreapp2.1\Entities2.AssemblyInfoInputs.cache
+C:\Users\ALUMNOS\source\repos\Entities2\Entities2\obj\Debug\netcoreapp2.1\Entities2.AssemblyInfo.cs
+C:\Users\ALUMNOS\source\repos\Entities2\Entities2\obj\Debug\netcoreapp2.1\Entities2.dll
+C:\Users\ALUMNOS\source\repos\Entities2\Entities2\obj\Debug\netcoreapp2.1\Entities2.pdb

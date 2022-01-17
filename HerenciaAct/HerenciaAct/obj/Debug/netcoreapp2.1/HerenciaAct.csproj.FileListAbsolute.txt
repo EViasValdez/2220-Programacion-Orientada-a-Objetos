@@ -1,0 +1,11 @@
+C:\Users\ALUMNOS\source\repos\HerenciaAct\HerenciaAct\bin\Debug\netcoreapp2.1\HerenciaAct.deps.json
+C:\Users\ALUMNOS\source\repos\HerenciaAct\HerenciaAct\bin\Debug\netcoreapp2.1\HerenciaAct.runtimeconfig.json
+C:\Users\ALUMNOS\source\repos\HerenciaAct\HerenciaAct\bin\Debug\netcoreapp2.1\HerenciaAct.runtimeconfig.dev.json
+C:\Users\ALUMNOS\source\repos\HerenciaAct\HerenciaAct\bin\Debug\netcoreapp2.1\HerenciaAct.dll
+C:\Users\ALUMNOS\source\repos\HerenciaAct\HerenciaAct\bin\Debug\netcoreapp2.1\HerenciaAct.pdb
+C:\Users\ALUMNOS\source\repos\HerenciaAct\HerenciaAct\obj\Debug\netcoreapp2.1\HerenciaAct.csprojAssemblyReference.cache
+C:\Users\ALUMNOS\source\repos\HerenciaAct\HerenciaAct\obj\Debug\netcoreapp2.1\HerenciaAct.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNOS\source\repos\HerenciaAct\HerenciaAct\obj\Debug\netcoreapp2.1\HerenciaAct.AssemblyInfoInputs.cache
+C:\Users\ALUMNOS\source\repos\HerenciaAct\HerenciaAct\obj\Debug\netcoreapp2.1\HerenciaAct.AssemblyInfo.cs
+C:\Users\ALUMNOS\source\repos\HerenciaAct\HerenciaAct\obj\Debug\netcoreapp2.1\HerenciaAct.dll
+C:\Users\ALUMNOS\source\repos\HerenciaAct\HerenciaAct\obj\Debug\netcoreapp2.1\HerenciaAct.pdb
