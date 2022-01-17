@@ -6,7 +6,6 @@ namespace Calculadora
     {
         static void Main(string[] args)
         {
-
             string opcion, resultado;
             float numero1, numero2;
             Console.WriteLine("---- Calculadora ----");
@@ -39,7 +38,6 @@ namespace Calculadora
             }
 
         }
-
         public void suma(float numero1, float numero2)
         {
             double resultado;
@@ -65,5 +63,4 @@ namespace Calculadora
             Console.WriteLine("El resultado es " + resultado);
         }
     }
-
 }
