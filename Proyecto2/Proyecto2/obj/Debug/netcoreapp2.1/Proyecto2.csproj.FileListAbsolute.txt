@@ -1,0 +1,11 @@
+C:\Users\ALUMNOS\source\repos\Proyecto2\Proyecto2\bin\Debug\netcoreapp2.1\Proyecto2.deps.json
+C:\Users\ALUMNOS\source\repos\Proyecto2\Proyecto2\bin\Debug\netcoreapp2.1\Proyecto2.runtimeconfig.json
+C:\Users\ALUMNOS\source\repos\Proyecto2\Proyecto2\bin\Debug\netcoreapp2.1\Proyecto2.runtimeconfig.dev.json
+C:\Users\ALUMNOS\source\repos\Proyecto2\Proyecto2\bin\Debug\netcoreapp2.1\Proyecto2.dll
+C:\Users\ALUMNOS\source\repos\Proyecto2\Proyecto2\bin\Debug\netcoreapp2.1\Proyecto2.pdb
+C:\Users\ALUMNOS\source\repos\Proyecto2\Proyecto2\obj\Debug\netcoreapp2.1\Proyecto2.csprojAssemblyReference.cache
+C:\Users\ALUMNOS\source\repos\Proyecto2\Proyecto2\obj\Debug\netcoreapp2.1\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNOS\source\repos\Proyecto2\Proyecto2\obj\Debug\netcoreapp2.1\Proyecto2.AssemblyInfoInputs.cache
+C:\Users\ALUMNOS\source\repos\Proyecto2\Proyecto2\obj\Debug\netcoreapp2.1\Proyecto2.AssemblyInfo.cs
+C:\Users\ALUMNOS\source\repos\Proyecto2\Proyecto2\obj\Debug\netcoreapp2.1\Proyecto2.dll
+C:\Users\ALUMNOS\source\repos\Proyecto2\Proyecto2\obj\Debug\netcoreapp2.1\Proyecto2.pdb
