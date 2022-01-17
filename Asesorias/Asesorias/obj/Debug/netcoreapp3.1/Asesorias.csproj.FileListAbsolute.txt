@@ -1,0 +1,13 @@
+E:\VisualStudio\Asesorias\Asesorias\bin\Debug\netcoreapp3.1\Asesorias.exe
+E:\VisualStudio\Asesorias\Asesorias\bin\Debug\netcoreapp3.1\Asesorias.deps.json
+E:\VisualStudio\Asesorias\Asesorias\bin\Debug\netcoreapp3.1\Asesorias.runtimeconfig.json
+E:\VisualStudio\Asesorias\Asesorias\bin\Debug\netcoreapp3.1\Asesorias.runtimeconfig.dev.json
+E:\VisualStudio\Asesorias\Asesorias\bin\Debug\netcoreapp3.1\Asesorias.dll
+E:\VisualStudio\Asesorias\Asesorias\bin\Debug\netcoreapp3.1\Asesorias.pdb
+E:\VisualStudio\Asesorias\Asesorias\obj\Debug\netcoreapp3.1\Asesorias.csprojAssemblyReference.cache
+E:\VisualStudio\Asesorias\Asesorias\obj\Debug\netcoreapp3.1\Asesorias.AssemblyInfoInputs.cache
+E:\VisualStudio\Asesorias\Asesorias\obj\Debug\netcoreapp3.1\Asesorias.AssemblyInfo.cs
+E:\VisualStudio\Asesorias\Asesorias\obj\Debug\netcoreapp3.1\Asesorias.csproj.CoreCompileInputs.cache
+E:\VisualStudio\Asesorias\Asesorias\obj\Debug\netcoreapp3.1\Asesorias.dll
+E:\VisualStudio\Asesorias\Asesorias\obj\Debug\netcoreapp3.1\Asesorias.pdb
+E:\VisualStudio\Asesorias\Asesorias\obj\Debug\netcoreapp3.1\Asesorias.genruntimeconfig.cache
