@@ -1,31 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "E:\\VisualStudio\\EduardoViñasValdez\\EduardoViñasValdez\\EduardoViñasValdez.csproj": {}
+    "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2220-Programacion-Orientada-a-Objetos\\EduardoViñasValdez\\EduardoViñasValdez\\EduardoViñasValdez.csproj": {}
   },
   "projects": {
-    "E:\\VisualStudio\\EduardoViñasValdez\\EduardoViñasValdez\\EduardoViñasValdez.csproj": {
+    "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2220-Programacion-Orientada-a-Objetos\\EduardoViñasValdez\\EduardoViñasValdez\\EduardoViñasValdez.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VisualStudio\\EduardoViñasValdez\\EduardoViñasValdez\\EduardoViñasValdez.csproj",
+        "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2220-Programacion-Orientada-a-Objetos\\EduardoViñasValdez\\EduardoViñasValdez\\EduardoViñasValdez.csproj",
         "projectName": "EduardoViñasValdez",
-        "projectPath": "E:\\VisualStudio\\EduardoViñasValdez\\EduardoViñasValdez\\EduardoViñasValdez.csproj",
-        "packagesPath": "C:\\Users\\valde\\.nuget\\packages\\",
-        "outputPath": "E:\\VisualStudio\\EduardoViñasValdez\\EduardoViñasValdez\\obj\\",
+        "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2220-Programacion-Orientada-a-Objetos\\EduardoViñasValdez\\EduardoViñasValdez\\EduardoViñasValdez.csproj",
+        "packagesPath": "C:\\Users\\defaultuser0\\.nuget\\packages\\",
+        "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2220-Programacion-Orientada-a-Objetos\\EduardoViñasValdez\\EduardoViñasValdez\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\valde\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\defaultuser0\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.1"
+          "netcoreapp5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.1": {
+          "net5.0": {
+            "targetAlias": "netcoreapp5.0",
             "projectReferences": {}
           }
         },
@@ -36,15 +35,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.1": {
-          "dependencies": {
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.1.0, )",
-              "autoReferenced": true
-            }
-          },
+        "net5.0": {
+          "targetAlias": "netcoreapp5.0",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +47,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }
