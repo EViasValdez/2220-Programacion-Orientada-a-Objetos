@@ -1,31 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "E:\\VisualStudio\\Asesorias\\Asesorias\\Asesorias.csproj": {}
+    "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2220-Programacion-Orientada-a-Objetos\\Asesorias\\Asesorias\\Asesorias.csproj": {}
   },
   "projects": {
-    "E:\\VisualStudio\\Asesorias\\Asesorias\\Asesorias.csproj": {
+    "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2220-Programacion-Orientada-a-Objetos\\Asesorias\\Asesorias\\Asesorias.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VisualStudio\\Asesorias\\Asesorias\\Asesorias.csproj",
+        "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2220-Programacion-Orientada-a-Objetos\\Asesorias\\Asesorias\\Asesorias.csproj",
         "projectName": "Asesorias",
-        "projectPath": "E:\\VisualStudio\\Asesorias\\Asesorias\\Asesorias.csproj",
-        "packagesPath": "C:\\Users\\valde\\.nuget\\packages\\",
-        "outputPath": "E:\\VisualStudio\\Asesorias\\Asesorias\\obj\\",
+        "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2220-Programacion-Orientada-a-Objetos\\Asesorias\\Asesorias\\Asesorias.csproj",
+        "packagesPath": "C:\\Users\\defaultuser0\\.nuget\\packages\\",
+        "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2220-Programacion-Orientada-a-Objetos\\Asesorias\\Asesorias\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\valde\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\defaultuser0\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "netcoreapp5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net5.0": {
+            "targetAlias": "netcoreapp5.0",
             "projectReferences": {}
           }
         },
@@ -36,7 +35,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net5.0": {
+          "targetAlias": "netcoreapp5.0",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,16 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Herencia\Herencia\bin\Debug\netcoreapp5.0\Herencia.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Herencia\Herencia\bin\Debug\netcoreapp5.0\Herencia.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Herencia\Herencia\bin\Debug\netcoreapp5.0\Herencia.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Herencia\Herencia\bin\Debug\netcoreapp5.0\Herencia.runtimeconfig.dev.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Herencia\Herencia\bin\Debug\netcoreapp5.0\Herencia.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Herencia\Herencia\bin\Debug\netcoreapp5.0\ref\Herencia.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Herencia\Herencia\bin\Debug\netcoreapp5.0\Herencia.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Herencia\Herencia\obj\Debug\netcoreapp5.0\Herencia.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Herencia\Herencia\obj\Debug\netcoreapp5.0\Herencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Herencia\Herencia\obj\Debug\netcoreapp5.0\Herencia.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Herencia\Herencia\obj\Debug\netcoreapp5.0\Herencia.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Herencia\Herencia\obj\Debug\netcoreapp5.0\Herencia.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Herencia\Herencia\obj\Debug\netcoreapp5.0\Herencia.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Herencia\Herencia\obj\Debug\netcoreapp5.0\ref\Herencia.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Herencia\Herencia\obj\Debug\netcoreapp5.0\Herencia.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Herencia\Herencia\obj\Debug\netcoreapp5.0\Herencia.genruntimeconfig.cache

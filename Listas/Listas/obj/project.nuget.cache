@@ -1,16 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d2oJUjDZO9LDpq0NZKh0dNOpekF8rIOXtfIgPmyhROgxw/MWy9oS/xq0nPyiumBGZf0Dmp7RC8/YVJhdqqxoYg==",
+  "dgSpecHash": "NhYIxmnp9P9r4hc0Id77T6s6tAJwcTI05qWgMzCLxXKcs2d02TcRxK+2l6EKQJg9pYV++Ye42OuVMC8Jw1dqaw==",
   "success": true,
-  "projectFilePath": "E:\\VisualStudio\\Listas\\Listas\\Listas.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\valde\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
-    "C:\\Users\\valde\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
-    "C:\\Users\\valde\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
-    "C:\\Users\\valde\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
-    "C:\\Users\\valde\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
-    "C:\\Users\\valde\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
-    "C:\\Users\\valde\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2220-Programacion-Orientada-a-Objetos\\Listas\\Listas\\Listas.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
