@@ -30,7 +30,7 @@ Proyecto1/Proyecto1/Proyecto1.csproj,
 Proyecto1/Proyecto1.sln)
 
 ###### Proyecto2 - 22/01/20
-Proyecto2/Proyecto2/bin/Debug/netcoreapp2.1/Proyecto2.deps.json, 
+(Proyecto2/Proyecto2/bin/Debug/netcoreapp2.1/Proyecto2.deps.json, 
 Proyecto2/Proyecto2/bin/Debug/netcoreapp2.1/Proyecto2.dll, 
 Proyecto2/Proyecto2/bin/Debug/netcoreapp2.1/Proyecto2.pdb, 
 Proyecto2/Proyecto2/bin/Debug/netcoreapp2.1/Proyecto2.runtimeconfig.dev.json, 
@@ -52,8 +52,7 @@ Proyecto2/Proyecto2/obj/project.nuget.cache,
 Proyecto2/Proyecto2/Persona.cs, 
 Proyecto2/Proyecto2/Program.cs, 
 Proyecto2/Proyecto2/Proyecto2.csproj, 
-Proyecto2/Proyecto2.sln
-
+Proyecto2/Proyecto2.sln)
 
 ###### Calculadora - 24/01/20
 ###### Calculadora2 - 25/01/20
