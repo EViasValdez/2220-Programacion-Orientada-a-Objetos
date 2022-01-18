@@ -1,5 +1,6 @@
 # Programacion Orientada a Objetos
 **Lista con archivos todavia esta por definirse**
+**Para ejecutar sin problemas los archivos se nececita .NET Core SDK 5**
 
 ###### Proyecto1 - 18/01/20
 ###### Proyecto2 - 22/01/20
