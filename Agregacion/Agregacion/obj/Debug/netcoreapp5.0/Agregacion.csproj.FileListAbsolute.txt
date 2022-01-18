@@ -1,0 +1,5 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Agregacion\Agregacion\obj\Debug\netcoreapp5.0\Agregacion.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Agregacion\Agregacion\obj\Debug\netcoreapp5.0\Agregacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Agregacion\Agregacion\obj\Debug\netcoreapp5.0\Agregacion.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Agregacion\Agregacion\obj\Debug\netcoreapp5.0\Agregacion.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Agregacion\Agregacion\obj\Debug\netcoreapp5.0\Agregacion.csproj.CoreCompileInputs.cache
