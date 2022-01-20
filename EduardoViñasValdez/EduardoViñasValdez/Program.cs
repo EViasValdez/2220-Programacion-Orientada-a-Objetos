@@ -6,7 +6,6 @@ namespace EduardoViñasValdez
     {
         static void Main(string[] args)
         {
-
             Console.WriteLine("____ Editorial R.S ____ ");
             Console.WriteLine("Productos disponibles");
             Console.WriteLine("1. Libros");
@@ -30,7 +29,6 @@ namespace EduardoViñasValdez
             datPubli.Titulo = Console.ReadLine();
             Console.WriteLine("Ingrese precio");
             datPubli.Precio = int.Parse(Console.ReadLine());
-
         }
     }
 }
