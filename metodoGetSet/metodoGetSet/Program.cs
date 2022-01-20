@@ -34,7 +34,6 @@ namespace metodoGetSet
             Console.WriteLine("El total iva es.... " + pract.totalIva);
             Console.WriteLine("El descuento es.... " + pract.descuento);
             Console.WriteLine(pract.Iva);
-
         }
     }
 }

@@ -11,14 +11,12 @@ namespace metodoGetSet
         {
             nombre = nom;
         }
-
         public string getValor()
         {
             if (nombre == "Eduardo")
             {
                 nombre = "El nombre es Eduardo";
             }
-
             return nombre;
         }
     }

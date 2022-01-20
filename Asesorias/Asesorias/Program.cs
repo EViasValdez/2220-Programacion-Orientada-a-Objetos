@@ -97,7 +97,6 @@ namespace Asesorias
             if (sino.ToLower().Equals("no")) electo = false;
             }while(electo);
         }
-
     }
     public class Auto // Clase del auto
     {
@@ -107,7 +106,6 @@ namespace Asesorias
         public string codigoplaca { get; set; }
         public int numserie { get; set; }
         public int numasientos { get; set; }
-
         public void mostrarauto() // Metodo para convocar por medio de la clase
         {
             Console.WriteLine("Usted eligio la opcion Automobil, ingrese cualquier tecla para continuar");
@@ -142,12 +140,11 @@ namespace Asesorias
         {
           Console.WriteLine("Este metodo esta inconcluso");
         }
-
     }
 
         public class Computadora // Clase de la computadora
-    {
-		    public string marca { get; set; }
+        {
+		public string marca { get; set; }
         public string modelo { get; set; }
         public string sistemaoperativo { get; set; }
         public string procesador { get; set; }
@@ -182,7 +179,6 @@ namespace Asesorias
             }
         }
     }
-
     public class Banco // Clase del Banco
     {
         public string nombrebanco { get; set; }
@@ -293,7 +289,6 @@ namespace Asesorias
             }
         }
     }
-
     public class Mouse // Clase del mouse
     {
         public string marca { get; set; }
@@ -301,8 +296,8 @@ namespace Asesorias
 		    public string tipo { get; set; }
 		    public string alambrico { get; set; }
         public void mostrarmouse()
-    {
-      Console.WriteLine("Usted eligio la opcion Mouse, ingrese cualquier tecla para continuar");
+        {
+            Console.WriteLine("Usted eligio la opcion Mouse, ingrese cualquier tecla para continuar");
             Console.ReadKey();
             Mouse mous = new Mouse();
             List<Mouse> ListaMouse = new List<Mouse>();
@@ -328,6 +323,6 @@ namespace Asesorias
                 Console.WriteLine("Tipo: " + mous.tipo);
                 Console.WriteLine("Alambrico: " + mous.alambrico);
             }
-    }
+        }
     }
 }

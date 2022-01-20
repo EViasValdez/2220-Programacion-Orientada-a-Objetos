@@ -11,6 +11,5 @@ namespace Calculadora2
         {
             resultado = numero1 - numero2;
         }
-
     }
 }

@@ -28,7 +28,6 @@ namespace Proyecto1
         {
             modelo = "Forte";
             marca = "Kia";
-        
         }
         public Auto()
         {
@@ -42,6 +41,5 @@ namespace Proyecto1
             precio = 752400f;
             submarca = "Ford Mustang";
         }
-
     }
 }

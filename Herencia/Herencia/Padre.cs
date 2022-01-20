@@ -11,6 +11,4 @@ namespace Herencia
         public string aPaterno { get; set; }
         public string aMaterno { get; set; }
     }
-    
-    
 }
