@@ -27,7 +27,6 @@ namespace Listas
                 Console.WriteLine(i);
             }
             Console.ReadKey();
-
         }
     }
 }
