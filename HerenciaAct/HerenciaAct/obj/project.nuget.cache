@@ -1,16 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xOKzaxvcgYheDoOobquMZpDKXjAzJKyiUBJxUocYLnsW4nIIh5A6tCwz4qxjYh1bwxjd748S5z1b+kE1zXpcfw==",
+  "dgSpecHash": "OtYAHD+I2T0p+rMWA63K71bdnDrJQsnCF7PRKSElPnkCXqOTVkamik9xM0eLZ2hjM+riie/e//7FOz2lMFx/yA==",
   "success": true,
-  "projectFilePath": "E:\\VisualStudio\\HerenciaAct\\HerenciaAct\\HerenciaAct.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\valde\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
-    "C:\\Users\\valde\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
-    "C:\\Users\\valde\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
-    "C:\\Users\\valde\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
-    "C:\\Users\\valde\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
-    "C:\\Users\\valde\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
-    "C:\\Users\\valde\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2220-Programacion-Orientada-a-Objetos\\HerenciaAct\\HerenciaAct\\HerenciaAct.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
