@@ -58,7 +58,7 @@ Calculadora/Calculadora/Calculadora.csproj,
 Calculadora/Calculadora/Program.cs)
 
 ###### Calculadora2 - 25/01/20
-Calculadora2/.vs/Calculadora2/DesignTimeBuild/.dtbcache.v2, 
+(Calculadora2/.vs/Calculadora2/DesignTimeBuild/.dtbcache.v2, 
 Calculadora2/.vs/Calculadora2/v16/.suo, 
 Calculadora2/Calculadora2/bin/Debug/netcoreapp5.0/ref/Calculadora2.dll, 
 Calculadora2/Calculadora2/bin/Debug/netcoreapp5.0/Calculadora2.deps.json, 
@@ -81,14 +81,50 @@ Calculadora2/Calculadora2/obj/Debug/netcoreapp5.0/Calculadora2.genruntimeconfig.
 Calculadora2/Calculadora2/obj/Debug/netcoreapp5.0/Calculadora2.pdb, 
 Calculadora2/Calculadora2/obj/Debug/netcoreapp5.0/apphost.exe, 
 Calculadora2/Calculadora2/Calculadora2.csproj, 
-Calculadora2/Calculadora2/Program.cs
+Calculadora2/Calculadora2/Program.cs)
 
 ###### Empleados - 31/01/20
+(Empleados/Empleados/obj/Debug/netcoreapp5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs, 
+Empleados/Empleados/obj/Debug/netcoreapp5.0/Empleados.AssemblyInfo.cs, 
+Empleados/Empleados/obj/Debug/netcoreapp5.0/Empleados.AssemblyInfoInputs.cache, 
+Empleados/Empleados/obj/Debug/netcoreapp5.0/Empleados.GeneratedMSBuildEditorConfig.editorconfig, 
+Empleados/Empleados/obj/Debug/netcoreapp5.0/Empleados.assets.cache, 
+Empleados/Empleados/obj/Debug/netcoreapp5.0/Empleados.csproj.AssemblyReference.cache, 
+Empleados/Empleados/obj/Debug/netcoreapp5.0/Empleados.csproj.CoreCompileInputs.cache, 
+Empleados/Empleados/obj/Debug/netcoreapp5.0/Empleados.csproj.FileListAbsolute.txt, 
+Empleados/Empleados/obj/Empleados.csproj.nuget.cache, 
+Empleados/Empleados/obj/Empleados.csproj.nuget.dgspec.json, 
+Empleados/Empleados/obj/Empleados.csproj.nuget.g.props, 
+Empleados/Empleados/obj/Empleados.csproj.nuget.g.targets, 
+Empleados/Empleados/obj/project.assets.json, 
+Empleados/Empleados/obj/project.nuget.cache,
+Empleados/Empleados/Empleados.csproj, 
+Empleados/Empleados/Nomina.cs, 
+Empleados/Empleados/Personal.cs, 
+Empleados/Empleados/Program.cs, 
+Empleados/Empleados.sln)
+
 ###### Repaso - 01/02/20
+(Repaso/Repaso/obj/Debug/netcoreapp5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs, 
+Repaso/Repaso/obj/Debug/netcoreapp5.0/Repaso.AssemblyInfo.cs, 
+Repaso/Repaso/obj/Debug/netcoreapp5.0/Repaso.AssemblyInfoInputs.cache, 
+Repaso/Repaso/obj/Debug/netcoreapp5.0/Repaso.GeneratedMSBuildEditorConfig.editorconfig, 
+Repaso/Repaso/obj/Debug/netcoreapp5.0/Repaso.assets.cache, 
+Repaso/Repaso/obj/Debug/netcoreapp5.0/Repaso.csproj.AssemblyReference.cache, 
+Repaso/Repaso/obj/Debug/netcoreapp5.0/Repaso.csproj.CoreCompileInputs.cache, 
+Repaso/Repaso/obj/Debug/netcoreapp5.0/Repaso.csproj.FileListAbsolute.txt, 
+Repaso/Repaso/obj/Repaso.csproj.nuget.cache, 
+Repaso/Repaso/obj/Repaso.csproj.nuget.dgspec.json, 
+Repaso/Repaso/obj/Repaso.csproj.nuget.g.props, 
+Repaso/Repaso/obj/Repaso.csproj.nuget.g.targets, 
+Repaso/Repaso/obj/project.assets.json, 
+Repaso/Repaso/obj/project.nuget.cache, 
+Repaso/Repaso/Alumno.cs, 
+Repaso/Repaso/Program.cs, 
+Repaso/Repaso/Repaso.csproj, 
+Repaso/Repaso.sln)
 
 ###### metodoGetSet - 05/02/20
-###### Herencia - 12/02/20
-###### HerenciaAct - 12/02/20
-###### Listas - 14/02/20
-###### Entities - 14/02/20
+###### Herencia, HerenciaAct - 12/02/20
+###### Listas, Entities - 14/02/20
 ###### Entities2 - 15/02/20
