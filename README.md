@@ -84,7 +84,7 @@ Calculadora2/Calculadora2/Calculadora2.csproj,
 Calculadora2/Calculadora2/Program.cs
 
 ###### Empleados - 31/01/20
-(Empleados/Empleados/obj/Debug/netcoreapp5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs, 
+Empleados/Empleados/obj/Debug/netcoreapp5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs, 
 Empleados/Empleados/obj/Debug/netcoreapp5.0/Empleados.AssemblyInfo.cs, 
 Empleados/Empleados/obj/Debug/netcoreapp5.0/Empleados.AssemblyInfoInputs.cache, 
 Empleados/Empleados/obj/Debug/netcoreapp5.0/Empleados.GeneratedMSBuildEditorConfig.editorconfig, 
@@ -98,11 +98,6 @@ Empleados/Empleados/obj/Empleados.csproj.nuget.g.props,
 Empleados/Empleados/obj/Empleados.csproj.nuget.g.targets, 
 Empleados/Empleados/obj/project.assets.json, 
 Empleados/Empleados/obj/project.nuget.cache,
-Empleados/Empleados/Empleados.csproj, 
-Empleados/Empleados/Nomina.cs, 
-Empleados/Empleados/Personal.cs, 
-Empleados/Empleados/Program.cs, 
-Empleados/Empleados.sln)
 
 ###### Repaso - 01/02/20
 (Repaso/Repaso/obj/Debug/netcoreapp5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs, 
@@ -125,8 +120,6 @@ Repaso/Repaso/Repaso.csproj,
 Repaso/Repaso.sln)
 
 ###### metodoGetSet - 05/02/20
-###### Herencia - 12/02/20
-###### HerenciaAct - 12/02/20
-###### Listas - 14/02/20
-###### Entities - 14/02/20
+###### Herencia, HerenciaAct - 12/02/20
+###### Listas, Entities - 14/02/20
 ###### Entities2 - 15/02/20
