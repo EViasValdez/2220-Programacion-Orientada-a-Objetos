@@ -84,6 +84,20 @@ Calculadora2/Calculadora2/Calculadora2.csproj,
 Calculadora2/Calculadora2/Program.cs
 
 ###### Empleados - 31/01/20
+Empleados/Empleados/obj/Debug/netcoreapp5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs, 
+Empleados/Empleados/obj/Debug/netcoreapp5.0/Empleados.AssemblyInfo.cs, 
+Empleados/Empleados/obj/Debug/netcoreapp5.0/Empleados.AssemblyInfoInputs.cache, 
+Empleados/Empleados/obj/Debug/netcoreapp5.0/Empleados.GeneratedMSBuildEditorConfig.editorconfig, 
+Empleados/Empleados/obj/Debug/netcoreapp5.0/Empleados.assets.cache, 
+Empleados/Empleados/obj/Debug/netcoreapp5.0/Empleados.csproj.AssemblyReference.cache, 
+Empleados/Empleados/obj/Debug/netcoreapp5.0/Empleados.csproj.CoreCompileInputs.cache, 
+Empleados/Empleados/obj/Debug/netcoreapp5.0/Empleados.csproj.FileListAbsolute.txt, 
+Empleados/Empleados/obj/Empleados.csproj.nuget.cache, 
+Empleados/Empleados/obj/Empleados.csproj.nuget.dgspec.json, 
+Empleados/Empleados/obj/Empleados.csproj.nuget.g.props, 
+Empleados/Empleados/obj/Empleados.csproj.nuget.g.targets, 
+Empleados/Empleados/obj/project.assets.json, 
+Empleados/Empleados/obj/project.nuget.cache,
 
 ###### Repaso - 01/02/20
 (Repaso/Repaso/obj/Debug/netcoreapp5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs, 
