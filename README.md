@@ -84,7 +84,27 @@ Calculadora2/Calculadora2/Calculadora2.csproj,
 Calculadora2/Calculadora2/Program.cs
 
 ###### Empleados - 31/01/20
+
 ###### Repaso - 01/02/20
+(Repaso/Repaso/obj/Debug/netcoreapp5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs, 
+Repaso/Repaso/obj/Debug/netcoreapp5.0/Repaso.AssemblyInfo.cs, 
+Repaso/Repaso/obj/Debug/netcoreapp5.0/Repaso.AssemblyInfoInputs.cache, 
+Repaso/Repaso/obj/Debug/netcoreapp5.0/Repaso.GeneratedMSBuildEditorConfig.editorconfig, 
+Repaso/Repaso/obj/Debug/netcoreapp5.0/Repaso.assets.cache, 
+Repaso/Repaso/obj/Debug/netcoreapp5.0/Repaso.csproj.AssemblyReference.cache, 
+Repaso/Repaso/obj/Debug/netcoreapp5.0/Repaso.csproj.CoreCompileInputs.cache, 
+Repaso/Repaso/obj/Debug/netcoreapp5.0/Repaso.csproj.FileListAbsolute.txt, 
+Repaso/Repaso/obj/Repaso.csproj.nuget.cache, 
+Repaso/Repaso/obj/Repaso.csproj.nuget.dgspec.json, 
+Repaso/Repaso/obj/Repaso.csproj.nuget.g.props, 
+Repaso/Repaso/obj/Repaso.csproj.nuget.g.targets, 
+Repaso/Repaso/obj/project.assets.json, 
+Repaso/Repaso/obj/project.nuget.cache, 
+Repaso/Repaso/Alumno.cs, 
+Repaso/Repaso/Program.cs, 
+Repaso/Repaso/Repaso.csproj, 
+Repaso/Repaso.sln)
+
 ###### metodoGetSet - 05/02/20
 ###### Herencia - 12/02/20
 ###### HerenciaAct - 12/02/20
