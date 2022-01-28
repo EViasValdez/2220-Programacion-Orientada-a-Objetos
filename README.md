@@ -125,6 +125,39 @@ Repaso/Repaso/Repaso.csproj,
 Repaso/Repaso.sln)
 
 ###### metodoGetSet - 05/02/20
+(metodoGetSet/metodoGetSet/bin/Debug/netcoreapp5.0/ref/metodoGetSet.dll, 
+metodoGetSet/metodoGetSet/bin/Debug/netcoreapp5.0/metodoGetSet.deps.json, 
+metodoGetSet/metodoGetSet/bin/Debug/netcoreapp5.0/metodoGetSet.dll, 
+metodoGetSet/metodoGetSet/bin/Debug/netcoreapp5.0/metodoGetSet.exe, 
+metodoGetSet/metodoGetSet/bin/Debug/netcoreapp5.0/metodoGetSet.pdb, 
+metodoGetSet/metodoGetSet/bin/Debug/netcoreapp5.0/metodoGetSet.runtimeconfig.dev.json, 
+metodoGetSet/metodoGetSet/bin/Debug/netcoreapp5.0/metodoGetSet.runtimeconfig.json, 
+metodoGetSet/metodoGetSet/obj/Debug/netcoreapp5.0/ref/metodoGetSet.dll, 
+metodoGetSet/metodoGetSet/obj/Debug/netcoreapp5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs, 
+metodoGetSet/metodoGetSet/obj/Debug/netcoreapp5.0/apphost.exe, 
+metodoGetSet/metodoGetSet/obj/Debug/netcoreapp5.0/metodoGetSet.AssemblyInfo.cs, 
+metodoGetSet/metodoGetSet/obj/Debug/netcoreapp5.0/metodoGetSet.AssemblyInfoInputs.cache, 
+metodoGetSet/metodoGetSet/obj/Debug/netcoreapp5.0/metodoGetSet.GeneratedMSBuildEditorConfig.editorconfig, 
+metodoGetSet/metodoGetSet/obj/Debug/netcoreapp5.0/metodoGetSet.assets.cache, 
+metodoGetSet/metodoGetSet/obj/Debug/netcoreapp5.0/metodoGetSet.csproj.AssemblyReference.cache, 
+metodoGetSet/metodoGetSet/obj/Debug/netcoreapp5.0/metodoGetSet.csproj.CoreCompileInputs.cache, 
+metodoGetSet/metodoGetSet/obj/Debug/netcoreapp5.0/metodoGetSet.csproj.FileListAbsolute.txt, 
+metodoGetSet/metodoGetSet/obj/Debug/netcoreapp5.0/metodoGetSet.dll, 
+metodoGetSet/metodoGetSet/obj/Debug/netcoreapp5.0/metodoGetSet.genruntimeconfig.cache, 
+metodoGetSet/metodoGetSet/obj/Debug/netcoreapp5.0/metodoGetSet.pdb, 
+metodoGetSet/metodoGetSet/obj/metodoGetSet.csproj.nuget.cache, 
+metodoGetSet/metodoGetSet/obj/metodoGetSet.csproj.nuget.dgspec.json, 
+metodoGetSet/metodoGetSet/obj/metodoGetSet.csproj.nuget.g.props, 
+metodoGetSet/metodoGetSet/obj/metodoGetSet.csproj.nuget.g.targets, 
+metodoGetSet/metodoGetSet/obj/project.assets.json, 
+metodoGetSet/metodoGetSet/obj/project.nuget.cache, 
+metodoGetSet/metodoGetSet/Empleados.cs, 
+metodoGetSet/metodoGetSet/Metodo.cs, 
+metodoGetSet/metodoGetSet/Practica.cs, 
+metodoGetSet/metodoGetSet/Program.cs, 
+metodoGetSet/metodoGetSet/metodoGetSet.csproj, 
+metodoGetSet/metodoGetSet.sln)
+
 ###### Herencia, HerenciaAct - 12/02/20
 ###### Listas, Entities - 14/02/20
 ###### Entities2 - 15/02/20
