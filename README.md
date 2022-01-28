@@ -160,4 +160,31 @@ metodoGetSet/metodoGetSet.sln)
 
 ###### Herencia, HerenciaAct - 12/02/20
 ###### Listas, Entities - 14/02/20
+
 ###### Entities2 - 15/02/20
+(Entities2/Entities2/bin/Debug/netcoreapp5.0/ref/Entities2.dll, 
+Entities2/Entities2/bin/Debug/netcoreapp5.0/Entities2.deps.json, 
+Entities2/Entities2/bin/Debug/netcoreapp5.0/Entities2.dll, 
+Entities2/Entities2/bin/Debug/netcoreapp5.0/Entities2.exe, 
+Entities2/Entities2/bin/Debug/netcoreapp5.0/Entities2.pdb, 
+Entities2/Entities2/bin/Debug/netcoreapp5.0/Entities2.runtimeconfig.dev.json, 
+Entities2/Entities2/bin/Debug/netcoreapp5.0/Entities2.runtimeconfig.json, 
+Entities2/Entities2/obj/Debug/netcoreapp5.0/ref/Entities2.dll, 
+Entities2/Entities2/obj/Debug/netcoreapp5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs, 
+Entities2/Entities2/obj/Debug/netcoreapp5.0/Entities2.AssemblyInfo.cs, 
+Entities2/Entities2/obj/Debug/netcoreapp5.0/Entities2.AssemblyInfoInputs.cache, 
+Entities2/Entities2/obj/Debug/netcoreapp5.0/Entities2.GeneratedMSBuildEditorConfig.editorconfig, 
+Entities2/Entities2/obj/Debug/netcoreapp5.0/Entities2.assets.cache, 
+Entities2/Entities2/obj/Debug/netcoreapp5.0/Entities2.csproj.AssemblyReference.cache, 
+Entities2/Entities2/obj/Debug/netcoreapp5.0/Entities2.csproj.CoreCompileInputs.cache, 
+Entities2/Entities2/obj/Debug/netcoreapp5.0/Entities2.csproj.FileListAbsolute.txt, 
+Entities2/Entities2/obj/Debug/netcoreapp5.0/Entities2.dll, 
+Entities2/Entities2/obj/Debug/netcoreapp5.0/Entities2.genruntimeconfig.cache, 
+Entities2/Entities2/obj/Debug/netcoreapp5.0/Entities2.pdb, 
+Entities2/Entities2/obj/Debug/netcoreapp5.0/apphost.exe, 
+Entities2/Entities2/EntDatos.cs, 
+Entities2/Entities2/Entities2.csproj, 
+Entities2/Entities2/Program.cs, 
+Entities2/Entities2.sln)
+
+
