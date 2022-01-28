@@ -191,6 +191,39 @@ Herencia/Herencia/Padre.cs,
 Herencia/Herencia/Program.cs, 
 Herencia/Herencia.sln)
 
+(HerenciaAct/HerenciaAct/bin/Debug/netcoreapp5.0/ref/Herencia.dll
+HerenciaAct/HerenciaAct/bin/Debug/netcoreapp5.0/HerenciaAct.deps.json
+HerenciaAct/HerenciaAct/bin/Debug/netcoreapp5.0/HerenciaAct.dll
+HerenciaAct/HerenciaAct/bin/Debug/netcoreapp5.0/HerenciaAct.exe
+HerenciaAct/HerenciaAct/bin/Debug/netcoreapp5.0/HerenciaAct.pdb
+HerenciaAct/HerenciaAct/bin/Debug/netcoreapp5.0/HerenciaAct.runtimeconfig.dev.json
+HerenciaAct/HerenciaAct/bin/Debug/netcoreapp5.0/HerenciaAct.runtimeconfig.json
+HerenciaAct/HerenciaAct/obj/Debug/netcoreapp5.0/ref/HerenciaAct.dll
+HerenciaAct/HerenciaAct/obj/Debug/netcoreapp5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+HerenciaAct/HerenciaAct/obj/Debug/netcoreapp5.0/HerenciaAct.AssemblyInfo.cs
+HerenciaAct/HerenciaAct/obj/Debug/netcoreapp5.0/HerenciaAct.AssemblyInfoInputs.cache
+HerenciaAct/HerenciaAct/obj/Debug/netcoreapp5.0/HerenciaAct.GeneratedMSBuildEditorConfig.editorconfig
+HerenciaAct/HerenciaAct/obj/Debug/netcoreapp5.0/HerenciaAct.assets.cache
+HerenciaAct/HerenciaAct/obj/Debug/netcoreapp5.0/HerenciaAct.csproj.AssemblyReference.cache
+HerenciaAct/HerenciaAct/obj/Debug/netcoreapp5.0/HerenciaAct.csproj.CoreCompileInputs.cache
+HerenciaAct/HerenciaAct/obj/Debug/netcoreapp5.0/HerenciaAct.csproj.FileListAbsolute.txt
+HerenciaAct/HerenciaAct/obj/Debug/netcoreapp5.0/HerenciaAct.dll
+HerenciaAct/HerenciaAct/obj/Debug/netcoreapp5.0/HerenciaAct.genruntimeconfig.cache
+HerenciaAct/HerenciaAct/obj/Debug/netcoreapp5.0/HerenciaAct.pdb
+HerenciaAct/HerenciaAct/obj/Debug/netcoreapp5.0/apphost.exe
+HerenciaAct/HerenciaAct/obj/HerenciaAct.csproj.nuget.cache
+HerenciaAct/HerenciaAct/obj/HerenciaAct.csproj.nuget.dgspec.json
+HerenciaAct/HerenciaAct/obj/HerenciaAct.csproj.nuget.g.props
+HerenciaAct/HerenciaAct/obj/HerenciaAct.csproj.nuget.g.targets
+HerenciaAct/HerenciaAct/obj/project.assets.json
+HerenciaAct/HerenciaAct/obj/project.nuget.cache
+HerenciaAct/HerenciaAct/HerenciaAct.csproj
+HerenciaAct/HerenciaAct/Cliente.cs
+HerenciaAct/HerenciaAct/Datos.cs
+HerenciaAct/HerenciaAct/Empleados.cs
+HerenciaAct/HerenciaAct/Program.cs
+HerenciaAct/HerenciaAct.sln)
+
 ###### Listas, Entities - 14/02/20
 
 ###### Entities2 - 15/02/20
