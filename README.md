@@ -27,10 +27,8 @@ Proyecto1/Proyecto1/Auto.cs,
 Proyecto1/Proyecto1/Program.cs, 
 Proyecto1/Proyecto1/Proyecto1.csproj, 
 Proyecto1/Proyecto1.sln)
-
 ###### Proyecto2 - 22/01/20
 (Proyecto2/Proyecto2/bin/Debug/netcoreapp5.0/ref/Proyecto2.dll, Proyecto2/Proyecto2/bin/Debug/netcoreapp5.0/Proyecto2.deps.json, Proyecto2/Proyecto2/bin/Debug/netcoreapp5.0/Proyecto2.dll, Proyecto2/Proyecto2/bin/Debug/netcoreapp5.0/Proyecto1.exe, Proyecto2/Proyecto2/bin/Debug/netcoreapp5.0/Proyecto2.pdb, Proyecto2/Proyecto2/bin/Debug/netcoreapp5.0/Proyecto2.runtimeconfig.dev.json, Proyecto2/Proyecto2/bin/Debug/netcoreapp5.0/Proyecto2.runtimeconfig.json, Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/Proyecto2.dll, Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs, Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/Proyecto2.AssemblyInfo.cs, Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/Proyecto2.AssemblyInfoInputs.cache, Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/Proyecto2.GeneratedMSBuildEditorConfig.editorconfig, Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/Proyecto2.assets.cache, Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/Proyecto2.csproj.AssemblyReference.cache, Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/Proyecto2.csproj.CoreCompileInputs.cache, Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/Proyecto2.csproj.FileListAbsolute.txt, Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/Proyecto2.dll, Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/Proyecto2.genruntimeconfig.cache, Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/Proyecto2.pdb, Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/apphost.exe, Proyecto2/Proyecto2/Auto.cs, Proyecto2/Proyecto2/Program.cs, Proyecto2/Proyecto2/Proyecto2.csproj, Proyecto2/Proyecto2.sln)
-
 ###### Calculadora - 24/01/20
 (Calculadora/.vs/Calculadora/DesignTimeBuild/.dtbcache.v2, 
 Calculadora/.vs/Calculadora/v16/.suo, 
@@ -56,7 +54,6 @@ Calculadora/Calculadora/obj/Debug/netcoreapp5.0/Calculadora.pdb,
 Calculadora/Calculadora/obj/Debug/netcoreapp5.0/apphost.exe, 
 Calculadora/Calculadora/Calculadora.csproj, 
 Calculadora/Calculadora/Program.cs)
-
 ###### Calculadora2 - 25/01/20
 (Calculadora2/.vs/Calculadora2/DesignTimeBuild/.dtbcache.v2, 
 Calculadora2/.vs/Calculadora2/v16/.suo, 
@@ -82,7 +79,6 @@ Calculadora2/Calculadora2/obj/Debug/netcoreapp5.0/Calculadora2.pdb,
 Calculadora2/Calculadora2/obj/Debug/netcoreapp5.0/apphost.exe, 
 Calculadora2/Calculadora2/Calculadora2.csproj, 
 Calculadora2/Calculadora2/Program.cs)
-
 ###### Empleados - 31/01/20
 (Empleados/Empleados/obj/Debug/netcoreapp5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs, 
 Empleados/Empleados/obj/Debug/netcoreapp5.0/Empleados.AssemblyInfo.cs, 
@@ -103,7 +99,6 @@ Empleados/Empleados/Nomina.cs,
 Empleados/Empleados/Personal.cs, 
 Empleados/Empleados/Program.cs, 
 Empleados/Empleados.sln)
-
 ###### Repaso - 01/02/20
 (Repaso/Repaso/obj/Debug/netcoreapp5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs, 
 Repaso/Repaso/obj/Debug/netcoreapp5.0/Repaso.AssemblyInfo.cs, 
@@ -157,7 +152,6 @@ metodoGetSet/metodoGetSet/Practica.cs,
 metodoGetSet/metodoGetSet/Program.cs, 
 metodoGetSet/metodoGetSet/metodoGetSet.csproj, 
 metodoGetSet/metodoGetSet.sln)
-
 ###### Herencia, HerenciaAct - 12/02/20
 (Herencia/Herencia/bin/Debug/netcoreapp5.0/ref/Herencia.dll, 
 Herencia/Herencia/bin/Debug/netcoreapp5.0/Herencia.deps.json, 
@@ -190,7 +184,6 @@ Herencia/Herencia/Hijo.cs,
 Herencia/Herencia/Padre.cs, 
 Herencia/Herencia/Program.cs, 
 Herencia/Herencia.sln)
-
 (HerenciaAct/HerenciaAct/bin/Debug/netcoreapp5.0/ref/Herencia.dll
 HerenciaAct/HerenciaAct/bin/Debug/netcoreapp5.0/HerenciaAct.deps.json
 HerenciaAct/HerenciaAct/bin/Debug/netcoreapp5.0/HerenciaAct.dll
@@ -223,9 +216,7 @@ HerenciaAct/HerenciaAct/Datos.cs
 HerenciaAct/HerenciaAct/Empleados.cs
 HerenciaAct/HerenciaAct/Program.cs
 HerenciaAct/HerenciaAct.sln)
-
 ###### Listas, Entities - 14/02/20
-
 ###### Entities2 - 15/02/20
 (Entities2/Entities2/bin/Debug/netcoreapp5.0/ref/Entities2.dll, 
 Entities2/Entities2/bin/Debug/netcoreapp5.0/Entities2.deps.json, 
