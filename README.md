@@ -29,7 +29,27 @@ Proyecto1/Proyecto1/Program.cs,
 Proyecto1/Proyecto1/Proyecto1.csproj, 
 Proyecto1/Proyecto1.sln)
 ###### Proyecto2 - 22/01/20
-(Proyecto2/Proyecto2/bin/Debug/netcoreapp5.0/ref/Proyecto2.dll, Proyecto2/Proyecto2/bin/Debug/netcoreapp5.0/Proyecto2.deps.json, Proyecto2/Proyecto2/bin/Debug/netcoreapp5.0/Proyecto2.dll, Proyecto2/Proyecto2/bin/Debug/netcoreapp5.0/Proyecto1.exe, Proyecto2/Proyecto2/bin/Debug/netcoreapp5.0/Proyecto2.pdb, Proyecto2/Proyecto2/bin/Debug/netcoreapp5.0/Proyecto2.runtimeconfig.dev.json, Proyecto2/Proyecto2/bin/Debug/netcoreapp5.0/Proyecto2.runtimeconfig.json, Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/Proyecto2.dll, Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs, Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/Proyecto2.AssemblyInfo.cs, Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/Proyecto2.AssemblyInfoInputs.cache, Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/Proyecto2.GeneratedMSBuildEditorConfig.editorconfig, Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/Proyecto2.assets.cache, Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/Proyecto2.csproj.AssemblyReference.cache, Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/Proyecto2.csproj.CoreCompileInputs.cache, Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/Proyecto2.csproj.FileListAbsolute.txt, Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/Proyecto2.dll, Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/Proyecto2.genruntimeconfig.cache, Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/Proyecto2.pdb, Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/apphost.exe, Proyecto2/Proyecto2/Auto.cs, Proyecto2/Proyecto2/Program.cs, Proyecto2/Proyecto2/Proyecto2.csproj, Proyecto2/Proyecto2.sln)
+(Proyecto2/Proyecto2/bin/Debug/netcoreapp5.0/ref/Proyecto2.dll, 
+Proyecto2/Proyecto2/bin/Debug/netcoreapp5.0/Proyecto2.deps.json, 
+Proyecto2/Proyecto2/bin/Debug/netcoreapp5.0/Proyecto2.dll, 
+Proyecto2/Proyecto2/bin/Debug/netcoreapp5.0/Proyecto1.exe, 
+Proyecto2/Proyecto2/bin/Debug/netcoreapp5.0/Proyecto2.pdb, 
+Proyecto2/Proyecto2/bin/Debug/netcoreapp5.0/Proyecto2.runtimeconfig.dev.json, 
+Proyecto2/Proyecto2/bin/Debug/netcoreapp5.0/Proyecto2.runtimeconfig.json, 
+Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/Proyecto2.dll, 
+Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs, 
+Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/Proyecto2.AssemblyInfo.cs, 
+Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/Proyecto2.AssemblyInfoInputs.cache, Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/Proyecto2.GeneratedMSBuildEditorConfig.editorconfig, 
+Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/Proyecto2.assets.cache, 
+Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/Proyecto2.csproj.AssemblyReference.cache, Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/Proyecto2.csproj.CoreCompileInputs.cache, 
+Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/Proyecto2.csproj.FileListAbsolute.txt, 
+Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/Proyecto2.dll, 
+Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/Proyecto2.genruntimeconfig.cache, 
+Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/Proyecto2.pdb, 
+Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/apphost.exe, 
+Proyecto2/Proyecto2/Auto.cs, Proyecto2/Proyecto2/Program.cs, 
+Proyecto2/Proyecto2/Proyecto2.csproj, 
+Proyecto2/Proyecto2.sln)
 ###### Calculadora - 24/01/20
 (Calculadora/.vs/Calculadora/DesignTimeBuild/.dtbcache.v2, 
 Calculadora/.vs/Calculadora/v16/.suo, 
