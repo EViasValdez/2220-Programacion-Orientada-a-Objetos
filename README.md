@@ -159,6 +159,38 @@ metodoGetSet/metodoGetSet/metodoGetSet.csproj,
 metodoGetSet/metodoGetSet.sln)
 
 ###### Herencia, HerenciaAct - 12/02/20
+(Herencia/Herencia/bin/Debug/netcoreapp5.0/ref/Herencia.dll, 
+Herencia/Herencia/bin/Debug/netcoreapp5.0/Herencia.deps.json, 
+Herencia/Herencia/bin/Debug/netcoreapp5.0/Herencia.dll, 
+Herencia/Herencia/bin/Debug/netcoreapp5.0/Herencia.exe, 
+Herencia/Herencia/bin/Debug/netcoreapp5.0/Herencia.pdb, 
+Herencia/Herencia/bin/Debug/netcoreapp5.0/Herencia.runtimeconfig.dev.json, 
+Herencia/Herencia/bin/Debug/netcoreapp5.0/Herencia.runtimeconfig.json, 
+Herencia/Herencia/obj/Debug/netcoreapp5.0/ref/Herencia.dll, 
+Herencia/Herencia/obj/Debug/netcoreapp5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs, 
+Herencia/Herencia/obj/Debug/netcoreapp5.0/Herencia.AssemblyInfo.cs, 
+Herencia/Herencia/obj/Debug/netcoreapp5.0/Herencia.AssemblyInfoInputs.cache, 
+Herencia/Herencia/obj/Debug/netcoreapp5.0/Herencia.GeneratedMSBuildEditorConfig.editorconfig, 
+Herencia/Herencia/obj/Debug/netcoreapp5.0/Herencia.assets.cache, 
+Herencia/Herencia/obj/Debug/netcoreapp5.0/Herencia.csproj.AssemblyReference.cache, 
+Herencia/Herencia/obj/Debug/netcoreapp5.0/Herencia.csproj.CoreCompileInputs.cache, 
+Herencia/Herencia/obj/Debug/netcoreapp5.0/Herencia.csproj.FileListAbsolute.txt, 
+Herencia/Herencia/obj/Debug/netcoreapp5.0/Herencia.dll, 
+Herencia/Herencia/obj/Debug/netcoreapp5.0/Herencia.genruntimeconfig.cache, 
+Herencia/Herencia/obj/Debug/netcoreapp5.0/Herencia.pdb, 
+Herencia/Herencia/obj/Debug/netcoreapp5.0/apphost.exe, 
+Herencia/Herencia/obj/Herencia.csproj.nuget.cache, 
+Herencia/Herencia/obj/Herencia.csproj.nuget.dgspec.json, 
+Herencia/Herencia/obj/Herencia.csproj.nuget.g.props, 
+Herencia/Herencia/obj/Herencia.csproj.nuget.g.targets, 
+Herencia/Herencia/obj/project.assets.json, 
+Herencia/Herencia/obj/project.nuget.cache, 
+Herencia/Herencia/Herencia.csproj, 
+Herencia/Herencia/Hijo.cs, 
+Herencia/Herencia/Padre.cs, 
+Herencia/Herencia/Program.cs, 
+Herencia/Herencia.sln)
+
 ###### Listas, Entities - 14/02/20
 
 ###### Entities2 - 15/02/20
