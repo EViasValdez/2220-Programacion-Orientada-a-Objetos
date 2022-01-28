@@ -2,6 +2,7 @@
 **Nota: Lista con archivos todavia esta por definirse.**
 **Nota: Para ejecutar sin problemas los archivos se nececita .NET Core SDK 5.**
 
+## ● Unidad 1 ●
 ###### Proyecto1 - 18/01/20
 (Proyecto1/Proyecto1/bin/Debug/netcoreapp5.0/ref/Proyecto1.dll, 
 Proyecto1/Proyecto1/bin/Debug/netcoreapp5.0/Proyecto1.deps.json, 
@@ -119,6 +120,7 @@ Repaso/Repaso/Program.cs,
 Repaso/Repaso/Repaso.csproj, 
 Repaso/Repaso.sln)
 
+## ● Unidad 2 ●
 ###### metodoGetSet - 05/02/20
 (metodoGetSet/metodoGetSet/bin/Debug/netcoreapp5.0/ref/metodoGetSet.dll, 
 metodoGetSet/metodoGetSet/bin/Debug/netcoreapp5.0/metodoGetSet.deps.json, 
