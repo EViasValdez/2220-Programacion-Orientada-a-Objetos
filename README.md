@@ -1,6 +1,6 @@
 # Programacion Orientada a Objetos
 **Nota: Lista con archivos todavia esta por definirse.**
-**Nota: Para ejecutar sin problemas los archivos se nececita .NET Core SDK 5 (trabajo en proceso).**
+**Nota: Para ejecutar sin problemas los archivos se nececita .NET Core SDK 5.**
 
 ###### Proyecto1 - 18/01/20
 (Proyecto1/Proyecto1/bin/Debug/netcoreapp5.0/ref/Proyecto1.dll, 
@@ -242,5 +242,3 @@ Entities2/Entities2/EntDatos.cs,
 Entities2/Entities2/Entities2.csproj, 
 Entities2/Entities2/Program.cs, 
 Entities2/Entities2.sln)
-
-
