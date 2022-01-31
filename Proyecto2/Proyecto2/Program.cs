@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace Proyecto2
 {
     class Program

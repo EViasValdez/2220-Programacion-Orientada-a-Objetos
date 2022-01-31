@@ -21,12 +21,10 @@ namespace metodoGetSet
         //            {
         //                _nombre = "Juanito no es adoptado";
         //            }
-
         //            return _nombre;
         //        }
         //        set { _nombre = value; }
         //    }
-
         //}
     }
 }

@@ -8,12 +8,9 @@ namespace metodoGetSet
         {
             //Metodo m = new Metodo();
             //m.setValor("Eduardo");
-
             //Console.WriteLine(m.getValor());
-
             //Empleados e = new Empleados();
             //e.nombre = "Javier";
-
             //Console.ReadKey();
 
             Practica pract = new Practica();

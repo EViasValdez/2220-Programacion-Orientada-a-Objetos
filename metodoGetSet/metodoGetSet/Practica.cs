@@ -25,7 +25,6 @@ namespace metodoGetSet
             {
                 float i = 0.16f;
                 _Iva = _Iva * i;
-
                 return _Iva;
             }
             set { _Iva = value; }

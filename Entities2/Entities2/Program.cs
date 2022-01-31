@@ -9,7 +9,6 @@ namespace Entities2
         {
             List<EntDatos> L = new List<EntDatos>();
             Boolean sino;
-
             EntDatos data = new EntDatos();
 
             do

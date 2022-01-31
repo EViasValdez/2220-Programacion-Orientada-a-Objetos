@@ -36,7 +36,6 @@ namespace Calculadora
             {
                 calc.resta(numero1, numero2);
             }
-
         }
         public void suma(float numero1, float numero2)
         {
