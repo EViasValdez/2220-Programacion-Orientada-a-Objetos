@@ -25,6 +25,6 @@ namespace metodoGetSet
         //        }
         //        set { _nombre = value; }
         //    }
-        //}
+        //    }
     }
 }

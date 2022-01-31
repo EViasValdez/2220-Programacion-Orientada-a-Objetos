@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace Proyecto2
 {
     class Program
@@ -6,7 +7,6 @@ namespace Proyecto2
         static void Main(string[] args)
         {
             Persona Eduardo = new Persona();
-
             Console.WriteLine("El curp/id es " + Eduardo.id);
             Console.WriteLine("El nombre es " + Eduardo.nombre);
             Console.WriteLine("El apellido paterno es " + Eduardo.apellidoPaterno);
