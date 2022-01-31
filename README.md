@@ -1,6 +1,14 @@
 # Programacion Orientada a Objetos
-**Nota: Lista con archivos todavia esta por definirse.**
-**Nota: Para ejecutar sin problemas los archivos se nececita .NET Core SDK 5.**
+
+<!----Aqui van las notas---->
+**Notas**
+
+**- Lista con archivos todavia esta por definirse por completo.**
+
+**- Para ejecutar sin problemas los archivos se nececita el SDK de .NET Core 5.**
+
+**- Algunos documentos fueron modificados para poder usarse apropiadamente.**
+<!----Separador---->
 
 ## ● Unidad 1 ●
 ###### Proyecto1 - 18/01/20
