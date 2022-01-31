@@ -6,12 +6,12 @@ namespace metodoGetSet
     {
         static void Main(string[] args)
         {
-            //Metodo m = new Metodo();
-            //m.setValor("Eduardo");
-            //Console.WriteLine(m.getValor());
-            //Empleados e = new Empleados();
-            //e.nombre = "Javier";
-            //Console.ReadKey();
+            // Metodo m = new Metodo();
+            // m.setValor("Eduardo");
+            // Console.WriteLine(m.getValor());
+            // Empleados e = new Empleados();
+            // e.nombre = "Javier";
+            // Console.ReadKey();
 
             Practica pract = new Practica();
             Console.WriteLine("Ingrese el Id: ");

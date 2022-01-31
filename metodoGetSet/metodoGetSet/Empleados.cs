@@ -13,7 +13,7 @@ namespace metodoGetSet
         //    {
         //        get
         //        {
-        //            if(_nombre == "Juanito")
+        //            if (_nombre == "Juanito")
         //            {
         //                _nombre = "Juanito es adoptado";
         //            }

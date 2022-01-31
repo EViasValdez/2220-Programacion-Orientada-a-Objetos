@@ -6,10 +6,10 @@ namespace Proyecto1
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Hello World!");
+            // Console.WriteLine("Hello World!");
             Auto vehiculo = new Auto();
-            //Console.WriteLine("El modelo es " + vehiculo.modelo); 
-            //Console.WriteLine("La marca es " + vehiculo.marca);
+            // Console.WriteLine("El modelo es " + vehiculo.modelo); 
+            // Console.WriteLine("La marca es " + vehiculo.marca);
             string mode;
             string marc;
 

@@ -10,6 +10,7 @@ namespace Empleados
         {
             Personal per = new Personal();
             Nomina nom = new Nomina();
+            
             string otra = "";
             int i = 0;
 
