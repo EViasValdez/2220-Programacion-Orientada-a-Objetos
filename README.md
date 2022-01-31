@@ -1,6 +1,9 @@
 # Programacion Orientada a Objetos
+<!----Descripcion---->
+Para estos trabajos fueron los primeros en los que utlice para usar el lenguaje C#, aunque si es algo complicado de instalar.
+<!----Separador de la descripcion ---->
 
-<!----Aqui van las notas---->
+<!----Notas---->
 **Notas**
 
 **- Lista con archivos todavia esta por definirse por completo.**
