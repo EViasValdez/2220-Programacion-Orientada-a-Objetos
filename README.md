@@ -219,7 +219,7 @@ Herencia/Herencia/Hijo.cs,
 Herencia/Herencia/Padre.cs, 
 Herencia/Herencia/Program.cs, 
 Herencia/Herencia.sln)
-<!----Separador---->
+<!--Separador-->
 (HerenciaAct/HerenciaAct/bin/Debug/netcoreapp5.0/ref/Herencia.dll
 HerenciaAct/HerenciaAct/bin/Debug/netcoreapp5.0/HerenciaAct.deps.json
 HerenciaAct/HerenciaAct/bin/Debug/netcoreapp5.0/HerenciaAct.dll
@@ -282,7 +282,7 @@ Listas/Listas/obj/project.nuget.cache,
 Listas/Listas/Listas.csproj, 
 Listas/Listas/Program.cs, 
 Listas/Listas.sln)
-<!----Separador---->
+<!--Separador-->
 (Entities/Entities/bin/Debug/netcoreapp5.0/ref/Entities.dll, 
 Entities/Entities/bin/Debug/netcoreapp5.0/Entities.deps.json, 
 Entities/Entities/bin/Debug/netcoreapp5.0/Entities.dll, 
