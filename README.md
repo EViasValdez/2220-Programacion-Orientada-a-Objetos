@@ -6,8 +6,6 @@ Para estos trabajos fueron los primeros en los que utlice para usar el lenguaje 
 <!----Notas---->
 **Notas**
 
-**- Lista con archivos todavia esta por definirse por completo.**
-
 **- Para ejecutar sin problemas los archivos se nececita el SDK de .NET Core 5.**
 
 **- Algunos documentos fueron modificados para poder usarse apropiadamente.**
