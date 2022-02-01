@@ -1,6 +1,15 @@
 # Programacion Orientada a Objetos
-**Nota: Lista con archivos todavia esta por definirse.**
-**Nota: Para ejecutar sin problemas los archivos se nececita .NET Core SDK 5.**
+<!----Descripcion---->
+Para estos trabajos fueron los primeros en los que utlice para usar el lenguaje C#, aunque si es algo complicado de instalar.
+<!----Separador de la descripcion ---->
+
+<!----Notas---->
+**Notas**
+
+**- Para ejecutar sin problemas los archivos se nececita el SDK de .NET Core 5.**
+
+**- Algunos documentos fueron modificados para poder usarse apropiadamente.**
+<!----Separador---->
 
 ## ● Unidad 1 ●
 ###### Proyecto1 - 18/01/20
@@ -28,6 +37,7 @@ Proyecto1/Proyecto1/Auto.cs,
 Proyecto1/Proyecto1/Program.cs, 
 Proyecto1/Proyecto1/Proyecto1.csproj, 
 Proyecto1/Proyecto1.sln)
+<!----Separador---->
 ###### Proyecto2 - 22/01/20
 (Proyecto2/Proyecto2/bin/Debug/netcoreapp5.0/ref/Proyecto2.dll, 
 Proyecto2/Proyecto2/bin/Debug/netcoreapp5.0/Proyecto2.deps.json, 
@@ -50,6 +60,7 @@ Proyecto2/Proyecto2/obj/Debug/netcoreapp5.0/ref/apphost.exe,
 Proyecto2/Proyecto2/Auto.cs, Proyecto2/Proyecto2/Program.cs, 
 Proyecto2/Proyecto2/Proyecto2.csproj, 
 Proyecto2/Proyecto2.sln)
+<!----Separador---->
 ###### Calculadora - 24/01/20
 (Calculadora/.vs/Calculadora/DesignTimeBuild/.dtbcache.v2, 
 Calculadora/.vs/Calculadora/v16/.suo, 
@@ -100,6 +111,7 @@ Calculadora2/Calculadora2/obj/Debug/netcoreapp5.0/Calculadora2.pdb,
 Calculadora2/Calculadora2/obj/Debug/netcoreapp5.0/apphost.exe, 
 Calculadora2/Calculadora2/Calculadora2.csproj, 
 Calculadora2/Calculadora2/Program.cs)
+<!----Separador---->
 ###### Empleados - 31/01/20
 (Empleados/Empleados/obj/Debug/netcoreapp5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs, 
 Empleados/Empleados/obj/Debug/netcoreapp5.0/Empleados.AssemblyInfo.cs, 
@@ -174,6 +186,7 @@ metodoGetSet/metodoGetSet/Practica.cs,
 metodoGetSet/metodoGetSet/Program.cs, 
 metodoGetSet/metodoGetSet/metodoGetSet.csproj, 
 metodoGetSet/metodoGetSet.sln)
+<!----Separador---->
 ###### Herencia, HerenciaAct - 12/02/20
 (Herencia/Herencia/bin/Debug/netcoreapp5.0/ref/Herencia.dll, 
 Herencia/Herencia/bin/Debug/netcoreapp5.0/Herencia.deps.json, 
@@ -206,6 +219,7 @@ Herencia/Herencia/Hijo.cs,
 Herencia/Herencia/Padre.cs, 
 Herencia/Herencia/Program.cs, 
 Herencia/Herencia.sln)
+<!--Separador-->
 (HerenciaAct/HerenciaAct/bin/Debug/netcoreapp5.0/ref/Herencia.dll
 HerenciaAct/HerenciaAct/bin/Debug/netcoreapp5.0/HerenciaAct.deps.json
 HerenciaAct/HerenciaAct/bin/Debug/netcoreapp5.0/HerenciaAct.dll
@@ -238,6 +252,7 @@ HerenciaAct/HerenciaAct/Datos.cs
 HerenciaAct/HerenciaAct/Empleados.cs
 HerenciaAct/HerenciaAct/Program.cs
 HerenciaAct/HerenciaAct.sln)
+<!----Separador---->
 ###### Listas, Entities - 14/02/20
 (Listas/Listas/bin/Debug/netcoreapp5.0/ref/Listas.dll, 
 Listas/Listas/bin/Debug/netcoreapp5.0/Listas.deps.json, 
@@ -267,6 +282,7 @@ Listas/Listas/obj/project.nuget.cache,
 Listas/Listas/Listas.csproj, 
 Listas/Listas/Program.cs, 
 Listas/Listas.sln)
+<!--Separador-->
 (Entities/Entities/bin/Debug/netcoreapp5.0/ref/Entities.dll, 
 Entities/Entities/bin/Debug/netcoreapp5.0/Entities.deps.json, 
 Entities/Entities/bin/Debug/netcoreapp5.0/Entities.dll, 
@@ -297,6 +313,7 @@ Entities/Entities/Datos.cs,
 Entities/Entities/Entities.csproj, 
 Entities/Entities/Program.cs, 
 Entities/Entities.sln)
+<!----Separador---->
 ###### Entities2 - 15/02/20
 (Entities2/Entities2/bin/Debug/netcoreapp5.0/ref/Entities2.dll, 
 Entities2/Entities2/bin/Debug/netcoreapp5.0/Entities2.deps.json, 
