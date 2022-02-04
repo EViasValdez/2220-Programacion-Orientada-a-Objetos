@@ -11,6 +11,8 @@ Para estos trabajos fueron los primeros en los que utlice para usar el lenguaje 
 **- Algunos documentos fueron modificados para poder usarse apropiadamente.**
 <!----Separador---->
 
+<!----Lista de directorios y archivos---->
+# Lista de directorios y archivos
 ## ● Unidad 1 ●
 ###### Proyecto1 - 18/01/20
 (Proyecto1/Proyecto1/bin/Debug/netcoreapp5.0/ref/Proyecto1.dll, 
@@ -339,3 +341,4 @@ Entities2/Entities2/EntDatos.cs,
 Entities2/Entities2/Entities2.csproj, 
 Entities2/Entities2/Program.cs, 
 Entities2/Entities2.sln)
+<!----Separador de los directorios y archivos---->
