@@ -1,0 +1,16 @@
+C:\Users\defaultuser0\source\repos\actividadPendiente00\actividadPendiente00\obj\Debug\net5.0\actividadPendiente00.csproj.AssemblyReference.cache
+C:\Users\defaultuser0\source\repos\actividadPendiente00\actividadPendiente00\obj\Debug\net5.0\actividadPendiente00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\defaultuser0\source\repos\actividadPendiente00\actividadPendiente00\obj\Debug\net5.0\actividadPendiente00.AssemblyInfoInputs.cache
+C:\Users\defaultuser0\source\repos\actividadPendiente00\actividadPendiente00\obj\Debug\net5.0\actividadPendiente00.AssemblyInfo.cs
+C:\Users\defaultuser0\source\repos\actividadPendiente00\actividadPendiente00\obj\Debug\net5.0\actividadPendiente00.csproj.CoreCompileInputs.cache
+C:\Users\defaultuser0\source\repos\actividadPendiente00\actividadPendiente00\bin\Debug\net5.0\actividadPendiente00.exe
+C:\Users\defaultuser0\source\repos\actividadPendiente00\actividadPendiente00\bin\Debug\net5.0\actividadPendiente00.deps.json
+C:\Users\defaultuser0\source\repos\actividadPendiente00\actividadPendiente00\bin\Debug\net5.0\actividadPendiente00.runtimeconfig.json
+C:\Users\defaultuser0\source\repos\actividadPendiente00\actividadPendiente00\bin\Debug\net5.0\actividadPendiente00.runtimeconfig.dev.json
+C:\Users\defaultuser0\source\repos\actividadPendiente00\actividadPendiente00\bin\Debug\net5.0\actividadPendiente00.dll
+C:\Users\defaultuser0\source\repos\actividadPendiente00\actividadPendiente00\bin\Debug\net5.0\ref\actividadPendiente00.dll
+C:\Users\defaultuser0\source\repos\actividadPendiente00\actividadPendiente00\bin\Debug\net5.0\actividadPendiente00.pdb
+C:\Users\defaultuser0\source\repos\actividadPendiente00\actividadPendiente00\obj\Debug\net5.0\actividadPendiente00.dll
+C:\Users\defaultuser0\source\repos\actividadPendiente00\actividadPendiente00\obj\Debug\net5.0\ref\actividadPendiente00.dll
+C:\Users\defaultuser0\source\repos\actividadPendiente00\actividadPendiente00\obj\Debug\net5.0\actividadPendiente00.pdb
+C:\Users\defaultuser0\source\repos\actividadPendiente00\actividadPendiente00\obj\Debug\net5.0\actividadPendiente00.genruntimeconfig.cache
