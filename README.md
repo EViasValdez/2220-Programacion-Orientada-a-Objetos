@@ -10,7 +10,7 @@ Para estos trabajos fueron los primeros en los que utlice para usar el lenguaje 
 
 **- Algunos documentos fueron modificados para poder usarse apropiadamente.**
 
-**- El proyecto "actividadPendiente00" es un archivo el cual me habia quedado pendiente de realizar de la misma forma que varios de los archivos aqui mostrados**
+**- El proyecto "actividadPendiente00" es un archivo el cual me habia quedado pendiente de realizar de la misma forma que varios de los archivos aqui mostrados.**
 <!----Separador---->
 
 <!----Lista de directorios y archivos---->
