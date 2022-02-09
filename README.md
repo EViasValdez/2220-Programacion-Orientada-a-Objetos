@@ -6,11 +6,12 @@ Para estos trabajos fueron los primeros en los que utlice para usar el lenguaje 
 <!----Notas---->
 **Notas**
 
-**- Para ejecutar sin problemas los archivos se nececita el SDK de .NET Core 5.**
+**- Para ejecutar sin problemas los archivos se nececita tener instalado el SDK de .NET Core 5.**
 
 **- Algunos documentos fueron modificados para poder usarse apropiadamente.**
 
 **- El proyecto "actividadPendiente00" es un archivo el cual me habia quedado pendiente de realizar de la misma forma que varios de los archivos aqui mostrados.**
+
 <!----Separador---->
 
 <!----Lista de directorios y archivos---->
