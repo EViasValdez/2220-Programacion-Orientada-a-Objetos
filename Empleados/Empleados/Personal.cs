@@ -11,7 +11,7 @@ namespace Empleados
         public string fechadenacimiento;
         public int sueldo;
 
-        public Personal ()
+        public Personal()
         {
             identificador = "74JF84S";
             nombre = "Eduardo Viñas Valdez";

@@ -7,12 +7,12 @@ namespace Asesorias
     {
         static void Main(string[] args)
         {
-			// Clase main con menu
+			// Clase main con menu.
             Console.WriteLine("==····==");
             Console.WriteLine("Sea bienvenido");
             bool electo = false;
             string sino;
-            // Crear una repeticion en el programa
+            // Crear una repeticion en el programa.
             do
 			{
                 Console.WriteLine("¿Que accion desea realizar?");
@@ -33,7 +33,7 @@ namespace Asesorias
                     Console.WriteLine("6. Mouse");
                     clase = (Console.ReadLine());
 
-                //Pantalla de seleccion usando if
+                // Pantalla de seleccion usando if
                 if (clase == "1")
                 {
                     Auto vehiculo = new Auto(); // Llamada de la clase
@@ -71,13 +71,13 @@ namespace Asesorias
                 }
                 }
                 else
-                if (accion == "borrar") //Abrir el metodo borrar
+                if (accion == "borrar") // Abrir el metodo borrar.
                 {
                     Console.WriteLine("Usted eligio borrar");
                     Console.WriteLine("Eliga una clase");
 
                 string clase2;
-                Console.WriteLine("1. Auto"); // Unicamente funciona la primera opcion
+                Console.WriteLine("1. Auto"); // Unicamente funciona la primera opcion.
                 Console.WriteLine("2. Computadora");
                 Console.WriteLine("3. Banco");
                 Console.WriteLine("4. Pizarron");
@@ -98,22 +98,22 @@ namespace Asesorias
                 }while(electo);
         }
     }
-    public class Auto // Clase del auto
+    public class Auto // Clase del auto.
     {
-        public string tipoauto { get; set; } // Generacion de elementos
+        public string tipoauto { get; set; } // Generacion de elementos.
         public string marca { get; set; }
         public string modelo { get; set; }
         public string codigoplaca { get; set; }
         public int numserie { get; set; }
         public int numasientos { get; set; }
-        public void mostrarauto() // Metodo para convocar por medio de la clase
+        public void mostrarauto() // Metodo para convocar por medio de la clase.
         {
             Console.WriteLine("Usted eligio la opcion Automobil, ingrese cualquier tecla para continuar");
             Console.ReadKey();
             Auto automobil = new Auto();
-            List<Auto> ListaAuto = new List<Auto>(); // Generacion de una lista
+            List<Auto> ListaAuto = new List<Auto>(); // Generacion de una lista.
             Console.WriteLine("Ingrese la informacion"); 
-            Console.WriteLine("Ponga el tipo de auto"); // Ingreso de datos
+            Console.WriteLine("Ponga el tipo de auto"); // Ingreso de datos.
             automobil.tipoauto = Console.ReadLine();
             Console.WriteLine("Ponga la marca");
             automobil.marca = Console.ReadLine();
@@ -122,27 +122,27 @@ namespace Asesorias
             Console.WriteLine("Ponga el numero de asientos");
             automobil.numasientos = int.Parse(Console.ReadLine());
 
-            ListaAuto.Add(automobil); // Registro de datos en la lista
+            ListaAuto.Add(automobil); // Registro de datos en la lista.
 
             Console.WriteLine("====================");
             Console.ReadKey();
 
             foreach (Auto au in ListaAuto)
             {
-                Console.WriteLine("Aqui estan los datos ingresados"); // Retorno de datos
+                Console.WriteLine("Aqui estan los datos ingresados"); // Retorno de datos.
                 Console.WriteLine("Tipo de auto: " + automobil.tipoauto);
                 Console.WriteLine("Marca: " + automobil.marca);
                 Console.WriteLine("Modelo: " + automobil.modelo);
                 Console.WriteLine("Numero de asientos: " + automobil.numasientos);
             }
         }
-        public void borrarauto() // Metodo bara borrar datos por medio de la clase
+        public void borrarauto() // Metodo bara borrar datos por medio de la clase.
         {
           Console.WriteLine("Este metodo esta inconcluso");
         }
     }
 
-        public class Computadora // Clase de la computadora
+        public class Computadora // Clase de la computadora.
         {
 		public string marca { get; set; }
         public string modelo { get; set; }
@@ -167,7 +167,7 @@ namespace Asesorias
             ListaComp.Add(ordenador);
 
             Console.WriteLine("====================");
-            Console.ReadKey(); // Retorno de datos
+            Console.ReadKey(); // Retorno de datos.
 
             foreach (Computadora orden in ListaComp)
             {
@@ -179,7 +179,7 @@ namespace Asesorias
             }
         }
     }
-    public class Banco // Clase del Banco
+    public class Banco // Clase del Banco.
     {
         public string nombrebanco { get; set; }
         public string sucursal { get; set; }
@@ -203,7 +203,7 @@ namespace Asesorias
             ListaBanco.Add(banca);
 
 			Console.WriteLine("====================");
-            Console.ReadKey(); // Retorno de datos
+            Console.ReadKey(); // Retorno de datos.
 
             foreach (Banco banc in ListaBanco)
             {
@@ -216,7 +216,7 @@ namespace Asesorias
         }
     }
 
-    public class Pizarron // Clase del pizarron
+    public class Pizarron // Clase del pizarron.
     {
         public string marca { get; set; }
         public string color { get; set; }
@@ -240,7 +240,7 @@ namespace Asesorias
             ListaPizarron.Add(pizarra);
 
 			Console.WriteLine("====================");
-            Console.ReadKey(); // Retorno de datos
+            Console.ReadKey(); // Retorno de datos.
 
             foreach (Pizarron pizar in ListaPizarron)
             {
@@ -253,7 +253,7 @@ namespace Asesorias
         }
     }
 
-    public class Teclado // Clase del teclado
+    public class Teclado // Clase del teclado.
     {
         public string marca { get; set; }
         public string color { get; set; }
@@ -277,7 +277,7 @@ namespace Asesorias
             ListaTeclado.Add(key);
 
             Console.WriteLine("====================");
-            Console.ReadKey(); // Retorno de datos
+            Console.ReadKey(); // Retorno de datos.
 
             foreach (Teclado tecl in ListaTeclado)
             {
@@ -289,7 +289,7 @@ namespace Asesorias
             }
         }
     }
-    public class Mouse // Clase del mouse
+    public class Mouse // Clase del mouse.
     {
         public string marca { get; set; }
         public string color { get; set; }

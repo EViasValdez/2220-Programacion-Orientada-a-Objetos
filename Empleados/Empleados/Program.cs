@@ -35,7 +35,8 @@ namespace Empleados
                     float salario = nom.calculo(dias, per.sueldo);
                     Console.WriteLine("El empleado " + per.nombre + per.identificador + per.fechadenacimiento + "Tiene un saldo de:" + salario);
                 }
-            }while(i < 2);
+            }
+            while(i < 2);
         }
     }
 }
