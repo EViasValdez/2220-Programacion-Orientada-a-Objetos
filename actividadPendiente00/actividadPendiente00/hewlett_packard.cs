@@ -17,7 +17,6 @@ namespace actividadPendiente00
         public string memoriaram;
         public string procesador;
         public string tarjetagrafica;
-
         public hewlett_packard()
         {
             id = "KN7V6CTV";

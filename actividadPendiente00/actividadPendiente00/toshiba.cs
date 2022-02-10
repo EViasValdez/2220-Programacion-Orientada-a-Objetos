@@ -17,7 +17,6 @@ namespace actividadPendiente00
         public string memoriaram;
         public string procesador;
         public string tarjetagrafica;
-
         public toshiba()
         {
             id = "JE2S4B5G";

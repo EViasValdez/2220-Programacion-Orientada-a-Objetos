@@ -179,7 +179,7 @@ namespace Asesorias
             }
         }
     }
-    public class Banco // Clase del Banco.
+    public class Banco // Clase del banco.
     {
         public string nombrebanco { get; set; }
         public string sucursal { get; set; }
