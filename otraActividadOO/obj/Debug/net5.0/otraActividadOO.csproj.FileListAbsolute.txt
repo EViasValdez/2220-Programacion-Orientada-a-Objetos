@@ -1,5 +1,0 @@
-E:\otraActividadOO\obj\Debug\net5.0\otraActividadOO.csproj.AssemblyReference.cache
-E:\otraActividadOO\obj\Debug\net5.0\otraActividadOO.GeneratedMSBuildEditorConfig.editorconfig
-E:\otraActividadOO\obj\Debug\net5.0\otraActividadOO.AssemblyInfoInputs.cache
-E:\otraActividadOO\obj\Debug\net5.0\otraActividadOO.AssemblyInfo.cs
-E:\otraActividadOO\obj\Debug\net5.0\otraActividadOO.csproj.CoreCompileInputs.cache
