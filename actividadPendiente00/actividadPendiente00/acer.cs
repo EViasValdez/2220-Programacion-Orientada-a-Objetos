@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace actividadPendiente00
 {
-    class hewlett_packard
+    class acer
     {
         public string id;
         public string marca;
@@ -17,16 +17,16 @@ namespace actividadPendiente00
         public string memoriaram;
         public string procesador;
         public string tarjetagrafica;
-        public hewlett_packard()
+        public acer()
         {
-            id = "KN7V6CTV";
-            marca = "HP";
-            modelo = "Pavilion 15-eh0003la";
-            tipo = "Laptop";
+            id = "N5CV2MYZ";
+            marca = "Acer";
+            modelo = "Aspire C24";
+            tipo = "All-in-One";
             sistemaoperativo = "Windows 10";
-            capacidad = "256 GBs en SSD";
+            capacidad = "1TB en HDD";
             memoriaram = "8 GBs";
-            procesador = "Intel Core i7-1165G7";
+            procesador = "Intel Core i3 i3-1005G1";
             tarjetagrafica = "Graficos integrados";
         }
     }

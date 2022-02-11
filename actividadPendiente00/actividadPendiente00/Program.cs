@@ -19,6 +19,7 @@ namespace actividadPendiente00
             Console.WriteLine("1. Toshiba");
             Console.WriteLine("2. Lenovo");
             Console.WriteLine("3. Hewlett-Packard");
+            Console.WriteLine("4. Acer");
             Console.WriteLine("Eliga la opcion deseada con el numero marcado");
             Console.WriteLine("                                       ");
 
@@ -27,6 +28,7 @@ namespace actividadPendiente00
             toshiba tsba = new toshiba();
             lenovo lnvo = new lenovo();
             hewlett_packard hepa = new hewlett_packard();
+            acer acer = new acer();
 
             if (opcion == "1")
             {
@@ -65,6 +67,19 @@ namespace actividadPendiente00
                 Console.WriteLine("Capacidad de memoria: " + hepa.capacidad);
                 Console.WriteLine("Procesador: " + hepa.procesador);
                 Console.WriteLine("Tarjeta grafica: " + hepa.tarjetagrafica);
+            }
+            else
+            if (opcion == "4")
+            {
+                Console.WriteLine("► Detalles del producto ◄");
+                Console.WriteLine("Id del producto: " + acer.id);
+                Console.WriteLine("Marca: " + acer.marca);
+                Console.WriteLine("Modelo: " + acer.modelo);
+                Console.WriteLine("Tipo de computadora: " + acer.tipo);
+                Console.WriteLine("Sistema operativo: " + acer.sistemaoperativo);
+                Console.WriteLine("Capacidad de memoria: " + acer.capacidad);
+                Console.WriteLine("Procesador: " + acer.procesador);
+                Console.WriteLine("Tarjeta grafica: " + acer.tarjetagrafica);
             }
             Console.ReadKey();
         }

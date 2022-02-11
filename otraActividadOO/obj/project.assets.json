@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2220-Programacion-Orientada-a-Objetos\\actividadPendiente00\\actividadPendiente00\\actividadPendiente00.csproj",
-      "projectName": "actividadPendiente00",
-      "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2220-Programacion-Orientada-a-Objetos\\actividadPendiente00\\actividadPendiente00\\actividadPendiente00.csproj",
+      "projectUniqueName": "E:\\otraActividadOO\\otraActividadOO.csproj",
+      "projectName": "otraActividadOO",
+      "projectPath": "E:\\otraActividadOO\\otraActividadOO.csproj",
       "packagesPath": "C:\\Users\\defaultuser0\\.nuget\\packages\\",
-      "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2220-Programacion-Orientada-a-Objetos\\actividadPendiente00\\actividadPendiente00\\obj\\",
+      "outputPath": "E:\\otraActividadOO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\defaultuser0\\AppData\\Roaming\\NuGet\\NuGet.Config"
