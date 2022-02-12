@@ -10,7 +10,7 @@ Para estos trabajos fueron los primeros en los que utlice para usar el lenguaje 
 
 **- Algunos documentos fueron modificados para poder usarse apropiadamente.**
 
-**- La carpeta "actividadPendiente00" es una actividad la cual no pude pasar a archivo en su momento pero pude hacerlo desde cero y lo puse aqui.**
+**- La carpeta "actividadPendienteOO" es una actividad la cual no pude pasar a archivo en su momento pero pude hacerlo desde cero y lo puse aqui.**
 
 **- Cambie los tipos de aplicacion de netcoreapp2.1 a netcoreapp5.0, fue porque no funcionaba correctamente bajo un viejo motor.**
 <!----Separador---->
