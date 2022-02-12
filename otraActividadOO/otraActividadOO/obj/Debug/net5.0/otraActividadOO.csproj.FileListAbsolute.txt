@@ -1,0 +1,16 @@
+C:\Users\defaultuser0\source\repos\otraActividadOO\otraActividadOO\bin\Debug\net5.0\otraActividadOO.exe
+C:\Users\defaultuser0\source\repos\otraActividadOO\otraActividadOO\bin\Debug\net5.0\otraActividadOO.deps.json
+C:\Users\defaultuser0\source\repos\otraActividadOO\otraActividadOO\bin\Debug\net5.0\otraActividadOO.runtimeconfig.json
+C:\Users\defaultuser0\source\repos\otraActividadOO\otraActividadOO\bin\Debug\net5.0\otraActividadOO.runtimeconfig.dev.json
+C:\Users\defaultuser0\source\repos\otraActividadOO\otraActividadOO\bin\Debug\net5.0\otraActividadOO.dll
+C:\Users\defaultuser0\source\repos\otraActividadOO\otraActividadOO\bin\Debug\net5.0\ref\otraActividadOO.dll
+C:\Users\defaultuser0\source\repos\otraActividadOO\otraActividadOO\bin\Debug\net5.0\otraActividadOO.pdb
+C:\Users\defaultuser0\source\repos\otraActividadOO\otraActividadOO\obj\Debug\net5.0\otraActividadOO.csproj.AssemblyReference.cache
+C:\Users\defaultuser0\source\repos\otraActividadOO\otraActividadOO\obj\Debug\net5.0\otraActividadOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\defaultuser0\source\repos\otraActividadOO\otraActividadOO\obj\Debug\net5.0\otraActividadOO.AssemblyInfoInputs.cache
+C:\Users\defaultuser0\source\repos\otraActividadOO\otraActividadOO\obj\Debug\net5.0\otraActividadOO.AssemblyInfo.cs
+C:\Users\defaultuser0\source\repos\otraActividadOO\otraActividadOO\obj\Debug\net5.0\otraActividadOO.csproj.CoreCompileInputs.cache
+C:\Users\defaultuser0\source\repos\otraActividadOO\otraActividadOO\obj\Debug\net5.0\otraActividadOO.dll
+C:\Users\defaultuser0\source\repos\otraActividadOO\otraActividadOO\obj\Debug\net5.0\ref\otraActividadOO.dll
+C:\Users\defaultuser0\source\repos\otraActividadOO\otraActividadOO\obj\Debug\net5.0\otraActividadOO.pdb
+C:\Users\defaultuser0\source\repos\otraActividadOO\otraActividadOO\obj\Debug\net5.0\otraActividadOO.genruntimeconfig.cache
