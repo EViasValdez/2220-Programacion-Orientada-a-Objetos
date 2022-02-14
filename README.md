@@ -345,4 +345,6 @@ Entities2/Entities2/EntDatos.cs,
 Entities2/Entities2/Entities2.csproj, 
 Entities2/Entities2/Program.cs, 
 Entities2/Entities2.sln)
+<!----Separador---->
+###### ActividadPendienteOO, OtraActividadOO - 10/10/2020
 <!----Separador de los directorios y archivos---->
