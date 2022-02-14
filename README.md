@@ -10,7 +10,7 @@ Para estos trabajos fueron los primeros en los que utlice para usar el lenguaje 
 
 **- Algunos documentos fueron modificados para poder usarse apropiadamente.**
 
-**- Los proyectos "ActividadPendienteOO" y "OtraActividadOO" son actividades que no pude pasar a proyectos propios en su momento pero pude hacerlos desde cero y los puse aqui.**
+**- Los proyectos "ActividadPendienteOO" y "OtraActividadOO" son actividades que no pude pasar a proyectos propios en su momento pero pude hacerlos desde cero y los puse aqui, tambien fueron ejercicios que hice durante el periodo extraordinario para recuperar materias.**
 
 **- Cambie los tipos de aplicacion de netcoreapp2.1 a netcoreapp5.0, fue porque no funcionaba correctamente bajo un viejo motor.**
 <!----Separador---->
@@ -345,4 +345,65 @@ Entities2/Entities2/EntDatos.cs,
 Entities2/Entities2/Entities2.csproj, 
 Entities2/Entities2/Program.cs, 
 Entities2/Entities2.sln)
+<!----Separador---->
+###### ActividadPendienteOO, OtraActividadOO - 10/10/2020
+(ActividadPendienteOO/.vs/ActividadPendienteOO/DesignTimeBuild/.dtbcache.v2, 
+ActividadPendienteOO/.vs/ActividadPendienteOO/v16/.suo, 
+ActividadPendienteOO/ActividadPendienteOO/bin/Debug/net5.0/ref/ActividadPendienteOO.dll, 
+ActividadPendienteOO/ActividadPendienteOO/bin/Debug/net5.0/ActividadPendienteOO.deps.json, 
+ActividadPendienteOO/ActividadPendienteOO/bin/Debug/net5.0/ActividadPendienteOO.dll, 
+ActividadPendienteOO/ActividadPendienteOO/bin/Debug/net5.0/ActividadPendienteOO.exe, 
+ActividadPendienteOO/ActividadPendienteOO/bin/Debug/net5.0/ActividadPendienteOO.pdb, 
+ActividadPendienteOO/ActividadPendienteOO/bin/Debug/net5.0/ActividadPendienteOO.runtimeconfig.dev.json, 
+ActividadPendienteOO/ActividadPendienteOO/bin/Debug/net5.0/ActividadPendienteOO.runtimeconfig.json, 
+ActividadPendienteOO/ActividadPendienteOO/obj/Debug/net5.0/ref/ActividadPendienteOO.dll, 
+ActividadPendienteOO/ActividadPendienteOO/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs, 
+ActividadPendienteOO/ActividadPendienteOO/obj/Debug/net5.0/ActividadPendienteOO.AssemblyInfo.cs, 
+ActividadPendienteOO/ActividadPendienteOO/obj/Debug/net5.0/ActividadPendienteOO.AssemblyInfoInputs.cache, 
+ActividadPendienteOO/ActividadPendienteOO/obj/Debug/net5.0/ActividadPendienteOO.GeneratedMSBuildEditorConfig.exe, 
+ActividadPendienteOO/ActividadPendienteOO/obj/Debug/net5.0/ActividadPendienteOO.assets.cache, 
+ActividadPendienteOO/ActividadPendienteOO/obj/Debug/net5.0/ActividadPendienteOO.csproj.AssemblyReference.cache, 
+ActividadPendienteOO/ActividadPendienteOO/obj/Debug/net5.0/ActividadPendienteOO.csproj.CoreCompileInputs.cache, 
+ActividadPendienteOO/ActividadPendienteOO/obj/Debug/net5.0/ActividadPendienteOO.csproj.FileListAbsolute.txt, 
+ActividadPendienteOO/ActividadPendienteOO/obj/Debug/net5.0/ActividadPendienteOO.dll, 
+ActividadPendienteOO/ActividadPendienteOO/obj/Debug/net5.0/ActividadPendienteOO.genruntimeconfig.cache, 
+ActividadPendienteOO/ActividadPendienteOO/obj/Debug/net5.0/ActividadPendienteOO.pdb, 
+ActividadPendienteOO/ActividadPendienteOO/obj/Debug/net5.0/apphost.exe, 
+ActividadPendienteOO/ActividadPendienteOO/ActividadPendienteOO.csproj, 
+ActividadPendienteOO/ActividadPendienteOO/Program.cs, 
+ActividadPendienteOO/ActividadPendienteOO/acer.cs, 
+ActividadPendienteOO/ActividadPendienteOO/hewlett_packard.cs, 
+ActividadPendienteOO/ActividadPendienteOO/lenovo.cs, 
+ActividadPendienteOO/ActividadPendienteOO/toshiba.cs, 
+ActividadPendienteOO/ActividadPendienteOO.sln)
+<!--Separador-->
+(OtraActividadOO/.vs/OtraActividadOO/DesignTimeBuild/.dtbcache.v2, 
+OtraActividadOO/.vs/OtraActividadOO/v16/.suo, 
+OtraActividadOO/OtraActividadOO/bin/Debug/net5.0/ref/OtraActividadOO.dll, 
+OtraActividadOO/OtraActividadOO/bin/Debug/net5.0/OtraActividadOO.deps.json, 
+OtraActividadOO/OtraActividadOO/bin/Debug/net5.0/OtraActividadOO.dll, 
+OtraActividadOO/OtraActividadOO/bin/Debug/net5.0/OtraActividadOO.exe, 
+OtraActividadOO/OtraActividadOO/bin/Debug/net5.0/OtraActividadOO.pdb, 
+OtraActividadOO/OtraActividadOO/bin/Debug/net5.0/OtraActividadOO.runtimeconfig.dev.json, 
+OtraActividadOO/OtraActividadOO/bin/Debug/net5.0/OtraActividadOO.runtimeconfig.json, 
+OtraActividadOO/OtraActividadOO/obj/Debug/net5.0/ref/OtraActividadOO.dll, 
+OtraActividadOO/OtraActividadOO/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs, 
+OtraActividadOO/OtraActividadOO/obj/Debug/net5.0/OtraActividadOO.AssemblyInfo.cs, 
+OtraActividadOO/OtraActividadOO/obj/Debug/net5.0/OtraActividadOO.AssemblyInfoInputs.cache, 
+OtraActividadOO/OtraActividadOO/obj/Debug/net5.0/OtraActividadOO.GeneratedMSBuildEditorConfig.exe, 
+OtraActividadOO/OtraActividadOO/obj/Debug/net5.0/OtraActividadOO.assets.cache, 
+OtraActividadOO/OtraActividadOO/obj/Debug/net5.0/OtraActividadOO.csproj.AssemblyReference.cache, 
+OtraActividadOO/OtraActividadOO/obj/Debug/net5.0/OtraActividadOO.csproj.CoreCompileInputs.cache, 
+OtraActividadOO/OtraActividadOO/obj/Debug/net5.0/OtraActividadOO.csproj.FileListAbsolute.txt, 
+OtraActividadOO/OtraActividadOO/obj/Debug/net5.0/OtraActividadOO.dll, 
+OtraActividadOO/OtraActividadOO/obj/Debug/net5.0/OtraActividadOO.genruntimeconfig.cache, 
+OtraActividadOO/OtraActividadOO/obj/Debug/net5.0/OtraActividadOO.pdb, 
+OtraActividadOO/OtraActividadOO/obj/Debug/net5.0/apphost.exe, 
+OtraActividadOO/OtraActividadOO/OtraActividadOO.csproj, 
+OtraActividadOO/OtraActividadOO/Program.cs, 
+OtraActividadOO/OtraActividadOO/acer.cs, 
+OtraActividadOO/OtraActividadOO/hewlett_packard.cs, 
+OtraActividadOO/OtraActividadOO/lenovo.cs, 
+OtraActividadOO/OtraActividadOO/toshiba.cs, 
+OtraActividadOO/OtraActividadOO.sln)
 <!----Separador de los directorios y archivos---->
