@@ -10,7 +10,7 @@ Para estos trabajos fueron los primeros en los que utlice para usar el lenguaje 
 
 **- Algunos documentos fueron modificados para poder usarse apropiadamente.**
 
-**- Los proyectos "ActividadPendienteOO" y "OtraActividadOO" son actividades que no pude pasar a proyectos propios en su momento pero pude hacerlos desde cero y los puse aqui.**
+**- Los proyectos "ActividadPendienteOO" y "OtraActividadOO" son actividades que no pude pasar a proyectos propios en su momento pero pude hacerlos desde cero y los puse aqui, tambien fueron ejercicios que hice durante el periodo extraordinario para recuperar materias.**
 
 **- Cambie los tipos de aplicacion de netcoreapp2.1 a netcoreapp5.0, fue porque no funcionaba correctamente bajo un viejo motor.**
 <!----Separador---->
