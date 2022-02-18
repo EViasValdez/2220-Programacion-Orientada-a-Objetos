@@ -33,69 +33,74 @@ namespace Asesorias
                     Console.WriteLine("6. Mouse");
                     clase = (Console.ReadLine());
 
-                // Pantalla de seleccion usando if
-                if (clase == "1")
-                {
-                    Auto vehiculo = new Auto(); // Llamada de la clase
-                    vehiculo.mostrarauto(); // Llamada del metodo
-                }
-                else
-                if (clase == "2")
-                {
-                    Computadora computador = new Computadora();
-                    computador.mostrarcomputadora();
-                }
-                else
-                if (clase == "3")
-                {
-                    Banco banca = new Banco();
-                    banca.mostrarbanco();
-                }
-                else
-                if (clase == "4")
-                {
-                    Pizarron pizar = new Pizarron();
-                    pizar.mostrarpizarron();
-                }
-                else
-                if (clase == "5")
-                {
-                    Teclado tecl = new Teclado();
-                    tecl.mostrarteclado();
-                }
-                else
-                if (clase == "6")
-                {
-                    Mouse rato = new Mouse();
-                    rato.mostrarmouse();
-                }
-                }
-                else
-                if (accion == "borrar") // Abrir el metodo borrar.
-                {
-                    Console.WriteLine("Usted eligio borrar");
-                    Console.WriteLine("Eliga una clase");
+                    // Pantalla de seleccion usando if.
+                    if (clase == "1")
+                    {
+                        Auto vehiculo = new Auto(); // Llamada de la clase.
+                        vehiculo.mostrarauto(); // Llamada del metodo.
+                    }
+                    else
+                    if (clase == "2")
+                    {
+                        Computadora computador = new Computadora();
+                        computador.mostrarcomputadora();
+                    }
+                    else
+                    if (clase == "3")
+                    {
+                        Banco banca = new Banco();
+                        banca.mostrarbanco();
+                    }
+                    else
+                    if (clase == "4")
+                    {
+                        Pizarron pizar = new Pizarron();
+                        pizar.mostrarpizarron();
+                    }
+                    else
+                    if (clase == "5")
+                    {
+                        Teclado tecl = new Teclado();
+                        tecl.mostrarteclado();
+                    }
+                    else
+                    if (clase == "6")
+                    {
+                        Mouse rato = new Mouse();
+                        rato.mostrarmouse();
+                    }
+                    }
+                    else
+                    if (accion == "borrar") // Abrir el metodo "borrar".
+                    {
+                        Console.WriteLine("Usted eligio borrar");
+                        Console.WriteLine("Eliga una clase");
 
-                string clase2;
-                Console.WriteLine("1. Auto"); // Unicamente funciona la primera opcion.
-                Console.WriteLine("2. Computadora");
-                Console.WriteLine("3. Banco");
-                Console.WriteLine("4. Pizarron");
-                Console.WriteLine("5. Teclado");
-                Console.WriteLine("6. Mouse");
-                clase2 = (Console.ReadLine());
+                    string clase2;
 
-                if (clase2 == "1")
-                {
-			        Auto auto2 = new Auto();
-			        auto2.borrarauto();
-                }
-                }
-                electo = true;
-                Console.WriteLine("¿Desea agregar otros datos?");
-			    sino = Console.ReadLine();
-                if (sino.ToLower().Equals("no")) electo = false;
-                }while(electo);
+                    Console.WriteLine("1. Auto"); // Unicamente funciona la primera opcion.
+                    Console.WriteLine("2. Computadora");
+                    Console.WriteLine("3. Banco");
+                    Console.WriteLine("4. Pizarron");
+                    Console.WriteLine("5. Teclado");
+                    Console.WriteLine("6. Mouse");
+                    clase2 = (Console.ReadLine());
+
+                    if (clase2 == "1")
+                    {
+			            Auto auto2 = new Auto();
+			            auto2.borrarauto();
+                    }
+                    }
+                    electo = true;
+                    
+                    Console.WriteLine("¿Desea agregar otros datos?");
+			        sino = Console.ReadLine();
+
+                    if (sino.ToLower().Equals("no")){
+                        electo = false;
+                    }
+                } while(electo);
         }
     }
     public class Auto // Clase del auto.
