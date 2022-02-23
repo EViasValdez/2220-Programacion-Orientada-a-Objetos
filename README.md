@@ -15,8 +15,8 @@ Para estos trabajos fueron los primeros en los que utlice para usar el lenguaje 
 **- Cambie los tipos de aplicacion de netcoreapp2.1 a netcoreapp5.0, fue porque varios proyectos no funcionaban correctamente con el motor nuevo.**
 <!----Separador---->
 
-<!----Directorio de archivos---->
-# Directorio de archivos
+<!----Directorio con ubicacion de archivos---->
+# Directorio con ubicacion de archivos
 ## ● Unidad 1 ●
 ###### Proyecto1 - 18/01/20
 (Proyecto1/Proyecto1/bin/Debug/netcoreapp5.0/ref/Proyecto1.dll, 
@@ -406,4 +406,4 @@ OtraActividadOO/OtraActividadOO/hewlett_packard.cs,
 OtraActividadOO/OtraActividadOO/lenovo.cs, 
 OtraActividadOO/OtraActividadOO/toshiba.cs, 
 OtraActividadOO/OtraActividadOO.sln)
-<!----Separador de los directorios y archivos---->
+<!----Separador del direrctorio con ubicacion de archivos---->
