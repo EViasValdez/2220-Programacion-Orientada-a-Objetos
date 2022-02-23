@@ -15,8 +15,8 @@ Para estos trabajos fueron los primeros en los que utlice para usar el lenguaje 
 **- Cambie los tipos de aplicacion de netcoreapp2.1 a netcoreapp5.0, fue porque varios proyectos no funcionaban correctamente con el motor nuevo.**
 <!----Separador---->
 
-<!----Lista de directorios y archivos---->
-# Lista de directorios y archivos
+<!----Directorio de archivos---->
+# Directorio de archivos
 ## ● Unidad 1 ●
 ###### Proyecto1 - 18/01/20
 (Proyecto1/Proyecto1/bin/Debug/netcoreapp5.0/ref/Proyecto1.dll, 
