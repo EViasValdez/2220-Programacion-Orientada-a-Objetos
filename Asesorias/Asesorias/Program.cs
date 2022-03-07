@@ -116,7 +116,7 @@ namespace Asesorias
             Console.WriteLine("Usted eligio la opcion Automobil, ingrese cualquier tecla para continuar");
             Console.ReadKey();
             Auto automobil = new Auto();
-            List<Auto> ListaAuto = new List<Auto>(); // Generacion de una lista.
+            List <Auto> ListaAuto = new List <Auto>(); // Generacion de una lista.
             Console.WriteLine("Ingrese la informacion"); 
             Console.WriteLine("Ponga el tipo de auto"); // Ingreso de datos.
             automobil.tipoauto = Console.ReadLine();
@@ -158,7 +158,7 @@ namespace Asesorias
             Console.WriteLine("Usted eligio la opcion Computadora, ingrese cualquier tecla para continuar");
             Console.ReadKey();
             Computadora ordenador = new Computadora();
-            List<Computadora> ListaComp = new List<Computadora>();
+            List <Computadora> ListaComp = new List <Computadora>();
             Console.WriteLine("Ingrese la informacion");
             Console.WriteLine("Ponga la marca de la computadora");
             ordenador.marca = Console.ReadLine();
@@ -195,7 +195,7 @@ namespace Asesorias
             Console.WriteLine("Usted eligio la opcion Banco, ingrese cualquier tecla para continuar");
 			Console.ReadKey();
 			Banco banca = new Banco();
-            List<Banco> ListaBanco = new List<Banco>();
+            List <Banco> ListaBanco = new List <Banco>();
 			Console.WriteLine("Ponga el nombre del banco");
 			banca.nombrebanco = Console.ReadLine();
 			Console.WriteLine("Ponga el nombre de la sucursal");
@@ -232,7 +232,7 @@ namespace Asesorias
             Console.WriteLine("Usted eligio la opcion Pizarron, ingrese cualquier tecla para continuar");
 			Console.ReadKey();
 			Pizarron pizarra = new Pizarron();
-            List<Pizarron> ListaPizarron = new List<Pizarron>();
+            List <Pizarron> ListaPizarron = new List <Pizarron>();
 			Console.WriteLine("Ponga la marca del pizarron");
 			pizarra.marca = Console.ReadLine();
 			Console.WriteLine("Ponga el color del pizarron");
@@ -269,7 +269,7 @@ namespace Asesorias
             Console.WriteLine("Usted eligio la opcion Teclado, ingrese cualquier tecla para continuar");
             Console.ReadKey();
             Teclado key = new Teclado();
-            List<Teclado> ListaTeclado = new List<Teclado>();
+            List <Teclado> ListaTeclado = new List <Teclado>();
             Console.WriteLine("Ponga la marca del teclado");
             key.marca = Console.ReadLine();
             Console.WriteLine("Ponga el color del teclado");
@@ -305,7 +305,7 @@ namespace Asesorias
             Console.WriteLine("Usted eligio la opcion Mouse, ingrese cualquier tecla para continuar");
             Console.ReadKey();
             Mouse mous = new Mouse();
-            List<Mouse> ListaMouse = new List<Mouse>();
+            List <Mouse> ListaMouse = new List <Mouse>();
             Console.WriteLine("Ponga la marca del raton");
             mous.marca = Console.ReadLine();
             Console.WriteLine("Ponga el color del raton");

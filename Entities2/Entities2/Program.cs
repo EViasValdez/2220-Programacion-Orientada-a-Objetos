@@ -7,7 +7,7 @@ namespace Entities2
     {
         static void Main(string[] args)
         {
-            List<EntDatos> L = new List<EntDatos>();
+            List <EntDatos> L = new List <EntDatos>();
             Boolean sino;
             EntDatos data = new EntDatos();
 

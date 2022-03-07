@@ -32,22 +32,22 @@ namespace Calculadora2
 
                 if (opcion == "1")
                 {
-                    Suma sum = new Suma(numero1, numero2);
+                    Suma sum = new Suma (numero1, numero2);
                     rest = sum.resultado;
                 }
                 else if (opcion == "2")
                 {
-                    Resta res = new Resta(numero1, numero2);
+                    Resta res = new Resta (numero1, numero2);
                     rest = res.resultado;
                 }
                 else if (opcion == "3")
                 {
-                    Multiplicacion mult = new Multiplicacion(numero1, numero2);
+                    Multiplicacion mult = new Multiplicacion (numero1, numero2);
                     rest = mult.resultado;
                 }
                 else if (opcion == "4")
                 {
-                    Division divi = new Division(numero1, numero2);
+                    Division divi = new Division (numero1, numero2);
                     rest = divi.resultado;
                 }
                 Console.WriteLine("El resultado es " + rest);

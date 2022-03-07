@@ -17,7 +17,7 @@ namespace Proyecto1
             mode = Console.ReadLine();
             Console.WriteLine("");
             marc = Console.ReadLine();
-            Auto nave = new Auto(mode, marc);
+            Auto nave = new Auto (mode, marc);
             Console.WriteLine(nave.marca + " " + nave.modelo);
         }
     }
