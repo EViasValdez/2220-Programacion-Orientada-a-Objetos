@@ -32,7 +32,7 @@ namespace Entities2
                 Console.WriteLine("Ingrese CURP");
                 data.CURP = Console.ReadLine();
 
-                L.Add(data);
+                L.Add (data);
 
                 foreach (EntDatos datos in L)
                 {

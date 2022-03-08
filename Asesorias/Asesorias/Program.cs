@@ -100,7 +100,7 @@ namespace Asesorias
                     if (sino.ToLower().Equals("no")){
                         electo = false;
                     }
-                } while(electo);
+                } while (electo);
         }
     }
     public class Auto // Clase del auto.
