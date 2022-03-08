@@ -13,7 +13,7 @@ namespace Proyecto2
             Console.WriteLine("El apellido materno es " + Eduardo.apellidoMaterno);
             Console.WriteLine("El genero es " + Eduardo.genero);
             Console.WriteLine("Su direccion es " + Eduardo.direccion);
-
+            
             Persona info = new Persona();
             info.id = "458";
             info.nombre = "";

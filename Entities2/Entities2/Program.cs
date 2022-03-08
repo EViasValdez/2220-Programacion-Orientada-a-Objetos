@@ -44,7 +44,7 @@ namespace Entities2
                     Console.WriteLine("Edad: " + data.Edad);
                     Console.WriteLine("CURP: " + data.CURP);
                 }
-
+                
                 Console.ReadKey();
                 Console.WriteLine("¿Quiere agregar otro?");
                 sino = Boolean.Parse(Console.ReadLine());

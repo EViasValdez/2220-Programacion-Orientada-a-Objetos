@@ -12,7 +12,7 @@ namespace Proyecto1
             // Console.WriteLine("La marca es " + vehiculo.marca);
             string mode;
             string marc;
-
+            
             Console.WriteLine("Ingrese modelo;");
             mode = Console.ReadLine();
             Console.WriteLine("");

@@ -146,9 +146,8 @@ namespace Asesorias
           Console.WriteLine("Este metodo esta inconcluso");
         }
     }
-
-        public class Computadora // Clase de la computadora.
-        {
+    public class Computadora // Clase de la computadora.
+    {
 		public string marca { get; set; }
         public string modelo { get; set; }
         public string sistemaoperativo { get; set; }
@@ -220,7 +219,6 @@ namespace Asesorias
             }
         }
     }
-
     public class Pizarron // Clase del pizarron.
     {
         public string marca { get; set; }
@@ -257,7 +255,6 @@ namespace Asesorias
             }
         }
     }
-
     public class Teclado // Clase del teclado.
     {
         public string marca { get; set; }
