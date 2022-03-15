@@ -68,9 +68,7 @@ Proyecto2/Proyecto2/Proyecto2.csproj,
 Proyecto2/Proyecto2.sln)
 <!----Separador---->
 ###### Calculadora - 24/01/20
-(Calculadora/.vs/Calculadora/DesignTimeBuild/.dtbcache.v2, 
-Calculadora/.vs/Calculadora/v16/.suo, 
-Calculadora/Calculadora/bin/Debug/netcoreapp5.0/ref/Calculadora.dll, 
+(Calculadora/Calculadora/bin/Debug/netcoreapp5.0/ref/Calculadora.dll, 
 Calculadora/Calculadora/bin/Debug/netcoreapp5.0/Calculadora.deps.json, 
 Calculadora/Calculadora/bin/Debug/netcoreapp5.0/Calculadora.dll, 
 Calculadora/Calculadora/bin/Debug/netcoreapp5.0/Calculadora.exe, 
@@ -93,9 +91,7 @@ Calculadora/Calculadora/obj/Debug/netcoreapp5.0/apphost.exe,
 Calculadora/Calculadora/Calculadora.csproj, 
 Calculadora/Calculadora/Program.cs)
 ###### Calculadora2 - 25/01/20
-(Calculadora2/.vs/Calculadora2/DesignTimeBuild/.dtbcache.v2, 
-Calculadora2/.vs/Calculadora2/v16/.suo, 
-Calculadora2/Calculadora2/bin/Debug/netcoreapp5.0/ref/Calculadora2.dll, 
+(Calculadora2/Calculadora2/bin/Debug/netcoreapp5.0/ref/Calculadora2.dll, 
 Calculadora2/Calculadora2/bin/Debug/netcoreapp5.0/Calculadora2.deps.json, 
 Calculadora2/Calculadora2/bin/Debug/netcoreapp5.0/Calculadora2.dll, 
 Calculadora2/Calculadora2/bin/Debug/netcoreapp5.0/Calculadora2.exe, 
