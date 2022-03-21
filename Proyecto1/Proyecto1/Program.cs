@@ -13,7 +13,7 @@ namespace Proyecto1
             string mode;
             string marc;
             
-            Console.WriteLine("Ingrese modelo;");
+            Console.WriteLine("Ingrese modelo");
             mode = Console.ReadLine();
             Console.WriteLine("");
             marc = Console.ReadLine();
