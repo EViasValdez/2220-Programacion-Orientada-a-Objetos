@@ -8,7 +8,9 @@ namespace Entities2
         static void Main(string[] args)
         {
             List <EntDatos> L = new List <EntDatos>();
+
             Boolean sino;
+
             EntDatos data = new EntDatos();
 
             do
@@ -51,6 +53,5 @@ namespace Entities2
             }
             while (sino == true);
         }
-
     }
 }
