@@ -20,7 +20,7 @@ namespace Empleados
                 string id = Console.ReadLine();
 
                 Console.WriteLine("Ingrese dias trabajados");
-                int dias = int.Parse (Console.ReadLine());
+                int dias = int.Parse(Console.ReadLine());
 
                 if (id != per.identificador)
                 {
@@ -33,6 +33,7 @@ namespace Empleados
                 {
                     Console.WriteLine("Ingrese los datos trabajados");
                     float salario = nom.calculo (dias, per.sueldo);
+                    
                     Console.WriteLine("El empleado " + per.nombre + per.identificador + per.fechadenacimiento + "Tiene un saldo de:" + salario);
                 }
             }
