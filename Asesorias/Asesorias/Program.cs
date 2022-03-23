@@ -25,6 +25,7 @@ namespace Asesorias
                     Console.WriteLine("Eliga una clase");
 
                     string clase;
+                    
                     Console.WriteLine("1. Auto");
                     Console.WriteLine("2. Computadora");
                     Console.WriteLine("3. Banco");
