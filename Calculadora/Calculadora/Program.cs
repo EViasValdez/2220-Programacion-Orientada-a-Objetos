@@ -8,6 +8,7 @@ namespace Calculadora
         {
             string opcion, resultado;
             float numero1, numero2;
+
             Console.WriteLine("---- Calculadora ----");
             Console.WriteLine("Elige la opcion a determinar");
             Console.WriteLine("1. Suma");
@@ -29,12 +30,12 @@ namespace Calculadora
 
             if (opcion == "1")
             {
-                calc.suma(numero1, numero2);
+                calc.suma (numero1, numero2);
 
             }
             else if (opcion == "2")
             {
-                calc.resta(numero1, numero2);
+                calc.resta (numero1, numero2);
             }
         }
         public void suma(float numero1, float numero2)

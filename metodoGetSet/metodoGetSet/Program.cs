@@ -26,11 +26,11 @@ namespace metodoGetSet
             pract.Iva = pract.total;
 
             Console.WriteLine("----------------");
-            Console.WriteLine("El id es.... " + pract.Id + " con nombre.... " + pract.Nombre);
-            Console.WriteLine("Con un total de.... " + pract.total);
-            Console.WriteLine("Un iva de.... " + pract.Iva);
-            Console.WriteLine("El total iva es.... " + pract.totalIva);
-            Console.WriteLine("El descuento es.... " + pract.descuento);
+            Console.WriteLine("El id es " + pract.Id + " con nombre " + pract.Nombre);
+            Console.WriteLine("Con un total de " + pract.total);
+            Console.WriteLine("Un iva de " + pract.Iva);
+            Console.WriteLine("El total iva es " + pract.totalIva);
+            Console.WriteLine("El descuento es " + pract.descuento);
             Console.WriteLine(pract.Iva);
         }
     }
