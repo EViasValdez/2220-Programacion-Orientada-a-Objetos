@@ -19,7 +19,7 @@ namespace Calculadora2
                 Console.WriteLine("2. Resta");
                 Console.WriteLine("3. Multiplicacion");
                 Console.WriteLine("4. Division");
-
+                
                 opcion = (Console.ReadLine());
 
                 Console.WriteLine("Ingrese los valores");

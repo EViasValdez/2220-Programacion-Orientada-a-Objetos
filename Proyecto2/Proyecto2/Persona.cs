@@ -20,7 +20,7 @@ namespace Proyecto2
             apellidoPaterno = "Viñas";
             apellidoMaterno = "Valdez";
             genero = "Masculino";
-            direccion = "Villas del Real Segunda Seccion, Tecamac";
+            direccion = "Villa del real segunda seccion, Tecamac";
         }
     }
 }

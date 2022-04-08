@@ -32,7 +32,7 @@ namespace HerenciaAct
 
             Console.WriteLine("Ingrese turno");
             Clien.turno = Console.ReadLine();
-
+            
             Console.WriteLine("Ingrese Cargo");
             Clien.cargo = Console.ReadLine();
 
