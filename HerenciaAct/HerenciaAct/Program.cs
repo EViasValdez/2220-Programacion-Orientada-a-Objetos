@@ -42,16 +42,16 @@ namespace HerenciaAct
             Console.WriteLine("================");
 
             Console.WriteLine("He aqui los datos del empleado");
-            Console.WriteLine("El id es " + Empl.Id);
-            Console.WriteLine("El nombre es " + Empl.Nombre);
-            Console.WriteLine("El apellido paterno es " + Empl.aPaterno);
-            Console.WriteLine("El apellido materno es " + Empl.aMaterno);
+            Console.WriteLine("El id es: " + Empl.Id);
+            Console.WriteLine("El nombre es: " + Empl.Nombre);
+            Console.WriteLine("El apellido paterno es: " + Empl.aPaterno);
+            Console.WriteLine("El apellido materno es: " + Empl.aMaterno);
             
             Console.WriteLine("He aqui los datos del cliente");
-            Console.WriteLine("El sueldo es " + Clien.sueldo);
-            Console.WriteLine("El turno es " + Clien.turno);
-            Console.WriteLine("El cargo es " + Clien.cargo);
-            Console.WriteLine("El cargo es " + Clien.antiguedad);
+            Console.WriteLine("El sueldo es: " + Clien.sueldo);
+            Console.WriteLine("El turno es: " + Clien.turno);
+            Console.WriteLine("El cargo es: " + Clien.cargo);
+            Console.WriteLine("El cargo es: " + Clien.antiguedad);
         }
     }
 }

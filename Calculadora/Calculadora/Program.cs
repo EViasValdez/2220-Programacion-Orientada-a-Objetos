@@ -42,25 +42,25 @@ namespace Calculadora
         {
             double resultado;
             resultado = numero1 + numero2;
-            Console.WriteLine("El resultado es " + resultado);
+            Console.WriteLine("El resultado es: " + resultado);
         }
         public void resta(float numero1, float numero2)
         {
             double resultado;
             resultado = numero1 - numero2;
-            Console.WriteLine("El resultado es " + resultado);
+            Console.WriteLine("El resultado es: " + resultado);
         }
         public void multiplicacion(float numero1, float numero2)
         {
             double resultado;
             resultado = numero1 * numero2;
-            Console.WriteLine("El resultado es " + resultado);
+            Console.WriteLine("El resultado es: " + resultado);
         }
         public void division(float numero1, float numero2)
         {
             double resultado;
             resultado = numero1 / numero2;
-            Console.WriteLine("El resultado es " + resultado);
+            Console.WriteLine("El resultado es: " + resultado);
         }
     }
 }

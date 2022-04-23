@@ -50,7 +50,7 @@ namespace Calculadora2
                     Division divi = new Division (numero1, numero2);
                     rest = divi.resultado;
                 }
-                Console.WriteLine("El resultado es " + rest);
+                Console.WriteLine("El resultado es: " + rest);
                 Console.WriteLine("¿Desea hacer otra opcion?");
                 z = Console.ReadLine();
             }

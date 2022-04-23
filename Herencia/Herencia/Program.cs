@@ -12,7 +12,7 @@ namespace Herencia
             Javi.nombre = "Javier ";
             Javi.aPaterno = "Escobedo ";
             Javi.aMaterno = "Fernandez";
-            Console.WriteLine("El nombre del empleado es " + Javi.nombre + Javi.aPaterno + Javi.aMaterno);
+            Console.WriteLine("El nombre del empleado es: " + Javi.nombre + Javi.aPaterno + Javi.aMaterno);
             Console.ReadKey();
         }
     }
