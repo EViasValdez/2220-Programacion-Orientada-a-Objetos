@@ -34,8 +34,8 @@ namespace ActividadPendienteOO
             {
                 Console.WriteLine("► Detalles del producto ◄");
                 Console.WriteLine("Id del producto: " + tsba.id);
-                Console.WriteLine("Marca:" + tsba.marca);
-                Console.WriteLine("Modelo:" + tsba.modelo);
+                Console.WriteLine("Marca: " + tsba.marca);
+                Console.WriteLine("Modelo: " + tsba.modelo);
                 Console.WriteLine("Tipo de computadora: " + tsba.tipo);
                 Console.WriteLine("Sistema operativo: " + tsba.sistemaoperativo);
                 Console.WriteLine("Capacidad de memoria: " + tsba.capacidad);
@@ -47,8 +47,8 @@ namespace ActividadPendienteOO
             {
                 Console.WriteLine("► Detalles del producto ◄");
                 Console.WriteLine("Id del producto: " + lnvo.id);
-                Console.WriteLine("Marca:" + lnvo.marca);
-                Console.WriteLine("Modelo:" + lnvo.modelo);
+                Console.WriteLine("Marca: " + lnvo.marca);
+                Console.WriteLine("Modelo: " + lnvo.modelo);
                 Console.WriteLine("Tipo de computadora: " + lnvo.tipo);
                 Console.WriteLine("Sistema operativo: " + lnvo.sistemaoperativo);
                 Console.WriteLine("Capacidad de memoria: " + lnvo.capacidad);
@@ -60,8 +60,8 @@ namespace ActividadPendienteOO
             {
                 Console.WriteLine("► Detalles del producto ◄");
                 Console.WriteLine("Id del producto: " + hepa.id);
-                Console.WriteLine("Marca:" + hepa.marca);
-                Console.WriteLine("Modelo:" + hepa.modelo);
+                Console.WriteLine("Marca: " + hepa.marca);
+                Console.WriteLine("Modelo: " + hepa.modelo);
                 Console.WriteLine("Tipo de computadora: " + hepa.tipo);
                 Console.WriteLine("Sistema operativo: " + hepa.sistemaoperativo);
                 Console.WriteLine("Capacidad de memoria: " + hepa.capacidad);

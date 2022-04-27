@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "otraActividadOO/1.0.0": {
+      "OtraActividadOO/1.0.0": {
         "runtime": {
-          "otraActividadOO.dll": {}
+          "OtraActividadOO.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "otraActividadOO/1.0.0": {
+    "OtraActividadOO/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

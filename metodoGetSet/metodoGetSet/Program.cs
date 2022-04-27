@@ -15,13 +15,13 @@ namespace metodoGetSet
 
             Practica pract = new Practica();
             
-            Console.WriteLine("Ingrese el Id: ");
+            Console.WriteLine("Ingrese el Id");
             pract.Id = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Ingrese el nombre: ");
+            Console.WriteLine("Ingrese el nombre");
             pract.Nombre = (Console.ReadLine());
 
-            Console.WriteLine("Ingrese el total: ");
+            Console.WriteLine("Ingrese el total");
             pract.total = float.Parse(Console.ReadLine());
             pract.Iva = pract.total;
 
