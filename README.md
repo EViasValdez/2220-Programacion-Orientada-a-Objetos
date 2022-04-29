@@ -8,7 +8,7 @@ Para estos trabajos fueron los primeros en los que utlice para usar el lenguaje 
 
 **- Para ejecutar sin problemas los archivos se nececita tener instalado el SDK de .NET Core 5.**
 
-**- Algunos documentos fueron modificados en aspectos ortograficos.**
+**- Algunos documentos fueron modificados en aspectos ortograficos y redaccion de comentarios con algunas instrucciones.**
 
 **- Los proyectos "ActividadPendienteOO" y "OtraActividadOO" son actividades que no pude pasar a proyectos propios en su momento pero pude hacerlos desde cero y los puse aqui, tambien fueron ejercicios que hice durante el periodo extraordinario para recuperar materias.**
 
