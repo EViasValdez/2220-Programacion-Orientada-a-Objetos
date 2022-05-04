@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Empleados\Empleados\bin\Debug\net6.0-windows\Empleados.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Empleados\Empleados\bin\Debug\net6.0-windows\Empleados.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Empleados\Empleados\bin\Debug\net6.0-windows\Empleados.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Empleados\Empleados\bin\Debug\net6.0-windows\Empleados.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Empleados\Empleados\bin\Debug\net6.0-windows\Empleados.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Empleados\Empleados\obj\Debug\net6.0-windows\Empleados.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Empleados\Empleados\obj\Debug\net6.0-windows\Empleados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Empleados\Empleados\obj\Debug\net6.0-windows\Empleados.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Empleados\Empleados\obj\Debug\net6.0-windows\Empleados.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Empleados\Empleados\obj\Debug\net6.0-windows\Empleados.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Empleados\Empleados\obj\Debug\net6.0-windows\Empleados.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Empleados\Empleados\obj\Debug\net6.0-windows\refint\Empleados.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Empleados\Empleados\obj\Debug\net6.0-windows\Empleados.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Empleados\Empleados\obj\Debug\net6.0-windows\Empleados.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Empleados\Empleados\obj\Debug\net6.0-windows\ref\Empleados.dll

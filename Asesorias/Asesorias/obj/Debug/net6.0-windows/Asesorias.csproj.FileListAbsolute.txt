@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Asesorias\Asesorias\bin\Debug\net6.0-windows\Asesorias.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Asesorias\Asesorias\bin\Debug\net6.0-windows\Asesorias.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Asesorias\Asesorias\bin\Debug\net6.0-windows\Asesorias.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Asesorias\Asesorias\bin\Debug\net6.0-windows\Asesorias.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Asesorias\Asesorias\bin\Debug\net6.0-windows\Asesorias.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Asesorias\Asesorias\obj\Debug\net6.0-windows\Asesorias.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Asesorias\Asesorias\obj\Debug\net6.0-windows\Asesorias.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Asesorias\Asesorias\obj\Debug\net6.0-windows\Asesorias.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Asesorias\Asesorias\obj\Debug\net6.0-windows\Asesorias.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Asesorias\Asesorias\obj\Debug\net6.0-windows\Asesorias.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Asesorias\Asesorias\obj\Debug\net6.0-windows\Asesorias.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Asesorias\Asesorias\obj\Debug\net6.0-windows\refint\Asesorias.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Asesorias\Asesorias\obj\Debug\net6.0-windows\Asesorias.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Asesorias\Asesorias\obj\Debug\net6.0-windows\Asesorias.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Asesorias\Asesorias\obj\Debug\net6.0-windows\ref\Asesorias.dll

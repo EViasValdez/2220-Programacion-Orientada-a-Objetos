@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Herencia\Herencia\bin\Debug\net6.0-windows\Herencia.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Herencia\Herencia\bin\Debug\net6.0-windows\Herencia.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Herencia\Herencia\bin\Debug\net6.0-windows\Herencia.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Herencia\Herencia\bin\Debug\net6.0-windows\Herencia.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Herencia\Herencia\bin\Debug\net6.0-windows\Herencia.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Herencia\Herencia\obj\Debug\net6.0-windows\Herencia.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Herencia\Herencia\obj\Debug\net6.0-windows\Herencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Herencia\Herencia\obj\Debug\net6.0-windows\Herencia.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Herencia\Herencia\obj\Debug\net6.0-windows\Herencia.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Herencia\Herencia\obj\Debug\net6.0-windows\Herencia.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Herencia\Herencia\obj\Debug\net6.0-windows\Herencia.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Herencia\Herencia\obj\Debug\net6.0-windows\refint\Herencia.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Herencia\Herencia\obj\Debug\net6.0-windows\Herencia.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Herencia\Herencia\obj\Debug\net6.0-windows\Herencia.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Herencia\Herencia\obj\Debug\net6.0-windows\ref\Herencia.dll
