@@ -13,7 +13,7 @@ namespace Asesorias
 
             bool electo = false;
             string sino;
-            
+
             // Crear una repeticion en el programa.
             do
 			{
@@ -196,7 +196,7 @@ namespace Asesorias
         public string sucursal { get; set; }
         public string tipodesucursal { get; set; }
         public string horario{ get; set; }
-		public void mostrarbanco ()
+		public void mostrarbanco()
 		{
             Console.WriteLine("Usted eligio la opcion banco, ingrese cualquier tecla para continuar");
 			Console.ReadKey();
