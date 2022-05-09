@@ -170,6 +170,7 @@ Empleados/Empleados/Nomina.cs,
 Empleados/Empleados/Personal.cs, 
 Empleados/Empleados/Program.cs, 
 Empleados/Empleados.sln)
+<!----Separador---->
 ###### Repaso - 01/02/20
 (Repaso/Repaso/obj/Debug/net6.0-windows/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs, 
 Repaso/Repaso/obj/Debug/net6.0-windows/Repaso.AssemblyInfo.cs, 
