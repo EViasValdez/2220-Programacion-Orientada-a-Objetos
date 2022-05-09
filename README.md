@@ -378,7 +378,7 @@ Entities2/Entities2/EntDatos.cs,
 Entities2/Entities2/Entities2.csproj, 
 Entities2/Entities2/Program.cs, 
 Entities2/Entities2.sln)
-
+<!----Separador---->
 ###### EduardoViñasValdez - 26/02/20
 (EduardoViñasValdez/EduardoViñasValdez/bin/Debug/net5.0/ref/EduardoViñasValdez.dll, 
 EduardoViñasValdez/EduardoViñasValdez/bin/Debug/net5.0/EduardoViñasValdez.deps.json, 
