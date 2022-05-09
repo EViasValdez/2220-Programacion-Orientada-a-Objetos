@@ -33,10 +33,10 @@ namespace HerenciaAct
             Console.WriteLine("Ingrese turno");
             Clien.turno = Console.ReadLine();
             
-            Console.WriteLine("Ingrese Cargo");
+            Console.WriteLine("Ingrese cargo");
             Clien.cargo = Console.ReadLine();
 
-            Console.WriteLine("Ingrese Antiguedad");
+            Console.WriteLine("Ingrese antiguedad");
             Clien.antiguedad = Console.ReadLine();
 
             Console.WriteLine("================");

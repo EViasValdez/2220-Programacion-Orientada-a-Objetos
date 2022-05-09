@@ -8,8 +8,8 @@ namespace Proyecto1
         {
             // Console.WriteLine("Hello World!");
             Auto vehiculo = new Auto();
-            // Console.WriteLine("El modelo es " + vehiculo.modelo);
-            // Console.WriteLine("La marca es " + vehiculo.marca);
+            // Console.WriteLine("El modelo es: " + vehiculo.modelo);
+            // Console.WriteLine("La marca es: " + vehiculo.marca);
             string mode;
             string marc;
             
