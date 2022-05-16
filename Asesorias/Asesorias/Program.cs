@@ -120,7 +120,7 @@ namespace Asesorias
             Console.ReadKey();
 
             Auto automobil = new Auto();
-            List <Auto> ListaAuto = new List <Auto>(); // Generacion de una lista.
+            List <Auto> ListaAuto = new List<Auto>(); // Generacion de una lista.
 
             Console.WriteLine("Ingrese la informacion"); 
             Console.WriteLine("Ponga el tipo de auto"); // Ingreso de datos.
@@ -163,7 +163,7 @@ namespace Asesorias
             Console.ReadKey();
 
             Computadora ordenador = new Computadora();
-            List <Computadora> ListaComp = new List <Computadora>();
+            List <Computadora> ListaComp = new List<Computadora>();
 
             Console.WriteLine("Ingrese la informacion");
             Console.WriteLine("Ponga la marca de la computadora");
@@ -202,7 +202,7 @@ namespace Asesorias
 			Console.ReadKey();
 
 			Banco banca = new Banco();
-            List <Banco> ListaBanco = new List <Banco>();
+            List <Banco> ListaBanco = new List<Banco>();
 
 			Console.WriteLine("Ponga el nombre del banco");
 			banca.nombrebanco = Console.ReadLine();
@@ -278,7 +278,7 @@ namespace Asesorias
             Console.ReadKey();
 
             Teclado key = new Teclado();
-            List <Teclado> ListaTeclado = new List <Teclado>();
+            List <Teclado> ListaTeclado = new List<Teclado>();
 
             Console.WriteLine("Ponga la marca del teclado");
             key.marca = Console.ReadLine();
@@ -316,7 +316,7 @@ namespace Asesorias
             Console.ReadKey();
 
             Mouse mous = new Mouse();
-            List <Mouse> ListaMouse = new List <Mouse>();
+            List <Mouse> ListaMouse = new List<Mouse>();
 
             Console.WriteLine("Ponga la marca del raton");
             mous.marca = Console.ReadLine();

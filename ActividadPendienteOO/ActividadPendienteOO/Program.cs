@@ -22,7 +22,6 @@ namespace ActividadPendienteOO
             Console.WriteLine("4. Acer");
             Console.WriteLine("Eliga la opcion deseada con el numero marcado");
             Console.WriteLine("                                       ");
-
             opcion = (Console.ReadLine());
 
             toshiba tsba = new toshiba();

@@ -7,7 +7,6 @@ namespace Agregacion
         static void Main(string[] args)
         {
             Persona pers = new Persona();
-
             pers.dat.nombre = "valdez";
         }
     }

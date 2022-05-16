@@ -10,7 +10,7 @@ namespace Listas
             int num;
             int elem;
             
-            List <int> miList = new List <int>();
+            List <int> miList = new List<int>();
 
             Console.WriteLine("Ingrese el numero de elementos");
             elem = int.Parse(Console.ReadLine());
