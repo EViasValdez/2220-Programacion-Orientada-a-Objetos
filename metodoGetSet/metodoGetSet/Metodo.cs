@@ -7,6 +7,7 @@ namespace metodoGetSet
     class Metodo
     {
         string nombre;
+        
         public void setValor(string nom)
         {
             nombre = nom;
