@@ -114,6 +114,7 @@ namespace Asesorias
         public string codigoplaca { get; set; }
         public int numserie { get; set; }
         public int numasientos { get; set; }
+
         public void mostrarauto() // Metodo para convocar por medio de la clase.
         {
             Console.WriteLine("Usted eligio la opcion Automobil, ingrese cualquier tecla para continuar");
@@ -157,6 +158,7 @@ namespace Asesorias
         public string modelo { get; set; }
         public string sistemaoperativo { get; set; }
         public string procesador { get; set; }
+
 		public void mostrarcomputadora()
 		{
             Console.WriteLine("Usted eligio la opcion Computadora, ingrese cualquier tecla para continuar");
@@ -196,6 +198,7 @@ namespace Asesorias
         public string sucursal { get; set; }
         public string tipodesucursal { get; set; }
         public string horario{ get; set; }
+
 		public void mostrarbanco()
 		{
             Console.WriteLine("Usted eligio la opcion banco, ingrese cualquier tecla para continuar");
@@ -234,6 +237,7 @@ namespace Asesorias
         public string color { get; set; }
         public string tipo { get; set; }
         public string tamaño { get; set; }
+
 		public void mostrarpizarron()
 		{
             Console.WriteLine("Usted eligio la opcion pizarron, ingrese cualquier tecla para continuar");
@@ -272,6 +276,7 @@ namespace Asesorias
         public string color { get; set; }
         public string tipo { get; set; }
         public string padnumerico { get; set; }
+
         public void mostrarteclado()
         {
             Console.WriteLine("Usted eligio la opcion teclado, ingrese cualquier tecla para continuar");
@@ -310,6 +315,7 @@ namespace Asesorias
         public string color { get; set; }
 		public string tipo { get; set; }
 		public string alambrico { get; set; }
+        
         public void mostrarmouse()
         {
             Console.WriteLine("Usted eligio la opcion mouse, ingrese cualquier tecla para continuar");
