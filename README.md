@@ -6,7 +6,7 @@ Para estos trabajos fueron los primeros en los que utlice para usar el lenguaje 
 <!----Notas---->
 **Notas**
 
-**- Para ejecutar sin problemas los archivos se nececita tener instalado el SDK de .NET Core 6.**
+**- Para ejecutar sin problemas los archivos se nececita tener instalado el SDK de NET Core 6.0.**
 
 **- Algunos documentos fueron modificados en aspectos ortograficos y redaccion de comentarios con algunas instrucciones.**
 
