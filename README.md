@@ -1,22 +1,22 @@
 # Programacion Orientada a Objetos
-<!----Descripcion---->
-Para estos trabajos fueron los primeros en los que utlice para usar el lenguaje C#, se mucho sobre este lenguaje aunque si es algo complicado de instalar.
-<!----Separador de la descripcion ---->
+<!----Descripción---->
+Para estos trabajos fueron los primeros en los que utilice para usar el lenguaje C#, se mucho sobre este lenguaje aunque si es algo complicado de instalar.
+<!----Separador de la descripción ---->
 
 <!----Notas---->
 **Notas**
 
-**- Para ejecutar sin problemas los archivos se nececita tener instalado el SDK de NET Core 6.0.**
+**- Para ejecutar sin problemas los archivos se necesita tener instalado el SDK de NET Core 6.0.**
 
-**- Algunos documentos fueron modificados en aspectos ortograficos y redaccion de comentarios con algunas instrucciones.**
+**- Algunos documentos fueron modificados en aspectos ortográficos y redacción de comentarios con algunas instrucciones.**
 
-**- Los proyectos "ActividadPendienteOO" y "OtraActividadOO" son actividades que no pude pasar a proyectos propios en su momento pero pude hacerlos desde cero y los puse aqui, tambien fueron ejercicios que hice durante el periodo extraordinario para recuperar materias.**
+**- Los proyectos "ActividadPendienteOO" y "OtraActividadOO" son actividades que no pude pasar a proyectos propios en su momento pero pude hacerlos desde cero y los puse aquí, también fueron ejercicios que hice durante el periodo extraordinario para recuperar materias.**
 
-**- Cambie los tipos de aplicacion de NET 2.1 a NET 6.0, debido a que varios proyectos no funcionaban correctamente con el motor nuevo.**
+**- Cambie los tipos de aplicación de NET 2.1 a NET 6.0, debido a que varios proyectos no funcionaban correctamente con el motor nuevo.**
 <!----Separador---->
 
-<!----Directorio con ubicacion de archivos---->
-# Directorio con ubicacion de archivos
+<!----Directorio con ubicación de archivos---->
+# Directorio con ubicación de archivos
 ## ● Unidad 1 ●
 ###### Proyecto1 - 18/01/20
 (Proyecto1/Proyecto1/bin/Debug/net6.0-windows/Proyecto1.deps.json, 
