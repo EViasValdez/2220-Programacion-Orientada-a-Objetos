@@ -9,7 +9,7 @@ namespace ActividadPendienteOO
             string opcion;
 
             Console.WriteLine("—|||||||||||||||||||||||||||||||||||||—");
-            Console.WriteLine("■■ Tienda de electronica y computacion ■■");
+            Console.WriteLine("■■ Tienda de electronica y computación ■■");
             Console.WriteLine("■■ Computadoras ■■");
             Console.WriteLine("—|||||||||||||||||||||||||||||||||||||—");
             Console.WriteLine("                                       ");
@@ -20,7 +20,7 @@ namespace ActividadPendienteOO
             Console.WriteLine("2. Lenovo");
             Console.WriteLine("3. Hewlett-Packard");
             Console.WriteLine("4. Acer");
-            Console.WriteLine("Eliga la opcion deseada con el numero marcado");
+            Console.WriteLine("Elige la opción deseada con el numero marcado");
             Console.WriteLine("                                       ");
             opcion = (Console.ReadLine());
 
@@ -39,7 +39,7 @@ namespace ActividadPendienteOO
                 Console.WriteLine("Sistema operativo: " + tsba.sistemaoperativo);
                 Console.WriteLine("Capacidad de memoria: " + tsba.capacidad);
                 Console.WriteLine("Procesador: " + tsba.procesador);
-                Console.WriteLine("Tarjeta grafica: " + tsba.tarjetagrafica);
+                Console.WriteLine("Tarjeta gráfica: " + tsba.tarjetagrafica);
             }
             else
             if (opcion == "2")
@@ -52,7 +52,7 @@ namespace ActividadPendienteOO
                 Console.WriteLine("Sistema operativo: " + lnvo.sistemaoperativo);
                 Console.WriteLine("Capacidad de memoria: " + lnvo.capacidad);
                 Console.WriteLine("Procesador: " + lnvo.procesador);
-                Console.WriteLine("Tarjeta grafica: " + lnvo.tarjetagrafica);
+                Console.WriteLine("Tarjeta gráfica: " + lnvo.tarjetagrafica);
             }
             else
             if (opcion == "3")
@@ -65,7 +65,7 @@ namespace ActividadPendienteOO
                 Console.WriteLine("Sistema operativo: " + hepa.sistemaoperativo);
                 Console.WriteLine("Capacidad de memoria: " + hepa.capacidad);
                 Console.WriteLine("Procesador: " + hepa.procesador);
-                Console.WriteLine("Tarjeta grafica: " + hepa.tarjetagrafica);
+                Console.WriteLine("Tarjeta gráfica: " + hepa.tarjetagrafica);
             }
             else
             if (opcion == "4")
@@ -78,7 +78,7 @@ namespace ActividadPendienteOO
                 Console.WriteLine("Sistema operativo: " + acer.sistemaoperativo);
                 Console.WriteLine("Capacidad de memoria: " + acer.capacidad);
                 Console.WriteLine("Procesador: " + acer.procesador);
-                Console.WriteLine("Tarjeta grafica: " + acer.tarjetagrafica);
+                Console.WriteLine("Tarjeta gráfica: " + acer.tarjetagrafica);
             }
             Console.ReadKey();
         }

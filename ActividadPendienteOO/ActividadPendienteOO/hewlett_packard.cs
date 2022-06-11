@@ -28,7 +28,7 @@ namespace ActividadPendienteOO
             capacidad = "256 GBs en SSD";
             memoriaram = "8 GBs";
             procesador = "Intel Core i7-1165G7";
-            tarjetagrafica = "Graficos integrados";
+            tarjetagrafica = "Gráficos integrados";
         }
     }
 }

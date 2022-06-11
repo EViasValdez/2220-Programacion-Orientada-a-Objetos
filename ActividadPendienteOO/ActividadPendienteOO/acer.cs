@@ -28,7 +28,7 @@ namespace ActividadPendienteOO
             capacidad = "1TB en HDD";
             memoriaram = "8 GBs";
             procesador = "Intel Core i3 i3-1005G1";
-            tarjetagrafica = "Graficos integrados";
+            tarjetagrafica = "Gráficos integrados";
         }
     }
 }

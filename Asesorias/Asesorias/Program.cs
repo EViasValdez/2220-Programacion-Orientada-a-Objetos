@@ -17,14 +17,14 @@ namespace Asesorias
             // Crear una repeticion en el programa.
             do
 			{
-                Console.WriteLine("¿Que accion desea realizar?");
+                Console.WriteLine("¿Que acción desea realizar?");
                 string accion;
                 accion = (Console.ReadLine());
 
                 if (accion == "mostrar")
                 {
-                    Console.WriteLine("Usted eligio Mostrar");
-                    Console.WriteLine("Eliga una clase");
+                    Console.WriteLine("Usted eligió Mostrar");
+                    Console.WriteLine("Elige una clase");
 
                     string clase;
                     
@@ -36,11 +36,11 @@ namespace Asesorias
                     Console.WriteLine("6. Mouse");
                     clase = (Console.ReadLine());
 
-                    // Pantalla de seleccion usando if.
+                    // Pantalla de selección usando if.
                     if (clase == "1")
                     {
                         Auto vehiculo = new Auto(); // Llamada de la clase.
-                        vehiculo.mostrarauto(); // Llamada del metodo.
+                        vehiculo.mostrarauto(); // Llamada del método.
                     }
                     else
                     if (clase == "2")
@@ -74,14 +74,14 @@ namespace Asesorias
                     }
                     }
                     else
-                    if (accion == "borrar") // Abrir el metodo "borrar".
+                    if (accion == "borrar") // Abrir el método "borrar".
                     {
-                        Console.WriteLine("Usted eligio borrar");
-                        Console.WriteLine("Eliga una clase");
+                        Console.WriteLine("Usted eligió borrar");
+                        Console.WriteLine("Elige una clase");
 
                         string clase2;
 
-                        Console.WriteLine("1. Auto"); // Unicamente funciona la primera opcion.
+                        Console.WriteLine("1. Auto"); // Unicamente funciona la primera opción.
                         Console.WriteLine("2. Computadora");
                         Console.WriteLine("3. Banco");
                         Console.WriteLine("4. Pizarron");
@@ -108,7 +108,7 @@ namespace Asesorias
     }
     public class Auto // Clase del auto.
     {
-        public string tipoauto { get; set; } // Generacion de elementos.
+        public string tipoauto { get; set; } // Generación de elementos.
         public string marca { get; set; }
         public string modelo { get; set; }
         public string codigoplaca { get; set; }
@@ -117,13 +117,13 @@ namespace Asesorias
 
         public void mostrarauto() // Metodo para convocar por medio de la clase.
         {
-            Console.WriteLine("Usted eligio la opcion Automobil, ingrese cualquier tecla para continuar");
+            Console.WriteLine("Usted eligió la opción Automobil, ingrese cualquier tecla para continuar");
             Console.ReadKey();
 
             Auto automobil = new Auto();
-            List <Auto> ListaAuto = new List<Auto>(); // Generacion de una lista.
+            List <Auto> ListaAuto = new List<Auto>(); // Generación de una lista.
 
-            Console.WriteLine("Ingrese la informacion"); 
+            Console.WriteLine("Ingrese la información"); 
             Console.WriteLine("Ponga el tipo de auto"); // Ingreso de datos.
             automobil.tipoauto = Console.ReadLine();
             Console.WriteLine("Ponga la marca");
@@ -140,16 +140,16 @@ namespace Asesorias
 
             foreach (Auto au in ListaAuto)
             {
-                Console.WriteLine("Aqui estan los datos ingresados"); // Retorno de datos.
+                Console.WriteLine("Aquí están los datos ingresados"); // Retorno de datos.
                 Console.WriteLine("Tipo de auto: " + automobil.tipoauto);
                 Console.WriteLine("Marca: " + automobil.marca);
                 Console.WriteLine("Modelo: " + automobil.modelo);
                 Console.WriteLine("Numero de asientos: " + automobil.numasientos);
             }
         }
-        public void borrarauto() // Metodo bara borrar datos por medio de la clase.
+        public void borrarauto() // Método para borrar datos por medio de la clase.
         {
-            Console.WriteLine("Este metodo esta inconcluso");
+            Console.WriteLine("Este método esta inconcluso");
         }
     }
     public class Computadora // Clase de la computadora.
@@ -161,13 +161,13 @@ namespace Asesorias
 
 		public void mostrarcomputadora()
 		{
-            Console.WriteLine("Usted eligio la opcion Computadora, ingrese cualquier tecla para continuar");
+            Console.WriteLine("Usted eligió la opción Computadora, ingrese cualquier tecla para continuar");
             Console.ReadKey();
 
             Computadora ordenador = new Computadora();
             List <Computadora> ListaComp = new List<Computadora>();
 
-            Console.WriteLine("Ingrese la informacion");
+            Console.WriteLine("Ingrese la información");
             Console.WriteLine("Ponga la marca de la computadora");
             ordenador.marca = Console.ReadLine();
             Console.WriteLine("Ponga el modelo");
@@ -184,7 +184,7 @@ namespace Asesorias
 
             foreach (Computadora orden in ListaComp)
             {
-                Console.WriteLine("Aqui estan los datos ingresados");
+                Console.WriteLine("Aquí están los datos ingresados");
                 Console.WriteLine("Marca: " + ordenador.marca);
                 Console.WriteLine("Modelo: " + ordenador.modelo);
                 Console.WriteLine("Sistema operativo: " + ordenador.sistemaoperativo);
@@ -201,7 +201,7 @@ namespace Asesorias
 
 		public void mostrarbanco()
 		{
-            Console.WriteLine("Usted eligio la opcion banco, ingrese cualquier tecla para continuar");
+            Console.WriteLine("Usted eligió la opción banco, ingrese cualquier tecla para continuar");
 			Console.ReadKey();
 
 			Banco banca = new Banco();
@@ -223,7 +223,7 @@ namespace Asesorias
 
             foreach (Banco banc in ListaBanco)
             {
-                Console.WriteLine("Aqui estan los datos ingresados");
+                Console.WriteLine("Aquí están los datos ingresados");
                 Console.WriteLine("Nombre del banco: " + banca.nombrebanco);
                 Console.WriteLine("Sucursal: " + banca.sucursal);
                 Console.WriteLine("Tipo de sucursal: " + banca.tipodesucursal);
@@ -240,7 +240,7 @@ namespace Asesorias
 
 		public void mostrarpizarron()
 		{
-            Console.WriteLine("Usted eligio la opcion pizarron, ingrese cualquier tecla para continuar");
+            Console.WriteLine("Usted eligió la opción pizarron, ingrese cualquier tecla para continuar");
 			Console.ReadKey();
 
 			Pizarron pizarra = new Pizarron();
@@ -262,7 +262,7 @@ namespace Asesorias
 
             foreach (Pizarron pizar in ListaPizarron)
             {
-                Console.WriteLine("Aqui estan los datos ingresados");
+                Console.WriteLine("Aquí están los datos ingresados");
                 Console.WriteLine("Marca: " + pizarra.marca);
                 Console.WriteLine("Color: " + pizarra.color);
                 Console.WriteLine("Tipo: " + pizarra.tipo);
@@ -279,7 +279,7 @@ namespace Asesorias
 
         public void mostrarteclado()
         {
-            Console.WriteLine("Usted eligio la opcion teclado, ingrese cualquier tecla para continuar");
+            Console.WriteLine("Usted eligió la opción teclado, ingrese cualquier tecla para continuar");
             Console.ReadKey();
 
             Teclado key = new Teclado();
@@ -291,7 +291,7 @@ namespace Asesorias
             key.color = Console.ReadLine();
             Console.WriteLine("Ponga el tipo de teclado");
             key.tipo = Console.ReadLine();
-            Console.WriteLine("Ponga si el teclado tiene pad numerico");
+            Console.WriteLine("Ponga si el teclado tiene pad numérico");
             key.padnumerico = Console.ReadLine();
 
             ListaTeclado.Add(key);
@@ -301,7 +301,7 @@ namespace Asesorias
 
             foreach (Teclado tecl in ListaTeclado)
             {
-                Console.WriteLine("Aqui estan los datos ingresados");
+                Console.WriteLine("Aquí están los datos ingresados");
                 Console.WriteLine("Marca: " + key.marca);
                 Console.WriteLine("Color: " + key.color);
                 Console.WriteLine("Tipo: " + key.tipo);
@@ -318,19 +318,19 @@ namespace Asesorias
         
         public void mostrarmouse()
         {
-            Console.WriteLine("Usted eligio la opcion mouse, ingrese cualquier tecla para continuar");
+            Console.WriteLine("Usted eligió la opción mouse, ingrese cualquier tecla para continuar");
             Console.ReadKey();
 
             Mouse mous = new Mouse();
             List <Mouse> ListaMouse = new List<Mouse>();
 
-            Console.WriteLine("Ponga la marca del raton");
+            Console.WriteLine("Ponga la marca del ratón");
             mous.marca = Console.ReadLine();
-            Console.WriteLine("Ponga el color del raton");
+            Console.WriteLine("Ponga el color del ratón");
             mous.color = Console.ReadLine();
-            Console.WriteLine("Ponga el tipo de raton");
+            Console.WriteLine("Ponga el tipo de ratón");
             mous.tipo = Console.ReadLine();
-            Console.WriteLine("Ponga si el raton es alambrico");
+            Console.WriteLine("Ponga si el ratón es alambrico");
             mous.alambrico = Console.ReadLine();
 
             ListaMouse.Add(mous);
@@ -340,7 +340,7 @@ namespace Asesorias
 
             foreach (Mouse mou in ListaMouse)
             {
-                Console.WriteLine("Aqui estan los datos ingresados");
+                Console.WriteLine("Aquí están los datos ingresados");
                 Console.WriteLine("Marca: " + mous.marca);
                 Console.WriteLine("Color: " + mous.color);
                 Console.WriteLine("Tipo: " + mous.tipo);

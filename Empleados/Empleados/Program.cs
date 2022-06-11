@@ -19,7 +19,7 @@ namespace Empleados
                 Console.WriteLine("Ingrese el id del empleado");
                 string id = Console.ReadLine();
 
-                Console.WriteLine("Ingrese dias trabajados");
+                Console.WriteLine("Ingrese días trabajados");
                 int dias = int.Parse(Console.ReadLine());
 
                 if (id != per.identificador)

@@ -13,7 +13,7 @@ namespace OtraActividadOO
             Console.WriteLine("                                       ");
             Console.ReadKey();
 
-            Console.WriteLine("Eliga una opcion");
+            Console.WriteLine("Elige una opción");
             Console.WriteLine("1. Colores primarios");
             Console.WriteLine("2. Colores secundarios");
             Console.WriteLine("                                       ");

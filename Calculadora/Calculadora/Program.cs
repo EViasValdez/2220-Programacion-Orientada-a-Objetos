@@ -10,15 +10,15 @@ namespace Calculadora
             float numero1, numero2;
 
             Console.WriteLine("---- Calculadora ----");
-            Console.WriteLine("Elige la opcion a determinar");
+            Console.WriteLine("Elige la opción a determinar");
             Console.WriteLine("1. Suma");
             Console.WriteLine("2. Resta");
-            Console.WriteLine("3. Multiplicacion");
+            Console.WriteLine("3. Multiplicación");
             Console.WriteLine("4. Division");
 
             opcion = (Console.ReadLine());
 
-            Console.WriteLine("Ingresa los numeros");
+            Console.WriteLine("Ingresa los números");
             Console.WriteLine("Numero 1");
             resultado = Console.ReadLine();
             numero1 = float.Parse(resultado);

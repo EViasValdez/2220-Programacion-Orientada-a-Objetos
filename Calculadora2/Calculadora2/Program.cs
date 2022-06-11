@@ -14,10 +14,10 @@ namespace Calculadora2
             do
             {
                 Console.WriteLine("---- Calculadora ----");
-                Console.WriteLine("Elige la opcion a determinar");
+                Console.WriteLine("Elige la opción a determinar");
                 Console.WriteLine("1. Suma");
                 Console.WriteLine("2. Resta");
-                Console.WriteLine("3. Multiplicacion");
+                Console.WriteLine("3. Multiplicación");
                 Console.WriteLine("4. Division");
                 
                 opcion = (Console.ReadLine());
