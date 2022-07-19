@@ -22,7 +22,7 @@ namespace Listas
                 int mundos = int.Parse(Console.ReadLine());
                 miList.Add (mundos);
             }
-                foreach (int i in miList)
+            foreach (int i in miList)
             {
                 Console.WriteLine("=================");
                 Console.WriteLine(i);
