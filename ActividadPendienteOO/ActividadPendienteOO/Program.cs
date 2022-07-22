@@ -8,10 +8,10 @@ namespace ActividadPendienteOO
         {
             string opcion;
 
-            Console.WriteLine("—|||||||||||||||||||||||||||||||||||||—");
+            Console.WriteLine("|||||||||||||||||||||||||||||||||||||");
             Console.WriteLine("■■ Tienda de electronica y computación ■■");
             Console.WriteLine("■■ Computadoras ■■");
-            Console.WriteLine("—|||||||||||||||||||||||||||||||||||||—");
+            Console.WriteLine("|||||||||||||||||||||||||||||||||||||");
             Console.WriteLine("                                       ");
             Console.ReadKey();
 
