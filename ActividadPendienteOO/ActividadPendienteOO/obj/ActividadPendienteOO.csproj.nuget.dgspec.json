@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2220-Programacion-Orientada-a-Objetos\\ActividadPendienteOO\\ActividadPendienteOO\\ActividadPendienteOO.csproj": {}
+    "D:\\Usuarios\\Eduardo\\Descargas\\GitHub\\2220-Programacion-Orientada-a-Objetos\\ActividadPendienteOO\\ActividadPendienteOO\\ActividadPendienteOO.csproj": {}
   },
   "projects": {
-    "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2220-Programacion-Orientada-a-Objetos\\ActividadPendienteOO\\ActividadPendienteOO\\ActividadPendienteOO.csproj": {
+    "D:\\Usuarios\\Eduardo\\Descargas\\GitHub\\2220-Programacion-Orientada-a-Objetos\\ActividadPendienteOO\\ActividadPendienteOO\\ActividadPendienteOO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2220-Programacion-Orientada-a-Objetos\\ActividadPendienteOO\\ActividadPendienteOO\\ActividadPendienteOO.csproj",
+        "projectUniqueName": "D:\\Usuarios\\Eduardo\\Descargas\\GitHub\\2220-Programacion-Orientada-a-Objetos\\ActividadPendienteOO\\ActividadPendienteOO\\ActividadPendienteOO.csproj",
         "projectName": "ActividadPendienteOO",
-        "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2220-Programacion-Orientada-a-Objetos\\ActividadPendienteOO\\ActividadPendienteOO\\ActividadPendienteOO.csproj",
+        "projectPath": "D:\\Usuarios\\Eduardo\\Descargas\\GitHub\\2220-Programacion-Orientada-a-Objetos\\ActividadPendienteOO\\ActividadPendienteOO\\ActividadPendienteOO.csproj",
         "packagesPath": "C:\\Users\\defaultuser0\\.nuget\\packages\\",
-        "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2220-Programacion-Orientada-a-Objetos\\ActividadPendienteOO\\ActividadPendienteOO\\obj\\",
+        "outputPath": "D:\\Usuarios\\Eduardo\\Descargas\\GitHub\\2220-Programacion-Orientada-a-Objetos\\ActividadPendienteOO\\ActividadPendienteOO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\defaultuser0\\AppData\\Roaming\\NuGet\\NuGet.Config"
