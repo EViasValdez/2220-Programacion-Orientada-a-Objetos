@@ -19,7 +19,7 @@ namespace Calculadora2
                 Console.WriteLine("2. Resta");
                 Console.WriteLine("3. Multiplicación");
                 Console.WriteLine("4. Division");
-                
+
                 opcion = (Console.ReadLine());
 
                 Console.WriteLine("Ingrese los valores");
@@ -29,7 +29,7 @@ namespace Calculadora2
                 Console.WriteLine("Numero 2");
                 resultado = Console.ReadLine();
                 numero2 = float.Parse(resultado);
-                
+
                 if (opcion == "1")
                 {
                     Suma sum = new Suma (numero1, numero2);

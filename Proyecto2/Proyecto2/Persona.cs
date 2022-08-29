@@ -12,7 +12,7 @@ namespace Proyecto2
         public string apellidoMaterno;
         public string genero;
         public string direccion;
-        
+
         public Persona()
         {
             id = "123";

@@ -8,7 +8,7 @@ namespace Entities2
         static void Main(string[] args)
         {
             List <EntDatos> L = new List <EntDatos>();
-            
+
             Boolean sino;
 
             EntDatos data = new EntDatos();
@@ -46,7 +46,7 @@ namespace Entities2
                     Console.WriteLine("Edad: " + data.Edad);
                     Console.WriteLine("CURP: " + data.CURP);
                 }
-                
+
                 Console.ReadKey();
                 Console.WriteLine("¿Quiere agregar otro?");
                 sino = Boolean.Parse(Console.ReadLine());

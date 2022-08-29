@@ -14,7 +14,7 @@ namespace metodoGetSet
             // Console.ReadKey();
 
             Practica pract = new Practica();
-            
+
             Console.WriteLine("Ingrese el Id");
             pract.Id = int.Parse(Console.ReadLine());
 

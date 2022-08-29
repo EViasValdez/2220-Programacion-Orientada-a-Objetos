@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,7 +12,7 @@ namespace OtraActividadOO
         public string amarillo;
         public string azul;
         public string verde;
-        
+
         public color1()
         {
             rojo = "rgb(255, 0, 0)";

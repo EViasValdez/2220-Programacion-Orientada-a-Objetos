@@ -32,7 +32,7 @@ namespace HerenciaAct
 
             Console.WriteLine("Ingrese turno");
             Clien.turno = Console.ReadLine();
-            
+
             Console.WriteLine("Ingrese cargo");
             Clien.cargo = Console.ReadLine();
 
@@ -46,7 +46,7 @@ namespace HerenciaAct
             Console.WriteLine("El nombre es: " + Empl.Nombre);
             Console.WriteLine("El apellido paterno es: " + Empl.aPaterno);
             Console.WriteLine("El apellido materno es: " + Empl.aMaterno);
-            
+
             Console.WriteLine("He aquí los datos del cliente");
             Console.WriteLine("El sueldo es: " + Clien.sueldo);
             Console.WriteLine("El turno es: " + Clien.turno);

@@ -31,7 +31,6 @@ namespace Calculadora
             if (opcion == "1")
             {
                 calc.suma (numero1, numero2);
-
             }
             else if (opcion == "2")
             {

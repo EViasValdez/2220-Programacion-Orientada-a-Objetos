@@ -7,7 +7,7 @@ namespace Herencia
         static void Main(string[] args)
         {
             Hijo Javi = new Hijo();
-            
+
             Javi.Id = 12;
             Javi.nombre = "Javier ";
             Javi.aPaterno = "Escobedo ";
