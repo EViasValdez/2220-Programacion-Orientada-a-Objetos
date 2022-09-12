@@ -3,3 +3,8 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Agre
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Agregacion\Agregacion\obj\Debug\net6.0-windows\Agregacion.AssemblyInfoInputs.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Agregacion\Agregacion\obj\Debug\net6.0-windows\Agregacion.AssemblyInfo.cs
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Agregacion\Agregacion\obj\Debug\net6.0-windows\Agregacion.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\Agregacion\Agregacion\obj\Debug\net6.0-windows\Agregacion.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\Agregacion\Agregacion\obj\Debug\net6.0-windows\Agregacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\Agregacion\Agregacion\obj\Debug\net6.0-windows\Agregacion.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\Agregacion\Agregacion\obj\Debug\net6.0-windows\Agregacion.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\Agregacion\Agregacion\obj\Debug\net6.0-windows\Agregacion.csproj.CoreCompileInputs.cache

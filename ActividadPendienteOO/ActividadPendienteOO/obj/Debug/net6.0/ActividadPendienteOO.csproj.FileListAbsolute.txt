@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\ActividadPendienteOO\ActividadPendienteOO\bin\Debug\net6.0\ActividadPendienteOO.exe
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\ActividadPendienteOO\ActividadPendienteOO\bin\Debug\net6.0\ActividadPendienteOO.deps.json
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\ActividadPendienteOO\ActividadPendienteOO\bin\Debug\net6.0\ActividadPendienteOO.runtimeconfig.json
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\ActividadPendienteOO\ActividadPendienteOO\bin\Debug\net6.0\ActividadPendienteOO.dll
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\ActividadPendienteOO\ActividadPendienteOO\bin\Debug\net6.0\ActividadPendienteOO.pdb
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\ActividadPendienteOO\ActividadPendienteOO\obj\Debug\net6.0\ActividadPendienteOO.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\ActividadPendienteOO\ActividadPendienteOO\obj\Debug\net6.0\ActividadPendienteOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\ActividadPendienteOO\ActividadPendienteOO\obj\Debug\net6.0\ActividadPendienteOO.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\ActividadPendienteOO\ActividadPendienteOO\obj\Debug\net6.0\ActividadPendienteOO.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\ActividadPendienteOO\ActividadPendienteOO\obj\Debug\net6.0\ActividadPendienteOO.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\ActividadPendienteOO\ActividadPendienteOO\obj\Debug\net6.0\ActividadPendienteOO.dll
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\ActividadPendienteOO\ActividadPendienteOO\obj\Debug\net6.0\refint\ActividadPendienteOO.dll
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\ActividadPendienteOO\ActividadPendienteOO\obj\Debug\net6.0\ActividadPendienteOO.pdb
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\ActividadPendienteOO\ActividadPendienteOO\obj\Debug\net6.0\ActividadPendienteOO.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\ActividadPendienteOO\ActividadPendienteOO\obj\Debug\net6.0\ref\ActividadPendienteOO.dll
