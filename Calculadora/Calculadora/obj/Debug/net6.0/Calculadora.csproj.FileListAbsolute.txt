@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.exe
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.deps.json
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.runtimeconfig.json
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.dll
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.pdb
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.dll
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora\Calculadora\obj\Debug\net6.0\refint\Calculadora.dll
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.pdb
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora\Calculadora\obj\Debug\net6.0\ref\Calculadora.dll
