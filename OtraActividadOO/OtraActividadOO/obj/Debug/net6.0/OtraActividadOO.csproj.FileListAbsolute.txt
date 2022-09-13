@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\OtraActividadOO\OtraActividadOO\bin\Debug\net6.0\OtraActividadOO.exe
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\OtraActividadOO\OtraActividadOO\bin\Debug\net6.0\OtraActividadOO.deps.json
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\OtraActividadOO\OtraActividadOO\bin\Debug\net6.0\OtraActividadOO.runtimeconfig.json
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\OtraActividadOO\OtraActividadOO\bin\Debug\net6.0\OtraActividadOO.dll
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\OtraActividadOO\OtraActividadOO\bin\Debug\net6.0\OtraActividadOO.pdb
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\OtraActividadOO\OtraActividadOO\obj\Debug\net6.0\OtraActividadOO.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\OtraActividadOO\OtraActividadOO\obj\Debug\net6.0\OtraActividadOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\OtraActividadOO\OtraActividadOO\obj\Debug\net6.0\OtraActividadOO.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\OtraActividadOO\OtraActividadOO\obj\Debug\net6.0\OtraActividadOO.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\OtraActividadOO\OtraActividadOO\obj\Debug\net6.0\OtraActividadOO.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\OtraActividadOO\OtraActividadOO\obj\Debug\net6.0\OtraActividadOO.dll
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\OtraActividadOO\OtraActividadOO\obj\Debug\net6.0\refint\OtraActividadOO.dll
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\OtraActividadOO\OtraActividadOO\obj\Debug\net6.0\OtraActividadOO.pdb
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\OtraActividadOO\OtraActividadOO\obj\Debug\net6.0\OtraActividadOO.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\OtraActividadOO\OtraActividadOO\obj\Debug\net6.0\ref\OtraActividadOO.dll
