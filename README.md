@@ -1,6 +1,6 @@
 # Programacion Orientada a Objetos
 <!----Descripción---->
-Para estos trabajos fueron los primeros en los que utilice para usar el lenguaje C#, se mucho sobre este lenguaje aunque si es algo complicado de instalar.
+Para estos trabajos fueron los primeros en los que utilice para usar el lenguaje C#, se mucho sobre este lenguaje, aunque si es algo complicado de instalar.
 <!----Separador de la descripción ---->
 
 <!----Notas---->
