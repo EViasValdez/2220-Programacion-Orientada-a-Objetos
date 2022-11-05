@@ -1,13 +1,10 @@
 # Programacion Orientada a Objetos
 
 <!----Descripción---->
-
 Para estos trabajos fueron los primeros en los que utilice para usar el lenguaje C#, se mucho sobre este lenguaje, aunque si es algo complicado de instalar.
-
 <!----Separador de la descripción ---->
 
 <!----Notas---->
-
 **Notas**
 
 **- Para ejecutar sin problemas los archivos se necesita tener instalado el SDK de NET Core 6.0.**
@@ -17,8 +14,7 @@ Para estos trabajos fueron los primeros en los que utilice para usar el lenguaje
 **- Los proyectos "ActividadPendienteOO" y "OtraActividadOO" son actividades que no pude pasar a proyectos propios en su momento pero pude hacerlos desde cero y los puse aquí, también fueron ejercicios que hice durante el periodo extraordinario para recuperar materias.**
 
 **- Cambie los tipos de aplicación de NET 2.1 a NET 6.0, debido a que varios proyectos no funcionaban correctamente con el motor nuevo.**
-
-<!----Separador---->
+<!----Separador de las notas---->
 
 <!----Directorio con ubicación de archivos---->
 
