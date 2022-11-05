@@ -17,9 +17,7 @@ Para estos trabajos fueron los primeros en los que utilice para usar el lenguaje
 <!----Separador de las notas---->
 
 <!----Directorio con ubicación de archivos---->
-
 # Directorio con ubicación de archivos
-
 ## ● Unidad 1 ●
 ###### Proyecto1 - 18/01/20
 (Proyecto1/Proyecto1/bin/Debug/net6.0/Proyecto1.deps.json,
@@ -469,5 +467,4 @@ OtraActividadOO/OtraActividadOO/OtraActividadOO.csproj,
 OtraActividadOO/OtraActividadOO/Program.cs,
 OtraActividadOO/OtraActividadOO/color1.cs,
 OtraActividadOO/OtraActividadOO/color2.cs)
-
 <!----Separador del direrctorio con ubicacion de archivos---->
