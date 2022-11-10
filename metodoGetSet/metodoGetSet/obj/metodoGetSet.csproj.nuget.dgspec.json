@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Usuarios\\Eduardo\\Descargas\\GitHub\\2220-Programacion-Orientada-a-Objetos\\MetodoGetSet\\metodoGetSet\\metodoGetSet.csproj": {}
+    "D:\\Usuarios\\Eduardo\\Descargas\\GitHub\\2220-Programacion-Orientada-a-Objetos\\MetodoGetSet\\metodoGetSet\\MetodoGetSet.csproj": {}
   },
   "projects": {
-    "D:\\Usuarios\\Eduardo\\Descargas\\GitHub\\2220-Programacion-Orientada-a-Objetos\\MetodoGetSet\\metodoGetSet\\metodoGetSet.csproj": {
+    "D:\\Usuarios\\Eduardo\\Descargas\\GitHub\\2220-Programacion-Orientada-a-Objetos\\MetodoGetSet\\metodoGetSet\\MetodoGetSet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Usuarios\\Eduardo\\Descargas\\GitHub\\2220-Programacion-Orientada-a-Objetos\\MetodoGetSet\\metodoGetSet\\metodoGetSet.csproj",
-        "projectName": "metodoGetSet",
-        "projectPath": "D:\\Usuarios\\Eduardo\\Descargas\\GitHub\\2220-Programacion-Orientada-a-Objetos\\MetodoGetSet\\metodoGetSet\\metodoGetSet.csproj",
+        "projectUniqueName": "D:\\Usuarios\\Eduardo\\Descargas\\GitHub\\2220-Programacion-Orientada-a-Objetos\\MetodoGetSet\\metodoGetSet\\MetodoGetSet.csproj",
+        "projectName": "MetodoGetSet",
+        "projectPath": "D:\\Usuarios\\Eduardo\\Descargas\\GitHub\\2220-Programacion-Orientada-a-Objetos\\MetodoGetSet\\metodoGetSet\\MetodoGetSet.csproj",
         "packagesPath": "C:\\Users\\defaultuser0\\.nuget\\packages\\",
         "outputPath": "D:\\Usuarios\\Eduardo\\Descargas\\GitHub\\2220-Programacion-Orientada-a-Objetos\\MetodoGetSet\\metodoGetSet\\obj\\",
         "projectStyle": "PackageReference",
