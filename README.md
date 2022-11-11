@@ -468,3 +468,7 @@ OtraActividadOO/OtraActividadOO/Program.cs,
 OtraActividadOO/OtraActividadOO/color1.cs,
 OtraActividadOO/OtraActividadOO/color2.cs)
 <!----Separador del direrctorio con ubicacion de archivos---->
+
+<!----
+###### MetodoGetSet - 03/20
+---->
