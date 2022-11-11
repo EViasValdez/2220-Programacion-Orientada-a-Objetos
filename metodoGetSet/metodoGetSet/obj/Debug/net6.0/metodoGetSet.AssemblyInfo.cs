@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("metodoGetSet")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("MetodoGetSet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("metodoGetSet")]
-[assembly: System.Reflection.AssemblyTitleAttribute("metodoGetSet")]
+[assembly: System.Reflection.AssemblyProductAttribute("MetodoGetSet")]
+[assembly: System.Reflection.AssemblyTitleAttribute("MetodoGetSet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
