@@ -271,7 +271,7 @@ HerenciaAct/HerenciaAct.sln)
 
 <!----Separador---->
 
-###### Listas, Entities - 14/02/20
+###### Listas, Entities1 - 14/02/20
 (Listas/Listas/bin/Debug/net6.0/Listas.deps.json,
 Listas/Listas/bin/Debug/net6.0/Listas.dll,
 Listas/Listas/bin/Debug/net6.0/Listas.exe,
@@ -303,34 +303,34 @@ Listas/Listas/Listas.sln)
 
 <!--Separador-->
 
-(Entities/Entities/bin/Debug/net6.0/Entities.deps.json,
-Entities/Entities/bin/Debug/net6.0/Entities.dll,
-Entities/Entities/bin/Debug/net6.0/Entities.exe,
-Entities/Entities/bin/Debug/net6.0/Entities.pdb,
-Entities/Entities/bin/Debug/net6.0/Entities.runtimeconfig.json,
-Entities/Entities/obj/Debug/net6.0/ref/Entities.dll,
-Entities/Entities/obj/Debug/net6.0/refint/Entities.dll,
-Entities/Entities/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs,
-Entities/Entities/obj/Debug/net6.0/Entities.AssemblyInfo.cs,
-Entities/Entities/obj/Debug/net6.0/Entities.AssemblyInfoInputs.cache,
-Entities/Entities/obj/Debug/net6.0/Entities.GeneratedMSBuildEditorConfig.editorconfig,
-Entities/Entities/obj/Debug/net6.0/Entities.assets.cache,
-Entities/Entities/obj/Debug/net6.0/Entities.csproj.AssemblyReference.cache,
-Entities/Entities/obj/Debug/net6.0/Entities.csproj.CoreCompileInputs.cache,
-Entities/Entities/obj/Debug/net6.0/Entities.csproj.FileListAbsolute.txt,
-Entities/Entities/obj/Debug/net6.0/Entities.dll,
-Entities/Entities/obj/Debug/net6.0/Entities.genruntimeconfig.cache,
-Entities/Entities/obj/Debug/net6.0/Entities.pdb,
-Entities/Entities/obj/Debug/net6.0/apphost.exe,
-Entities/Entities/obj/Entities.csproj.nuget.cache,
-Entities/Entities/obj/Entities.csproj.nuget.dgspec.json,
-Entities/Entities/obj/Entities.csproj.nuget.g.props,
-Entities/Entities/obj/Entities.csproj.nuget.g.targets,
-Entities/Entities/obj/project.assets.json,
-Entities/Entities/obj/project.nuget.cache,
-Entities/Entities/Datos.cs,
-Entities/Entities/Entities.csproj,
-Entities/Entities/Program.cs)
+(Entities1/Entities1/bin/Debug/net6.0/Entities1.deps.json,
+Entities1/Entities1/bin/Debug/net6.0/Entities1.dll,
+Entities1/Entities1/bin/Debug/net6.0/Entities1.exe,
+Entities1/Entities1/bin/Debug/net6.0/Entities1.pdb,
+Entities1/Entities1/bin/Debug/net6.0/Entities1.runtimeconfig.json,
+Entities1/Entities1/obj/Debug/net6.0/ref/Entities1.dll,
+Entities1/Entities1/obj/Debug/net6.0/refint/Entities1.dll,
+Entities1/Entities1/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs,
+Entities1/Entities1/obj/Debug/net6.0/Entities1.AssemblyInfo.cs,
+Entities1/Entities1/obj/Debug/net6.0/Entities1.AssemblyInfoInputs.cache,
+Entities1/Entities1/obj/Debug/net6.0/Entities1.GeneratedMSBuildEditorConfig.editorconfig,
+Entities1/Entities1/obj/Debug/net6.0/Entities1.assets.cache,
+Entities1/Entities1/obj/Debug/net6.0/Entities1.csproj.AssemblyReference.cache,
+Entities1/Entities1/obj/Debug/net6.0/Entities1.csproj.CoreCompileInputs.cache,
+Entities1/Entities1/obj/Debug/net6.0/Entities1.csproj.FileListAbsolute.txt,
+Entities1/Entities1/obj/Debug/net6.0/Entities1.dll,
+Entities1/Entities1/obj/Debug/net6.0/Entities1.genruntimeconfig.cache,
+Entities1/Entities1/obj/Debug/net6.0/Entities1.pdb,
+Entities1/Entities1/obj/Debug/net6.0/apphost.exe,
+Entities1/Entities1/obj/Entities1.csproj.nuget.cache,
+Entities1/Entities1/obj/Entities1.csproj.nuget.dgspec.json,
+Entities1/Entities1/obj/Entities1.csproj.nuget.g.props,
+Entities1/Entities1/obj/Entities1.csproj.nuget.g.targets,
+Entities1/Entities1/obj/project.assets.json,
+Entities1/Entities1/obj/project.nuget.cache,
+Entities1/Entities1/Datos.cs,
+Entities1/Entities1/Entities1.csproj,
+Entities1/Entities1/Program.cs)
 
 <!----Separador---->
 
