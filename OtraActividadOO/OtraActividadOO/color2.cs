@@ -6,19 +6,19 @@ using System.Threading.Tasks;
 
 namespace OtraActividadOO
 {
-    class color2
+    class Color2
     {
-        public string rojogarante;
-        public string amarillooro;
-        public string azulrey;
-        public string verdeoscuro;
+        public string RojoGarante;
+        public string AmarilloOro;
+        public string AzulRey;
+        public string VerdeOscuro;
 
-        public color2()
+        public Color2()
         {
-            rojogarante = "rgb(184, 0, 0)";
-            amarillooro = "rgb(255, 215, 0)";
-            azulrey = "rgb(0, 3, 77)";
-            verdeoscuro = "rgb(28, 168, 0)";
+            RojoGarante = "rgb(184, 0, 0)";
+            AmarilloOro = "rgb(255, 215, 0)";
+            AzulRey = "rgb(0, 3, 77)";
+            VerdeOscuro = "rgb(28, 168, 0)";
         }
     }
 }
