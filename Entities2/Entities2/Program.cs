@@ -11,40 +11,40 @@ namespace Entities2
 
             Boolean sino;
 
-            EntDatos data = new EntDatos();
+            EntDatos Data = new EntDatos();
 
             do
             {
                 Console.WriteLine("Ingrese identificación");
-                data.Id = Console.ReadLine();
+                Data.Id = Console.ReadLine();
                 Console.WriteLine("Ingrese nombre");
-                data.Nombre = Console.ReadLine();
+                Data.Nombre = Console.ReadLine();
                 Console.WriteLine("Ingrese apellido paterno");
-                data.aPaterno = Console.ReadLine();
+                Data.aPaterno = Console.ReadLine();
                 Console.WriteLine("Ingrese apellido materno");
-                data.aMaterno = Console.ReadLine();
+                Data.aMaterno = Console.ReadLine();
                 Console.WriteLine("Ingrese numero");
-                data.Telefono = Console.ReadLine();
+                Data.Telefono = Console.ReadLine();
                 Console.WriteLine("Ingrese Email");
-                data.Email = Console.ReadLine();
+                Data.Email = Console.ReadLine();
                 Console.WriteLine("Ingrese dirección");
-                data.Direccion = Console.ReadLine();
+                Data.Direccion = Console.ReadLine();
                 Console.WriteLine("Ingrese edad");
-                data.Edad = Console.ReadLine();
+                Data.Edad = Console.ReadLine();
                 Console.WriteLine("Ingrese CURP");
-                data.CURP = Console.ReadLine();
+                Data.CURP = Console.ReadLine();
 
-                L.Add (data);
+                L.Add (Data);
 
                 foreach (EntDatos datos in L)
                 {
-                    Console.WriteLine("Nombre completo: " + data.Nombre + " " + data.aPaterno + " " + data.aMaterno);
-                    Console.WriteLine("Identificación: " + data.Id);
-                    Console.WriteLine("Numero de teléfono: " + data.Telefono);
-                    Console.WriteLine("Email: " + data.Email);
-                    Console.WriteLine("Dirección: " + data.Direccion);
-                    Console.WriteLine("Edad: " + data.Edad);
-                    Console.WriteLine("CURP: " + data.CURP);
+                    Console.WriteLine("Nombre completo: " + Data.Nombre + " " + Data.aPaterno + " " + Data.aMaterno);
+                    Console.WriteLine("Identificación: " + Data.Id);
+                    Console.WriteLine("Numero de teléfono: " + Data.Telefono);
+                    Console.WriteLine("Email: " + Data.Email);
+                    Console.WriteLine("Dirección: " + Data.Direccion);
+                    Console.WriteLine("Edad: " + Data.Edad);
+                    Console.WriteLine("CURP: " + Data.CURP);
                 }
 
                 Console.ReadKey();

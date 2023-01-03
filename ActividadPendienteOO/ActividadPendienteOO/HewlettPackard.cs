@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ActividadPendienteOO
 {
-    class Toshiba
+    class HewlettPackard
     {
         public string Id;
         public string Marca;
@@ -18,17 +18,17 @@ namespace ActividadPendienteOO
         public string Procesador;
         public string TarjetaGrafica;
 
-        public Toshiba()
+        public HewlettPackard()
         {
-            Id = "JE2S4B5G";
-            Marca = "Toshiba";
-            Modelo = "LX835-SP0361SM";
-            Tipo = "All-in-One";
+            Id = "KN7V6CTV";
+            Marca = "HP";
+            Modelo = "Pavilion 15-eh0003la";
+            Tipo = "Laptop";
             SistemaOperativo = "Windows 10";
-            Capacidad = "1TB en HDD";
+            Capacidad = "256 GBs en SSD";
             MemoriaRam = "8 GBs";
-            Procesador = "Intel Core i5-12400F";
-            TarjetaGrafica = "XFX RX-570P8DFD6";
+            Procesador = "Intel Core i7-1165G7";
+            TarjetaGrafica = "Gráficos integrados";
         }
     }
 }

@@ -6,7 +6,7 @@ namespace ActividadPendienteOO
     {
         static void Main(string[] args)
         {
-            string opcion;
+            string Opcion;
 
             Console.WriteLine("|||||||||||||||||||||||||||||||||||||");
             Console.WriteLine("■■ Tienda de electronica y computación ■■");
@@ -22,63 +22,63 @@ namespace ActividadPendienteOO
             Console.WriteLine("4. Acer");
             Console.WriteLine("Elige la opción deseada con el numero marcado");
             Console.WriteLine("                                       ");
-            opcion = (Console.ReadLine());
+            Opcion = (Console.ReadLine());
 
-            toshiba tsba = new toshiba();
-            lenovo lnvo = new lenovo();
-            hewlett_packard hepa = new hewlett_packard();
-            acer acer = new acer();
+            Toshiba Tsba = new Toshiba();
+            Lenovo Lnvo = new Lenovo();
+            HewlettPackard Hepa = new HewlettPackard();
+            Acer Ar = new Acer();
 
-            if (opcion == "1")
+            if (Opcion == "1")
             {
                 Console.WriteLine("► Detalles del producto ◄");
-                Console.WriteLine("Id del producto: " + tsba.id);
-                Console.WriteLine("Marca: " + tsba.marca);
-                Console.WriteLine("Modelo: " + tsba.modelo);
-                Console.WriteLine("Tipo de computadora: " + tsba.tipo);
-                Console.WriteLine("Sistema operativo: " + tsba.sistemaoperativo);
-                Console.WriteLine("Capacidad de memoria: " + tsba.capacidad);
-                Console.WriteLine("Procesador: " + tsba.procesador);
-                Console.WriteLine("Tarjeta gráfica: " + tsba.tarjetagrafica);
+                Console.WriteLine("Id del producto: " + Tsba.Id);
+                Console.WriteLine("Marca: " + Tsba.Marca);
+                Console.WriteLine("Modelo: " + Tsba.Modelo);
+                Console.WriteLine("Tipo de computadora: " + Tsba.Tipo);
+                Console.WriteLine("Sistema operativo: " + Tsba.SistemaOperativo);
+                Console.WriteLine("Capacidad de memoria: " + Tsba.Capacidad);
+                Console.WriteLine("Procesador: " + Tsba.Procesador);
+                Console.WriteLine("Tarjeta gráfica: " + Tsba.TarjetaGrafica);
             }
             else
-            if (opcion == "2")
+            if (Opcion == "2")
             {
                 Console.WriteLine("► Detalles del producto ◄");
-                Console.WriteLine("Id del producto: " + lnvo.id);
-                Console.WriteLine("Marca: " + lnvo.marca);
-                Console.WriteLine("Modelo: " + lnvo.modelo);
-                Console.WriteLine("Tipo de computadora: " + lnvo.tipo);
-                Console.WriteLine("Sistema operativo: " + lnvo.sistemaoperativo);
-                Console.WriteLine("Capacidad de memoria: " + lnvo.capacidad);
-                Console.WriteLine("Procesador: " + lnvo.procesador);
-                Console.WriteLine("Tarjeta gráfica: " + lnvo.tarjetagrafica);
+                Console.WriteLine("Id del producto: " + Lnvo.Id);
+                Console.WriteLine("Marca: " + Lnvo.Marca);
+                Console.WriteLine("Modelo: " + Lnvo.Modelo);
+                Console.WriteLine("Tipo de computadora: " + Lnvo.Tipo);
+                Console.WriteLine("Sistema operativo: " + Lnvo.SistemaOperativo);
+                Console.WriteLine("Capacidad de memoria: " + Lnvo.Capacidad);
+                Console.WriteLine("Procesador: " + Lnvo.Procesador);
+                Console.WriteLine("Tarjeta gráfica: " + Lnvo.TarjetaGrafica);
             }
             else
-            if (opcion == "3")
+            if (Opcion == "3")
             {
                 Console.WriteLine("► Detalles del producto ◄");
-                Console.WriteLine("Id del producto: " + hepa.id);
-                Console.WriteLine("Marca: " + hepa.marca);
-                Console.WriteLine("Modelo: " + hepa.modelo);
-                Console.WriteLine("Tipo de computadora: " + hepa.tipo);
-                Console.WriteLine("Sistema operativo: " + hepa.sistemaoperativo);
-                Console.WriteLine("Capacidad de memoria: " + hepa.capacidad);
-                Console.WriteLine("Procesador: " + hepa.procesador);
-                Console.WriteLine("Tarjeta gráfica: " + hepa.tarjetagrafica);
+                Console.WriteLine("Id del producto: " + Hepa.Id);
+                Console.WriteLine("Marca: " + Hepa.Marca);
+                Console.WriteLine("Modelo: " + Hepa.Modelo);
+                Console.WriteLine("Tipo de computadora: " + Hepa.Tipo);
+                Console.WriteLine("Sistema operativo: " + Hepa.SistemaOperativo);
+                Console.WriteLine("Capacidad de memoria: " + Hepa.Capacidad);
+                Console.WriteLine("Procesador: " + Hepa.Procesador);
+                Console.WriteLine("Tarjeta gráfica: " + Hepa.TarjetaGrafica);
             }
             else
-            if (opcion == "4")
+            if (Opcion == "4")
             {
                 Console.WriteLine("► Detalles del producto ◄");
-                Console.WriteLine("Id del producto: " + acer.id);
-                Console.WriteLine("Marca: " + acer.marca);
-                Console.WriteLine("Modelo: " + acer.modelo);
-                Console.WriteLine("Tipo de computadora: " + acer.tipo);
-                Console.WriteLine("Sistema operativo: " + acer.sistemaoperativo);
-                Console.WriteLine("Capacidad de memoria: " + acer.capacidad);
-                Console.WriteLine("Procesador: " + acer.procesador);
-                Console.WriteLine("Tarjeta gráfica: " + acer.tarjetagrafica);
+                Console.WriteLine("Id del producto: " + Ar.Id);
+                Console.WriteLine("Marca: " + Ar.Marca);
+                Console.WriteLine("Modelo: " + Ar.Modelo);
+                Console.WriteLine("Tipo de computadora: " + Ar.Tipo);
+                Console.WriteLine("Sistema operativo: " + Ar.SistemaOperativo);
+                Console.WriteLine("Capacidad de memoria: " + Ar.Capacidad);
+                Console.WriteLine("Procesador: " + Ar.Procesador);
+                Console.WriteLine("Tarjeta gráfica: " + Ar.TarjetaGrafica);
             }
             Console.ReadKey();
         }

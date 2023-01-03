@@ -6,29 +6,29 @@ using System.Threading.Tasks;
 
 namespace ActividadPendienteOO
 {
-    class acer
+    class Acer
     {
-        public string id;
-        public string marca;
-        public string modelo;
-        public string tipo;
-        public string sistemaoperativo;
-        public string capacidad;
-        public string memoriaram;
-        public string procesador;
-        public string tarjetagrafica;
+        public string Id;
+        public string Marca;
+        public string Modelo;
+        public string Tipo;
+        public string SistemaOperativo;
+        public string Capacidad;
+        public string MemoriaRam;
+        public string Procesador;
+        public string TarjetaGrafica;
 
-        public acer()
+        public Acer()
         {
-            id = "N5CV2MYZ";
-            marca = "Acer";
-            modelo = "Aspire C24";
-            tipo = "All-in-One";
-            sistemaoperativo = "Windows 10";
-            capacidad = "1TB en HDD";
-            memoriaram = "8 GBs";
-            procesador = "Intel Core i3 i3-1005G1";
-            tarjetagrafica = "Gráficos integrados";
+            Id = "N5CV2MYZ";
+            Marca = "Acer";
+            Modelo = "Aspire C24";
+            Tipo = "All-in-One";
+            SistemaOperativo = "Windows 10";
+            Capacidad = "1TB en HDD";
+            MemoriaRam = "8 GBs";
+            Procesador = "Intel Core i3 i3-1005G1";
+            TarjetaGrafica = "Gráficos integrados";
         }
     }
 }

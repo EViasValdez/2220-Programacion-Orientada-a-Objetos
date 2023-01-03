@@ -9,11 +9,11 @@ namespace Entities1
         {
             List <Datos> listDatos = new List<Datos>();
 
-            listDatos.Add (new Datos {Id = 1, nombre = "Felix", aPaterno = "Amador", aMaterno = "Bosqueda", direccion = "Estado De Mexico, Mexico", telefono = "" });
-            listDatos.Add (new Datos {Id = 2, nombre = "Armando", aPaterno = "Vazquez Montes", aMaterno = "Villalba", direccion = "Guadalajara, Mexico", telefono = "" });
-            listDatos.Add (new Datos {Id = 3, nombre = "Maria", aPaterno = "Salgado", aMaterno = "Martinez", direccion = "Puebla, Mexico", telefono = "" });
-            listDatos.Add (new Datos {Id = 4, nombre = "Joselyn", aPaterno = "Perez Escobedo", aMaterno = "Rodriguez", direccion = "Queretaro, Mexico", telefono = "" });
-            listDatos.Add (new Datos {Id = 5, nombre = "Mauricio", aPaterno = "Hernandez", aMaterno = "Acevedo", direccion = "Hidalgo, Mexico", telefono = "" });
+            listDatos.Add (new Datos {Id = 1, Nombre = "Felix", APaterno = "Amador", AMaterno = "Bosqueda", Direccion = "Estado De Mexico, Mexico", Telefono = "" });
+            listDatos.Add (new Datos {Id = 2, Nombre = "Armando", APaterno = "Vazquez Montes", AMaterno = "Villalba", Direccion = "Guadalajara, Mexico", Telefono = "" });
+            listDatos.Add (new Datos {Id = 3, Nombre = "Maria", APaterno = "Salgado", AMaterno = "Martinez", Direccion = "Puebla, Mexico", Telefono = "" });
+            listDatos.Add (new Datos {Id = 4, Nombre = "Joselyn", APaterno = "Perez Escobedo", AMaterno = "Rodriguez", Direccion = "Queretaro, Mexico", Telefono = "" });
+            listDatos.Add (new Datos {Id = 5, Nombre = "Mauricio", APaterno = "Hernandez", AMaterno = "Acevedo", Direccion = "Hidalgo, Mexico", Telefono = "" });
         }
     }
 }

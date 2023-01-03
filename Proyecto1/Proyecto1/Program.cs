@@ -10,16 +10,16 @@ namespace Proyecto1
             Auto vehiculo = new Auto();
             // Console.WriteLine("El modelo es: " + vehiculo.modelo);
             // Console.WriteLine("La marca es: " + vehiculo.marca);
-            string mode;
-            string marc;
+            string Mode;
+            string Marc;
 
             Console.WriteLine("Ingrese modelo");
-            mode = Console.ReadLine();
+            Mode = Console.ReadLine();
             Console.WriteLine("Ingrese marca");
-            marc = Console.ReadLine();
+            Marc = Console.ReadLine();
 
-            Auto nave = new Auto (mode, marc);
-            Console.WriteLine(nave.marca + " " + nave.modelo);
+            Auto Nave = new Auto (Mode, Marc);
+            Console.WriteLine(Nave.marca + " " + Nave.modelo);
         }
     }
 }

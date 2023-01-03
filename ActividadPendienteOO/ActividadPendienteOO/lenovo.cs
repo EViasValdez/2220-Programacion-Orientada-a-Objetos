@@ -6,29 +6,29 @@ using System.Threading.Tasks;
 
 namespace ActividadPendienteOO
 {
-    class lenovo
+    class Lenovo
     {
-        public string id;
-        public string marca;
-        public string modelo;
-        public string tipo;
-        public string sistemaoperativo;
-        public string capacidad;
-        public string memoriaram;
-        public string procesador;
-        public string tarjetagrafica;
+        public string Id;
+        public string Marca;
+        public string Modelo;
+        public string Tipo;
+        public string SistemaOperativo;
+        public string Capacidad;
+        public string MemoriaRam;
+        public string Procesador;
+        public string TarjetaGrafica;
 
-        public lenovo()
+        public Lenovo()
         {
-            id = "ZNAS6Z2M";
-            marca = "Lenovo";
-            modelo = "IdeaPad 5i";
-            tipo = "Laptop";
-            sistemaoperativo = "Windows 10";
-            capacidad = "1TB en HDD y 256GBs en SSD";
-            memoriaram = "8 GBs";
-            procesador = "AMD Ryzen 5000";
-            tarjetagrafica = "AMD Radeon";
+            Id = "ZNAS6Z2M";
+            Marca = "Lenovo";
+            Modelo = "IdeaPad 5i";
+            Tipo = "Laptop";
+            SistemaOperativo = "Windows 10";
+            Capacidad = "1TB en HDD y 256GBs en SSD";
+            MemoriaRam = "8 GBs";
+            Procesador = "AMD Ryzen 5000";
+            TarjetaGrafica = "AMD Radeon";
         }
     }
 }

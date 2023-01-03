@@ -6,19 +6,19 @@ namespace metodoGetSet
 {
     class Metodo
     {
-        string nombre;
+        string Nombre;
 
         public void setValor(string nom)
         {
-            nombre = nom;
+            Nombre = nom;
         }
         public string getValor()
         {
-            if (nombre == "Eduardo")
+            if (Nombre == "Eduardo")
             {
-                nombre = "El nombre es Eduardo";
+                Nombre = "El nombre es Eduardo";
             }
-            return nombre;
+            return Nombre;
         }
     }
 }

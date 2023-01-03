@@ -13,25 +13,25 @@ namespace metodoGetSet
             // e.nombre = "Javier";
             // Console.ReadKey();
 
-            Practica pract = new Practica();
+            Practica Pract = new Practica();
 
             Console.WriteLine("Ingrese el Id");
-            pract.Id = int.Parse(Console.ReadLine());
+            Pract.Id = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Ingrese el nombre");
-            pract.Nombre = (Console.ReadLine());
+            Pract.Nombre = (Console.ReadLine());
 
             Console.WriteLine("Ingrese el total");
-            pract.total = float.Parse(Console.ReadLine());
-            pract.Iva = pract.total;
+            Pract.total = float.Parse(Console.ReadLine());
+            Pract.Iva = Pract.total;
 
             Console.WriteLine("----------------");
-            Console.WriteLine("El id es: " + pract.Id + " con nombre: " + pract.Nombre);
-            Console.WriteLine("Con un total de: " + pract.total);
-            Console.WriteLine("Un iva de: " + pract.Iva);
-            Console.WriteLine("El total iva es: " + pract.totalIva);
-            Console.WriteLine("El descuento es: " + pract.descuento);
-            Console.WriteLine(pract.Iva);
+            Console.WriteLine("El id es: " + Pract.Id + " con nombre: " + Pract.Nombre);
+            Console.WriteLine("Con un total de: " + Pract.total);
+            Console.WriteLine("Un iva de: " + Pract.Iva);
+            Console.WriteLine("El total iva es: " + Pract.totalIva);
+            Console.WriteLine("El descuento es: " + Pract.descuento);
+            Console.WriteLine(Pract.Iva);
         }
     }
 }
