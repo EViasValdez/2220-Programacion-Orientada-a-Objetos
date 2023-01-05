@@ -2,7 +2,7 @@
 
 <!----Descripción---->
 Estos trabajos de esta materia fueron los primeros en los que utilice para usar el lenguaje C#, se mucho sobre este lenguaje, aunque si es algo complicado de instalar.
-<!----Separador de la descripción ---->
+<!----Separador de la descripción---->
 
 <!----Notas---->
 **Notas**
@@ -17,7 +17,7 @@ Estos trabajos de esta materia fueron los primeros en los que utilice para usar 
 <!----Separador de las notas---->
 
 <!----Directorio con descripcion de los programas---->
-# Directorio con ubicación de archivos
+# Descripcion de los programas
 ## ● Unidad 1 ●
 ###### Proyecto1 - 18/01/20
 Texto por ser escrito.
