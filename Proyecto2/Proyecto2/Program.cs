@@ -8,20 +8,20 @@ namespace Proyecto2
         {
             Persona Eduardo = new Persona();
             
-            Console.WriteLine("El curp / id es: " + Eduardo.id);
-            Console.WriteLine("El nombre es: " + Eduardo.nombre);
-            Console.WriteLine("El apellido paterno es: " + Eduardo.apellidoPaterno);
-            Console.WriteLine("El apellido materno es: " + Eduardo.apellidoMaterno);
-            Console.WriteLine("El genero es: " + Eduardo.genero);
-            Console.WriteLine("Su dirección es: " + Eduardo.direccion);
+            Console.WriteLine("El curp / id es: " + Eduardo.Id);
+            Console.WriteLine("El nombre es: " + Eduardo.Nombre);
+            Console.WriteLine("El apellido paterno es: " + Eduardo.ApellidoPaterno);
+            Console.WriteLine("El apellido materno es: " + Eduardo.ApellidoMaterno);
+            Console.WriteLine("El genero es: " + Eduardo.Genero);
+            Console.WriteLine("Su dirección es: " + Eduardo.Direccion);
 
             Persona info = new Persona();
-            info.id = "458";
-            info.nombre = "";
-            info.apellidoPaterno = "";
-            info.apellidoMaterno = "";
-            info.genero = "";
-            info.direccion = "";
+            info.Id = "458";
+            info.Nombre = "";
+            info.ApellidoPaterno = "";
+            info.ApellidoMaterno = "";
+            info.Genero = "";
+            info.Direccion = "";
         }
     }
 }

@@ -6,9 +6,9 @@ namespace HerenciaAct
 {
     public class Cliente:Datos
     {
-        public string sueldo { get; set; }
-        public string turno { get; set; }
-        public string cargo { get; set; }
-        public string antiguedad { get; set; }
+        public string Sueldo { get; set; }
+        public string Turno { get; set; }
+        public string Cargo { get; set; }
+        public string Antiguedad { get; set; }
     }
 }

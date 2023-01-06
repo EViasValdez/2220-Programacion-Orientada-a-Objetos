@@ -19,10 +19,10 @@ namespace HerenciaAct
             Empl.Nombre = Console.ReadLine();
 
             Console.WriteLine("Ingrese apellido materno");
-            Empl.aPaterno = Console.ReadLine();
+            Empl.APaterno = Console.ReadLine();
 
             Console.WriteLine("Ingrese apellido paterno");
-            Empl.aMaterno = Console.ReadLine();
+            Empl.AMaterno = Console.ReadLine();
 
             Console.WriteLine("================");
 
@@ -44,14 +44,14 @@ namespace HerenciaAct
             Console.WriteLine("He aquí los datos del empleado");
             Console.WriteLine("El id es: " + Empl.Id);
             Console.WriteLine("El nombre es: " + Empl.Nombre);
-            Console.WriteLine("El apellido paterno es: " + Empl.aPaterno);
-            Console.WriteLine("El apellido materno es: " + Empl.aMaterno);
+            Console.WriteLine("El apellido paterno es: " + Empl.APaterno);
+            Console.WriteLine("El apellido materno es: " + Empl.AMaterno);
 
             Console.WriteLine("He aquí los datos del cliente");
-            Console.WriteLine("El sueldo es: " + Clien.sueldo);
-            Console.WriteLine("El turno es: " + Clien.turno);
-            Console.WriteLine("El cargo es: " + Clien.cargo);
-            Console.WriteLine("El cargo es: " + Clien.antiguedad);
+            Console.WriteLine("El sueldo es: " + Clien.Sueldo);
+            Console.WriteLine("El turno es: " + Clien.Turno);
+            Console.WriteLine("El cargo es: " + Clien.Cargo);
+            Console.WriteLine("El cargo es: " + Clien.Antiguedad);
         }
     }
 }

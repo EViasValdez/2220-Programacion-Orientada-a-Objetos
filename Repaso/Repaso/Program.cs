@@ -6,11 +6,11 @@ namespace Repaso
     {
         static void Main(string[] args)
         {
-            Alumno alum = new Alumno();
+            Alumno Alum = new Alumno();
 
-            Console.WriteLine("El alumno " + alum.nombre);
-            alum.apellidopaterno;
-            alum.apellidomaterno;
+            Console.WriteLine("El alumno " + Alum.nombre);
+            Alum.ApellidoPaterno;
+            Alum.ApellidoMaterno;
         }
     }
 }

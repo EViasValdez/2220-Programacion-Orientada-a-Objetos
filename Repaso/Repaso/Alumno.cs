@@ -6,19 +6,19 @@ namespace Repaso
 {
     class Alumno
     {
-        public string nombre;
-        public string apellidomaterno;
-        public string apellidopaterno;
-        public int edad;
-        public string matricula;
+        public string Nombre;
+        public string ApellidoMaterno;
+        public string ApellidoPaterno;
+        public int Edad;
+        public string Matricula;
 
         public Alumno()
         {
-            nombre = "Martin";
-            apellidomaterno = "Armando Salgado";
-            apellidopaterno = "Villareal";
-            edad = 20;
-            matricula = "1410204044";
+            Nombre = "Martin";
+            ApellidoMaterno = "Armando Salgado";
+            ApellidoPaterno = "Villareal";
+            Edad = 20;
+            Matricula = "1410204044";
         }
     }
 }

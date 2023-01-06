@@ -6,21 +6,21 @@ namespace Proyecto2
 {
     class Persona
     {
-        public string id;
-        public string nombre;
-        public string apellidoPaterno;
-        public string apellidoMaterno;
-        public string genero;
-        public string direccion;
+        public string Id;
+        public string Nombre;
+        public string ApellidoPaterno;
+        public string ApellidoMaterno;
+        public string Genero;
+        public string Direccion;
 
         public Persona()
         {
-            id = "123";
-            nombre = "Eduardo";
-            apellidoPaterno = "Viñas";
-            apellidoMaterno = "Valdez";
-            genero = "Masculino";
-            direccion = "Villa del real segunda seccion, Tecamac";
+            Id = "123";
+            Nombre = "Eduardo";
+            ApellidoPaterno = "Viñas";
+            ApellidoMaterno = "Valdez";
+            Genero = "Masculino";
+            Direccion = "Villa del real segunda seccion, Tecamac";
         }
     }
 }

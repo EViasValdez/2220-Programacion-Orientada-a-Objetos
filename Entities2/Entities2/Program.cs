@@ -20,9 +20,9 @@ namespace Entities2
                 Console.WriteLine("Ingrese nombre");
                 Data.Nombre = Console.ReadLine();
                 Console.WriteLine("Ingrese apellido paterno");
-                Data.aPaterno = Console.ReadLine();
+                Data.APaterno = Console.ReadLine();
                 Console.WriteLine("Ingrese apellido materno");
-                Data.aMaterno = Console.ReadLine();
+                Data.AMaterno = Console.ReadLine();
                 Console.WriteLine("Ingrese numero");
                 Data.Telefono = Console.ReadLine();
                 Console.WriteLine("Ingrese Email");
@@ -34,11 +34,11 @@ namespace Entities2
                 Console.WriteLine("Ingrese CURP");
                 Data.CURP = Console.ReadLine();
 
-                L.Add (Data);
+                L.Add(Data);
 
                 foreach (EntDatos datos in L)
                 {
-                    Console.WriteLine("Nombre completo: " + Data.Nombre + " " + Data.aPaterno + " " + Data.aMaterno);
+                    Console.WriteLine("Nombre completo: " + Data.Nombre + " " + Data.APaterno + " " + Data.AMaterno);
                     Console.WriteLine("Identificación: " + Data.Id);
                     Console.WriteLine("Numero de teléfono: " + Data.Telefono);
                     Console.WriteLine("Email: " + Data.Email);

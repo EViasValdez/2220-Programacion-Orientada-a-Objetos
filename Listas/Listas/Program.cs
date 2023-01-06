@@ -7,16 +7,16 @@ namespace Listas
     {
         static void Main(string[] args)
         {
-            int num;
-            int elem;
+            int Num;
+            int Elem;
 
             List <int> miList = new List<int>();
 
             Console.WriteLine("Ingrese el numero de elementos");
-            elem = int.Parse(Console.ReadLine());
+            Elem = int.Parse(Console.ReadLine());
 
             Console.WriteLine("=================");
-            for (int i = 0; i < elem; i++)
+            for (int i = 0; i < Elem; i++)
             {
                 Console.WriteLine("Ingrese un entero");
                 int mundos = int.Parse(Console.ReadLine());
