@@ -3,3 +3,8 @@ D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\Repas
 D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\Repaso\Repaso\obj\Debug\net6.0\Repaso.AssemblyInfoInputs.cache
 D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\Repaso\Repaso\obj\Debug\net6.0\Repaso.AssemblyInfo.cs
 D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\Repaso\Repaso\obj\Debug\net6.0\Repaso.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Repaso\Repaso\obj\Debug\net6.0\Repaso.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Repaso\Repaso\obj\Debug\net6.0\Repaso.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Repaso\Repaso\obj\Debug\net6.0\Repaso.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Repaso\Repaso\obj\Debug\net6.0\Repaso.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Repaso\Repaso\obj\Debug\net6.0\Repaso.csproj.CoreCompileInputs.cache

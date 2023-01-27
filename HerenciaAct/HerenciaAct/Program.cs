@@ -28,16 +28,16 @@ namespace HerenciaAct
 
             Console.WriteLine("Datos del cliente");
             Console.WriteLine("Ingrese sueldo");
-            Clien.sueldo = Console.ReadLine();
+            Clien.Sueldo = Console.ReadLine();
 
             Console.WriteLine("Ingrese turno");
-            Clien.turno = Console.ReadLine();
+            Clien.Turno = Console.ReadLine();
 
             Console.WriteLine("Ingrese cargo");
-            Clien.cargo = Console.ReadLine();
+            Clien.Cargo = Console.ReadLine();
 
             Console.WriteLine("Ingrese antigüedad");
-            Clien.antiguedad = Console.ReadLine();
+            Clien.Antiguedad = Console.ReadLine();
 
             Console.WriteLine("================");
 

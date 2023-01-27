@@ -22,14 +22,14 @@ namespace metodoGetSet
             Pract.Nombre = (Console.ReadLine());
 
             Console.WriteLine("Ingrese el total");
-            Pract.total = float.Parse(Console.ReadLine());
-            Pract.Iva = Pract.total;
+            Pract.Total = float.Parse(Console.ReadLine());
+            Pract.Iva = Pract.Total;
 
             Console.WriteLine("----------------");
             Console.WriteLine("El id es: " + Pract.Id + " con nombre: " + Pract.Nombre);
-            Console.WriteLine("Con un total de: " + Pract.total);
+            Console.WriteLine("Con un total de: " + Pract.Total);
             Console.WriteLine("Un iva de: " + Pract.Iva);
-            Console.WriteLine("El total iva es: " + Pract.totalIva);
+            Console.WriteLine("El total iva es: " + Pract.TotalIva);
             Console.WriteLine("El descuento es: " + Pract.descuento);
             Console.WriteLine(Pract.Iva);
         }

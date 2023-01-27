@@ -13,3 +13,11 @@ D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\metod
 D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\metodoGetSet\metodoGetSet\obj\Debug\net6.0\metodoGetSet.pdb
 D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\metodoGetSet\metodoGetSet\obj\Debug\net6.0\metodoGetSet.genruntimeconfig.cache
 D:\Usuarios\Eduardo\Descargas\GitHub\2220-Programacion-Orientada-a-Objetos\metodoGetSet\metodoGetSet\obj\Debug\net6.0\ref\metodoGetSet.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\MetodoGetSet\MetodoGetSet\obj\Debug\net6.0\MetodoGetSet.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\MetodoGetSet\MetodoGetSet\obj\Debug\net6.0\MetodoGetSet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\MetodoGetSet\MetodoGetSet\obj\Debug\net6.0\MetodoGetSet.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\MetodoGetSet\MetodoGetSet\obj\Debug\net6.0\MetodoGetSet.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\MetodoGetSet\MetodoGetSet\obj\Debug\net6.0\MetodoGetSet.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\MetodoGetSet\MetodoGetSet\obj\Debug\net6.0\MetodoGetSet.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\MetodoGetSet\MetodoGetSet\obj\Debug\net6.0\refint\MetodoGetSet.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\MetodoGetSet\MetodoGetSet\obj\Debug\net6.0\MetodoGetSet.pdb

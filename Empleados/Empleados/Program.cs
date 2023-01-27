@@ -8,33 +8,33 @@ namespace Empleados
     {
         static void Main(string[] args)
         {
-            Personal per = new Personal();
-            Nomina nom = new Nomina();
+            Personal Per = new Personal();
+            Nomina Nom = new Nomina();
             
-            string otra = "";
+            string Otra = "";
             int i = 0;
 
             do
             {
                 Console.WriteLine("Ingrese el id del empleado");
-                string id = Console.ReadLine();
+                string Id = Console.ReadLine();
 
                 Console.WriteLine("Ingrese días trabajados");
-                int dias = int.Parse(Console.ReadLine());
+                int Dias = int.Parse(Console.ReadLine());
 
-                if (id != per.identificador)
+                if (id != Per.Identificador)
                 {
                     Console.WriteLine("Error usuario no valido");
-                    otra = "s";
+                    Otra = "s";
                     Console.ReadKey();
                     Console.Clear();
                 }
                 else
                 {
                     Console.WriteLine("Ingrese los datos trabajados");
-                    float salario = nom.calculo (dias, per.sueldo);
+                    float Salario = Nom.calculo (Dias, Per.Sueldo);
                     
-                    Console.WriteLine("El empleado " + per.nombre + per.identificador + per.fechadenacimiento + "Tiene un saldo de: " + salario);
+                    Console.WriteLine("El empleado " + Per.Nombre + Per.Identificador + Per.fechadenacimiento + "Tiene un saldo de: " + Salario);
                 }
             }
             while (i < 2);
