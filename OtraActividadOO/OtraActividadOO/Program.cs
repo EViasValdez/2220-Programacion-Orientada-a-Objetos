@@ -6,7 +6,7 @@ namespace OtraActividadOO
     {
         static void Main(string[] args)
         {
-            string opcion;
+            string Opcion;
 
             Console.WriteLine("—— En cada archivo creado hay dos tipos de colores definidos ——");
             Console.WriteLine("—— Los colores que se consideran normales y los que surgen de combinaciones de otros colores ——");
@@ -18,12 +18,12 @@ namespace OtraActividadOO
             Console.WriteLine("2. Colores secundarios");
             Console.WriteLine("                                       ");
 
-            opcion = (Console.ReadLine());
+            Opcion = (Console.ReadLine());
 
             Color1 C1 = new Color1();
             Color2 C2 = new Color2();
 
-            if (opcion == "1")
+            if (Opcion == "1")
             {
                 Console.WriteLine("▌ Los colores primarios que se tienen son ▐");
                 Console.WriteLine("Rojo: " + C1.Rojo);
@@ -32,7 +32,7 @@ namespace OtraActividadOO
                 Console.WriteLine("Verde: " + C1.Verde);
             }
             else
-            if (opcion == "2")
+            if (Opcion == "2")
             {
                 Console.WriteLine("▌ Los colores secundarios que se tienen son ▐");
                 Console.WriteLine("Rojo garante: " + C2.RojoGarante);
