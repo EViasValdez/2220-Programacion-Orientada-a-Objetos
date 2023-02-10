@@ -6,40 +6,40 @@ namespace Proyecto1
 {
     class Auto
     {
-        public string id;
-        public string modelo;
-        public string marca;
-        public string color;
-        public int annio;
-        public string categoria;
+        public string Id;
+        public string Modelo;
+        public string Marca;
+        public string Color;
+        public int Annio;
+        public string Categoria;
         public string placa;
-        public float precio;
-        public string submarca;
+        public float Precio;
+        public string Submarca;
         string x, y;
 
-        public Auto(string model, string marca, string nada)
+        public Auto(string Model, string Marca, string Nada)
         {
             Console.WriteLine("Escriba la marca");
             x = Console.ReadLine();
             Console.ReadLine();
             y = Console.ReadLine();
         }
-        public Auto(string modelo, string marca)
+        public Auto(string Modelo, string Marca)
         {
-            modelo = "Forte";
-            marca = "Kia";
+            Modelo = "Forte";
+            Marca = "Kia";
         }
         public Auto()
         {
-            id = "62";
-            annio = 2018;
-            categoria = "A";
-            color = "Blanco";
-            marca = "Ford";
-            modelo = "GT";
-            placa = "RSG - 012 - 201";
-            precio = 752400f;
-            submarca = "Ford Mustang";
+            Id = "62";
+            Annio = 2018;
+            Categoria = "A";
+            Color = "Blanco";
+            Marca = "Ford";
+            Modelo = "GT";
+            Placa = "RSG - 012 - 201";
+            Precio = 752400f;
+            Submarca = "Ford Mustang";
         }
     }
 }

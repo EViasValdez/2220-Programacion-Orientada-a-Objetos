@@ -10,7 +10,7 @@ namespace Listas
             int Num;
             int Elem;
 
-            List <int> miList = new List<int>();
+            List <int> MiList = new List<int>();
 
             Console.WriteLine("Ingrese el numero de elementos");
             Elem = int.Parse(Console.ReadLine());
@@ -20,9 +20,9 @@ namespace Listas
             {
                 Console.WriteLine("Ingrese un entero");
                 int mundos = int.Parse(Console.ReadLine());
-                miList.Add (mundos);
+                MiList.Add (mundos);
             }
-            foreach (int i in miList)
+            foreach (int i in MiList)
             {
                 Console.WriteLine("=================");
                 Console.WriteLine(i);
