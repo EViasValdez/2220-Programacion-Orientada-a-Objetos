@@ -6,12 +6,12 @@ namespace Asesorias
 {
     class A
     {
-        public int id { get; set; }
-        public string tipoauto { get; set; }
-        public string marca { get; set; }
-        public string modelo { get; set; }
-        public string codigoplaca { get; set; }
-        public int numserie { get; set; }
-        public int numasientos { get; set; }
+        public int Id { get; set; }
+        public string TipoAuto { get; set; }
+        public string Marca { get; set; }
+        public string Modelo { get; set; }
+        public string CodigoPlaca { get; set; }
+        public int NumSerie { get; set; }
+        public int NumAsientos { get; set; }
     }
 }

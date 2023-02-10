@@ -11,22 +11,22 @@ namespace Asesorias
             Console.WriteLine("==····==");
             Console.WriteLine("Sea bienvenido");
 
-            bool electo = false;
-            string sino;
+            bool Electo = false;
+            string Sino;
 
             // Crear una repeticion en el programa.
             do
 			{
                 Console.WriteLine("¿Que acción desea realizar?");
-                string accion;
-                accion = (Console.ReadLine());
+                string Accion;
+                Accion = (Console.ReadLine());
 
-                if (accion == "mostrar")
+                if (Accion == "mostrar")
                 {
                     Console.WriteLine("Usted eligió mostrar");
                     Console.WriteLine("Elige una clase");
 
-                    string clase;
+                    string Clase;
                     
                     Console.WriteLine("1. Auto");
                     Console.WriteLine("2. Computadora");
@@ -34,52 +34,52 @@ namespace Asesorias
                     Console.WriteLine("4. Pizarron");
                     Console.WriteLine("5. Teclado");
                     Console.WriteLine("6. Mouse");
-                    clase = (Console.ReadLine());
+                    Clase = (Console.ReadLine());
 
                     // Pantalla de selección usando if.
-                    if (clase == "1")
+                    if (Clase == "1")
                     {
                         Auto vehiculo = new Auto(); // Llamada de la clase.
                         vehiculo.mostrarauto(); // Llamada del método.
                     }
                     else
-                    if (clase == "2")
+                    if (Clase == "2")
                     {
                         Computadora computador = new Computadora();
                         computador.mostrarcomputadora();
                     }
                     else
-                    if (clase == "3")
+                    if (Clase == "3")
                     {
                         Banco banca = new Banco();
                         banca.mostrarbanco();
                     }
                     else
-                    if (clase == "4")
+                    if (Clase == "4")
                     {
                         Pizarron pizar = new Pizarron();
                         pizar.mostrarpizarron();
                     }
                     else
-                    if (clase == "5")
+                    if (Clase == "5")
                     {
                         Teclado tecl = new Teclado();
                         tecl.mostrarteclado();
                     }
                     else
-                    if (clase == "6")
+                    if (Clase == "6")
                     {
                         Mouse rato = new Mouse();
                         rato.mostrarmouse();
                     }
                     }
                     else
-                    if (accion == "borrar") // Abrir el método "borrar".
+                    if (Accion == "Borrar") // Abrir el método "borrar".
                     {
-                        Console.WriteLine("Usted eligió borrar");
+                        Console.WriteLine("Usted eligió Borrar");
                         Console.WriteLine("Elige una clase");
 
-                        string clase2;
+                        string Clase2;
 
                         Console.WriteLine("1. Auto"); // Unicamente funciona la primera opción.
                         Console.WriteLine("2. Computadora");
@@ -87,53 +87,53 @@ namespace Asesorias
                         Console.WriteLine("4. Pizarron");
                         Console.WriteLine("5. Teclado");
                         Console.WriteLine("6. Mouse");
-                        clase2 = (Console.ReadLine());
+                        Clase2 = (Console.ReadLine());
 
-                        if (clase2 == "1")
+                        if (Clase2 == "1")
                         {
 			                Auto auto2 = new Auto();
 			                auto2.borrarauto();
                         }
                         }
-                        electo = true;
+                        Electo = true;
                     
                     Console.WriteLine("¿Desea agregar otros datos?");
-			        sino = Console.ReadLine();
+			        Sino = Console.ReadLine();
 
-                    if (sino.ToLower().Equals("no")) {
-                        electo = false;
+                    if (Sino.ToLower().Equals("no")) {
+                        Electo = false;
                     }
-                } while (electo);
+                } while (Electo);
         }
     }
     public class Auto // Clase del auto.
     {
-        public string tipoauto { get; set; } // Generación de elementos.
-        public string marca { get; set; }
-        public string modelo { get; set; }
-        public string codigoplaca { get; set; }
-        public int numserie { get; set; }
-        public int numasientos { get; set; }
+        public string TipoAuto { get; set; } // Generación de elementos.
+        public string Marca { get; set; }
+        public string Modelo { get; set; }
+        public string CodigoPlaca { get; set; }
+        public int NumSerie { get; set; }
+        public int NumAsientos { get; set; }
 
-        public void mostrarauto() // Metodo para convocar por medio de la clase.
+        public void mostrarauto() // Metodo para convocar por medio de la Clase.
         {
             Console.WriteLine("Usted eligió la opción Automobil, ingrese cualquier tecla para continuar");
             Console.ReadKey();
 
-            Auto automobil = new Auto();
+            Auto Automobil = new Auto();
             List <Auto> ListaAuto = new List<Auto>(); // Generación de una lista.
 
             Console.WriteLine("Ingrese la información"); 
             Console.WriteLine("Ponga el tipo de auto"); // Ingreso de datos.
-            automobil.tipoauto = Console.ReadLine();
-            Console.WriteLine("Ponga la marca");
-            automobil.marca = Console.ReadLine();
-            Console.WriteLine("Ponga el modelo");
-            automobil.modelo = Console.ReadLine();
+            Automobil.TipoAuto = Console.ReadLine();
+            Console.WriteLine("Ponga la Marca");
+            Automobil.Marca = Console.ReadLine();
+            Console.WriteLine("Ponga el Modelo");
+            Automobil.Modelo = Console.ReadLine();
             Console.WriteLine("Ponga el numero de asientos");
-            automobil.numasientos = int.Parse(Console.ReadLine());
+            Automobil.NumAsientos = int.Parse(Console.ReadLine());
 
-            ListaAuto.Add(automobil); // Registro de datos en la lista.
+            ListaAuto.Add(Automobil); // Registro de datos en la lista.
 
             Console.WriteLine("====================");
             Console.ReadKey();
@@ -141,43 +141,43 @@ namespace Asesorias
             foreach (Auto au in ListaAuto)
             {
                 Console.WriteLine("Aquí están los datos ingresados"); // Retorno de datos.
-                Console.WriteLine("Tipo de auto: " + automobil.tipoauto);
-                Console.WriteLine("Marca: " + automobil.marca);
-                Console.WriteLine("Modelo: " + automobil.modelo);
-                Console.WriteLine("Numero de asientos: " + automobil.numasientos);
+                Console.WriteLine("Tipo de auto: " + Automobil.TipoAuto);
+                Console.WriteLine("Marca: " + Automobil.Marca);
+                Console.WriteLine("Modelo: " + Automobil.Modelo);
+                Console.WriteLine("Numero de asientos: " + Automobil.NumAsientos);
             }
         }
-        public void borrarauto() // Método para borrar datos por medio de la clase.
+        public void borrarauto() // Método para borrar datos por medio de la Clase.
         {
             Console.WriteLine("Este método esta inconcluso");
         }
     }
     public class Computadora // Clase de la computadora.
     {
-		public string marca { get; set; }
-        public string modelo { get; set; }
-        public string sistemaoperativo { get; set; }
-        public string procesador { get; set; }
+		public string Marca { get; set; }
+        public string Modelo { get; set; }
+        public string SistemaOperativo { get; set; }
+        public string Procesador { get; set; }
 
 		public void mostrarcomputadora()
 		{
             Console.WriteLine("Usted eligió la opción Computadora, ingrese cualquier tecla para continuar");
             Console.ReadKey();
 
-            Computadora ordenador = new Computadora();
+            Computadora Ordenador = new Computadora();
             List <Computadora> ListaComp = new List<Computadora>();
 
             Console.WriteLine("Ingrese la información");
-            Console.WriteLine("Ponga la marca de la computadora");
-            ordenador.marca = Console.ReadLine();
-            Console.WriteLine("Ponga el modelo");
-            ordenador.modelo = Console.ReadLine();
+            Console.WriteLine("Ponga la Marca de la computadora");
+            Ordenador.Marca = Console.ReadLine();
+            Console.WriteLine("Ponga el Modelo");
+            Ordenador.Modelo = Console.ReadLine();
             Console.WriteLine("Ponga el sistema operativo");
-            ordenador.sistemaoperativo = Console.ReadLine();
+            Ordenador.SistemaOperativo = Console.ReadLine();
             Console.WriteLine("Ponga el nombre del procesador");
-            ordenador.procesador = Console.ReadLine();
+            Ordenador.Procesador = Console.ReadLine();
 
-            ListaComp.Add(ordenador);
+            ListaComp.Add(Ordenador);
 
             Console.WriteLine("====================");
             Console.ReadKey(); // Retorno de datos.
@@ -185,10 +185,10 @@ namespace Asesorias
             foreach (Computadora orden in ListaComp)
             {
                 Console.WriteLine("Aquí están los datos ingresados");
-                Console.WriteLine("Marca: " + ordenador.marca);
-                Console.WriteLine("Modelo: " + ordenador.modelo);
-                Console.WriteLine("Sistema operativo: " + ordenador.sistemaoperativo);
-                Console.WriteLine("Procesador: " + ordenador.procesador);
+                Console.WriteLine("Marca: " + Ordenador.Marca);
+                Console.WriteLine("Modelo: " + Ordenador.Modelo);
+                Console.WriteLine("Sistema operativo: " + Ordenador.SistemaOperativo);
+                Console.WriteLine("Procesador: " + Ordenador.Procesador);
             }
         }
     }
@@ -233,7 +233,7 @@ namespace Asesorias
     }
     public class Pizarron // Clase del pizarron.
     {
-        public string marca { get; set; }
+        public string Marca { get; set; }
         public string color { get; set; }
         public string tipo { get; set; }
         public string tamaño { get; set; }
@@ -246,8 +246,8 @@ namespace Asesorias
 			Pizarron pizarra = new Pizarron();
             List <Pizarron> ListaPizarron = new List <Pizarron>();
 
-			Console.WriteLine("Ponga la marca del pizarron");
-			pizarra.marca = Console.ReadLine();
+			Console.WriteLine("Ponga la Marca del pizarron");
+			pizarra.Marca = Console.ReadLine();
 			Console.WriteLine("Ponga el color del pizarron");
 			pizarra.color = Console.ReadLine();
 			Console.WriteLine("Ponga el tipo de pizarron");
@@ -263,7 +263,7 @@ namespace Asesorias
             foreach (Pizarron pizar in ListaPizarron)
             {
                 Console.WriteLine("Aquí están los datos ingresados");
-                Console.WriteLine("Marca: " + pizarra.marca);
+                Console.WriteLine("Marca: " + pizarra.Marca);
                 Console.WriteLine("Color: " + pizarra.color);
                 Console.WriteLine("Tipo: " + pizarra.tipo);
                 Console.WriteLine("Tamaño: " + pizarra.tamaño);
@@ -272,7 +272,7 @@ namespace Asesorias
     }
     public class Teclado // Clase del teclado.
     {
-        public string marca { get; set; }
+        public string Marca { get; set; }
         public string color { get; set; }
         public string tipo { get; set; }
         public string padnumerico { get; set; }
@@ -285,8 +285,8 @@ namespace Asesorias
             Teclado key = new Teclado();
             List <Teclado> ListaTeclado = new List<Teclado>();
 
-            Console.WriteLine("Ponga la marca del teclado");
-            key.marca = Console.ReadLine();
+            Console.WriteLine("Ponga la Marca del teclado");
+            key.Marca = Console.ReadLine();
             Console.WriteLine("Ponga el color del teclado");
             key.color = Console.ReadLine();
             Console.WriteLine("Ponga el tipo de teclado");
@@ -302,7 +302,7 @@ namespace Asesorias
             foreach (Teclado tecl in ListaTeclado)
             {
                 Console.WriteLine("Aquí están los datos ingresados");
-                Console.WriteLine("Marca: " + key.marca);
+                Console.WriteLine("Marca: " + key.Marca);
                 Console.WriteLine("Color: " + key.color);
                 Console.WriteLine("Tipo: " + key.tipo);
                 Console.WriteLine("Pad Numerico: " + key.padnumerico);
@@ -311,7 +311,7 @@ namespace Asesorias
     }
     public class Mouse // Clase del mouse.
     {
-        public string marca { get; set; }
+        public string Marca { get; set; }
         public string color { get; set; }
 		public string tipo { get; set; }
 		public string alambrico { get; set; }
@@ -324,8 +324,8 @@ namespace Asesorias
             Mouse mous = new Mouse();
             List <Mouse> ListaMouse = new List<Mouse>();
 
-            Console.WriteLine("Ponga la marca del ratón");
-            mous.marca = Console.ReadLine();
+            Console.WriteLine("Ponga la Marca del ratón");
+            mous.Marca = Console.ReadLine();
             Console.WriteLine("Ponga el color del ratón");
             mous.color = Console.ReadLine();
             Console.WriteLine("Ponga el tipo de ratón");
@@ -341,7 +341,7 @@ namespace Asesorias
             foreach (Mouse mou in ListaMouse)
             {
                 Console.WriteLine("Aquí están los datos ingresados");
-                Console.WriteLine("Marca: " + mous.marca);
+                Console.WriteLine("Marca: " + mous.Marca);
                 Console.WriteLine("Color: " + mous.color);
                 Console.WriteLine("Tipo: " + mous.tipo);
                 Console.WriteLine("Alambrico: " + mous.alambrico);
