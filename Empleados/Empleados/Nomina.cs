@@ -6,10 +6,10 @@ namespace Empleados
 {
     class Nomina
     {
-        public float calculo(int dias, int sueldo)
+        public float calculo(int Dias, int Sueldo)
         {
-            int res = dias * sueldo;
-            return res;
+            int Res = Dias * Sueldo;
+            return Res;
         }
     }
 }

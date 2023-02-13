@@ -10,7 +10,7 @@ namespace Empleados
         {
             Personal Per = new Personal();
             Nomina Nom = new Nomina();
-            
+
             string Otra = "";
             int i = 0;
 
@@ -22,7 +22,7 @@ namespace Empleados
                 Console.WriteLine("Ingrese días trabajados");
                 int Dias = int.Parse(Console.ReadLine());
 
-                if (id != Per.Identificador)
+                if (Id != Per.Identificador)
                 {
                     Console.WriteLine("Error usuario no valido");
                     Otra = "s";
@@ -32,9 +32,9 @@ namespace Empleados
                 else
                 {
                     Console.WriteLine("Ingrese los datos trabajados");
-                    float Salario = Nom.calculo (Dias, Per.Sueldo);
-                    
-                    Console.WriteLine("El empleado " + Per.Nombre + Per.Identificador + Per.fechadenacimiento + "Tiene un saldo de: " + Salario);
+                    float Salario = Nom.calculo(Dias, Per.Sueldo);
+
+                    Console.WriteLine("El empleado " + Per.Nombre + Per.Identificador + Per.FechadeNacimiento + "Tiene un saldo de: " + Salario);
                 }
             }
             while (i < 2);
