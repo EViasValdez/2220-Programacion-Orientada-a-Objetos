@@ -10,9 +10,9 @@ namespace Herencia
 
             Javi.Id = 12;
             Javi.Nombre = "Javier ";
-            Javi.aPaterno = "Escobedo ";
-            Javi.aMaterno = "Fernandez";
-            Console.WriteLine("El nombre del empleado es: " + Javi.Nombre + Javi.aPaterno + Javi.aMaterno);
+            Javi.APaterno = "Escobedo ";
+            Javi.AMaterno = "Fernandez";
+            Console.WriteLine("El nombre del empleado es: " + Javi.Nombre + Javi.APaterno + Javi.AMaterno);
             Console.ReadKey();
         }
     }

@@ -19,8 +19,8 @@ namespace Listas
             for (int i = 0; i < Elem; i++)
             {
                 Console.WriteLine("Ingrese un entero");
-                int mundos = int.Parse(Console.ReadLine());
-                MiList.Add (mundos);
+                int Mundos = int.Parse(Console.ReadLine());
+                MiList.Add (Mundos);
             }
             foreach (int i in MiList)
             {
