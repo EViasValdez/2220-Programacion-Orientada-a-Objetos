@@ -25,14 +25,15 @@ Texto por ser escrito.
 <!----Separador---->
 
 ###### Proyecto2 - 22/01/20
-Texto por ser escrito.
+Muestra informacion de un empleado de una compañia.
+
 <!----Separador---->
 
 ###### Calculadora1 - 24/01/20
-Texto por ser escrito.
+Calculadora creada en un solo archivo.
 
 ###### Calculadora2 - 25/01/20
-Texto por ser escrito.
+Otra calculadora, pero cada operacion es separada en diferentes clases.
 
 <!----Separador---->
 
