@@ -6,10 +6,10 @@ namespace Calculadora2
 {
     public class Division
     {
-        public double resultado;
-        public Division (float numero1, float numero2)
+        public double Resultado;
+        public Division (float Numero1, float Numero2)
         {
-            resultado = numero1 / numero2;
+            Resultado = Numero1 / Numero2;
         }
     }
 }

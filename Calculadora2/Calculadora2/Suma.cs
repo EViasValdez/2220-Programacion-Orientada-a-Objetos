@@ -6,10 +6,10 @@ namespace Calculadora2
 {
     public class Suma
     {
-        public double resultado;
-        public Suma(float numero1, float numero2)
+        public double Resultado;
+        public Suma(float Numero1, float Numero2)
         {
-            resultado = numero1 + numero2;
+            Resultado = Numero1 + Numero2;
         }
     }
 }

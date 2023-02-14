@@ -6,9 +6,9 @@ namespace Calculadora2
     {
         static void Main(string[] args)
         {
-            string opcion, resultado;
-            float numero1, numero2;
-            double rest = 0;
+            string Opcion, Resultado;
+            float Numero1, Numero2;
+            double Rest = 0;
             string z;
 
             do
@@ -20,38 +20,38 @@ namespace Calculadora2
                 Console.WriteLine("3. Multiplicación");
                 Console.WriteLine("4. Division");
 
-                opcion = (Console.ReadLine());
+                Opcion = (Console.ReadLine());
 
                 Console.WriteLine("Ingrese los valores");
                 Console.WriteLine("Numero 1");
-                resultado = Console.ReadLine();
-                numero1 = float.Parse(resultado);
+                Resultado = Console.ReadLine();
+                Numero1 = float.Parse(Resultado);
                 Console.WriteLine("Numero 2");
-                resultado = Console.ReadLine();
-                numero2 = float.Parse(resultado);
+                Resultado = Console.ReadLine();
+                Numero2 = float.Parse(Resultado);
 
-                if (opcion == "1")
+                if (Opcion == "1")
                 {
-                    Suma sum = new Suma (numero1, numero2);
-                    rest = sum.resultado;
+                    Suma sum = new Suma (Numero1, Numero2);
+                    Rest = sum.Resultado;
                 }
-                else if (opcion == "2")
+                else if (Opcion == "2")
                 {
-                    Resta res = new Resta (numero1, numero2);
-                    rest = res.resultado;
+                    Resta res = new Resta (Numero1, Numero2);
+                    Rest = res.Resultado;
                 }
-                else if (opcion == "3")
+                else if (Opcion == "3")
                 {
-                    Multiplicacion mult = new Multiplicacion (numero1, numero2);
-                    rest = mult.resultado;
+                    Multiplicacion mult = new Multiplicacion (Numero1, Numero2);
+                    Rest = mult.Resultado;
                 }
-                else if (opcion == "4")
+                else if (Opcion == "4")
                 {
-                    Division divi = new Division (numero1, numero2);
-                    rest = divi.resultado;
+                    Division Divi = new Division (Numero1, Numero2);
+                    Rest = Divi.Resultado;
                 }
-                Console.WriteLine("El resultado es: " + rest);
-                Console.WriteLine("¿Desea hacer otra opcion?");
+                Console.WriteLine("El resultado es: " + Rest);
+                Console.WriteLine("¿Desea hacer otra Opcion?");
                 z = Console.ReadLine();
             }
             while (z == "s");
