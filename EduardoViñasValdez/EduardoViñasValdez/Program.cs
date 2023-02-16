@@ -20,9 +20,9 @@ namespace EduardoViñasValdez
             Console.WriteLine("Ingrese nombre");
             Data.Nombre = Console.ReadLine();
             Console.WriteLine("Ingrese apellido materno");
-            Data.aPaterno = Console.ReadLine();
+            Data.APaterno = Console.ReadLine();
             Console.WriteLine("Ingrese apellido paterno");
-            Data.aMaterno = Console.ReadLine();
+            Data.AMaterno = Console.ReadLine();
 
             Console.WriteLine("Libro");
             Console.WriteLine("Ingrese titulo");

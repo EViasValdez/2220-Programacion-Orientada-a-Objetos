@@ -194,10 +194,10 @@ namespace Asesorias
     }
     public class Banco // Clase del banco.
     {
-        public string nombrebanco { get; set; }
-        public string sucursal { get; set; }
-        public string tipodesucursal { get; set; }
-        public string horario{ get; set; }
+        public string NombreBanco { get; set; }
+        public string Sucursal { get; set; }
+        public string TipodeSucursal { get; set; }
+        public string Horario{ get; set; }
 
 		public void mostrarbanco()
 		{
@@ -208,13 +208,13 @@ namespace Asesorias
             List <Banco> ListaBanco = new List<Banco>();
 
 			Console.WriteLine("Ponga el nombre del banco");
-			banca.nombrebanco = Console.ReadLine();
+			banca.NombreBanco = Console.ReadLine();
 			Console.WriteLine("Ponga el nombre de la sucursal");
-			banca.sucursal = Console.ReadLine();
+			banca.Sucursal = Console.ReadLine();
 			Console.WriteLine("Ponga el tipo de sucursal");
-			banca.tipodesucursal = Console.ReadLine();
+			banca.TipodeSucursal = Console.ReadLine();
             Console.WriteLine("Ponga el horario");
-            banca.horario = Console.ReadLine();
+            banca.Horario = Console.ReadLine();
 
             ListaBanco.Add(banca);
 
@@ -224,19 +224,19 @@ namespace Asesorias
             foreach (Banco banc in ListaBanco)
             {
                 Console.WriteLine("Aquí están los datos ingresados");
-                Console.WriteLine("Nombre del banco: " + banca.nombrebanco);
-                Console.WriteLine("Sucursal: " + banca.sucursal);
-                Console.WriteLine("Tipo de sucursal: " + banca.tipodesucursal);
-                Console.WriteLine("Horario:" + banca.horario);
+                Console.WriteLine("Nombre del banco: " + banca.NombreBanco);
+                Console.WriteLine("Sucursal: " + banca.Sucursal);
+                Console.WriteLine("Tipo de sucursal: " + banca.TipodeSucursal);
+                Console.WriteLine("Horario:" + banca.Horario);
             }
         }
     }
     public class Pizarron // Clase del pizarron.
     {
         public string Marca { get; set; }
-        public string color { get; set; }
-        public string tipo { get; set; }
-        public string tamaño { get; set; }
+        public string Color { get; set; }
+        public string Tipo { get; set; }
+        public string Tamaño { get; set; }
 
 		public void mostrarpizarron()
 		{
@@ -249,11 +249,11 @@ namespace Asesorias
 			Console.WriteLine("Ponga la Marca del pizarron");
 			pizarra.Marca = Console.ReadLine();
 			Console.WriteLine("Ponga el color del pizarron");
-			pizarra.color = Console.ReadLine();
+			pizarra.Color = Console.ReadLine();
 			Console.WriteLine("Ponga el tipo de pizarron");
-			pizarra.tipo = Console.ReadLine();
+			pizarra.Tipo = Console.ReadLine();
             Console.WriteLine("Ponga el tamaño del pizarron");
-			pizarra.tamaño = Console.ReadLine();
+			pizarra.Tamaño = Console.ReadLine();
 
             ListaPizarron.Add(pizarra);
 
@@ -264,18 +264,18 @@ namespace Asesorias
             {
                 Console.WriteLine("Aquí están los datos ingresados");
                 Console.WriteLine("Marca: " + pizarra.Marca);
-                Console.WriteLine("Color: " + pizarra.color);
-                Console.WriteLine("Tipo: " + pizarra.tipo);
-                Console.WriteLine("Tamaño: " + pizarra.tamaño);
+                Console.WriteLine("Color: " + pizarra.Color);
+                Console.WriteLine("Tipo: " + pizarra.Tipo);
+                Console.WriteLine("Tamaño: " + pizarra.Tamaño);
             }
         }
     }
     public class Teclado // Clase del teclado.
     {
         public string Marca { get; set; }
-        public string color { get; set; }
-        public string tipo { get; set; }
-        public string padnumerico { get; set; }
+        public string Color { get; set; }
+        public string Tipo { get; set; }
+        public string PadNumerico { get; set; }
 
         public void mostrarteclado()
         {
@@ -288,11 +288,11 @@ namespace Asesorias
             Console.WriteLine("Ponga la Marca del teclado");
             key.Marca = Console.ReadLine();
             Console.WriteLine("Ponga el color del teclado");
-            key.color = Console.ReadLine();
+            key.Color = Console.ReadLine();
             Console.WriteLine("Ponga el tipo de teclado");
-            key.tipo = Console.ReadLine();
+            key.Tipo = Console.ReadLine();
             Console.WriteLine("Ponga si el teclado tiene pad numérico");
-            key.padnumerico = Console.ReadLine();
+            key.PadNumerico = Console.ReadLine();
 
             ListaTeclado.Add(key);
 
@@ -303,18 +303,18 @@ namespace Asesorias
             {
                 Console.WriteLine("Aquí están los datos ingresados");
                 Console.WriteLine("Marca: " + key.Marca);
-                Console.WriteLine("Color: " + key.color);
-                Console.WriteLine("Tipo: " + key.tipo);
-                Console.WriteLine("Pad Numerico: " + key.padnumerico);
+                Console.WriteLine("Color: " + key.Color);
+                Console.WriteLine("Tipo: " + key.Tipo);
+                Console.WriteLine("Pad Numerico: " + key.PadNumerico);
             }
         }
     }
     public class Mouse // Clase del mouse.
     {
         public string Marca { get; set; }
-        public string color { get; set; }
-		public string tipo { get; set; }
-		public string alambrico { get; set; }
+        public string Color { get; set; }
+		public string Tipo { get; set; }
+		public string Alambrico { get; set; }
         
         public void mostrarmouse()
         {
@@ -327,11 +327,11 @@ namespace Asesorias
             Console.WriteLine("Ponga la Marca del ratón");
             mous.Marca = Console.ReadLine();
             Console.WriteLine("Ponga el color del ratón");
-            mous.color = Console.ReadLine();
+            mous.Color = Console.ReadLine();
             Console.WriteLine("Ponga el tipo de ratón");
-            mous.tipo = Console.ReadLine();
+            mous.Tipo = Console.ReadLine();
             Console.WriteLine("Ponga si el ratón es alambrico");
-            mous.alambrico = Console.ReadLine();
+            mous.Alambrico = Console.ReadLine();
 
             ListaMouse.Add(mous);
 
@@ -342,9 +342,9 @@ namespace Asesorias
             {
                 Console.WriteLine("Aquí están los datos ingresados");
                 Console.WriteLine("Marca: " + mous.Marca);
-                Console.WriteLine("Color: " + mous.color);
-                Console.WriteLine("Tipo: " + mous.tipo);
-                Console.WriteLine("Alambrico: " + mous.alambrico);
+                Console.WriteLine("Color: " + mous.Color);
+                Console.WriteLine("Tipo: " + mous.Tipo);
+                Console.WriteLine("Alambrico: " + mous.Alambrico);
             }
         }
     }
