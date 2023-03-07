@@ -6,8 +6,8 @@ namespace Agregacion
     {
         static void Main(string[] args)
         {
-            Persona pers = new Persona();
-            pers.dat.nombre = "valdez";
+            Persona Pers = new Persona();
+            Pers.Dat.Nombre = "valdez";
         }
     }
 }

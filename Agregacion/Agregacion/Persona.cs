@@ -6,6 +6,6 @@ namespace Agregacion
 {
     class Persona
     {
-        Datos dat = new Datos();
+        Datos Dat = new Datos();
     }
 }
