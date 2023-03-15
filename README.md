@@ -20,7 +20,7 @@ Estos trabajos de esta materia fueron los primeros en los que utilice para usar 
 # Descripcion de los programas
 ## ● Unidad 1 ●
 ###### Proyecto1 - 18/01/20
-Texto por ser escrito.
+Ingreso y registro de modelo y marca de auto. 
 
 <!----Separador---->
 
