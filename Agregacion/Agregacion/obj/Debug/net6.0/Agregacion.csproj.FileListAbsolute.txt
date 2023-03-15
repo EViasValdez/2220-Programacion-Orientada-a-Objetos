@@ -1,0 +1,15 @@
+F:\VS\Agregacion\Agregacion\obj\Debug\net6.0\Agregacion.csproj.AssemblyReference.cache
+F:\VS\Agregacion\Agregacion\obj\Debug\net6.0\Agregacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS\Agregacion\Agregacion\obj\Debug\net6.0\Agregacion.AssemblyInfoInputs.cache
+F:\VS\Agregacion\Agregacion\obj\Debug\net6.0\Agregacion.AssemblyInfo.cs
+F:\VS\Agregacion\Agregacion\obj\Debug\net6.0\Agregacion.csproj.CoreCompileInputs.cache
+F:\VS\Agregacion\Agregacion\bin\Debug\net6.0\Agregacion.exe
+F:\VS\Agregacion\Agregacion\bin\Debug\net6.0\Agregacion.deps.json
+F:\VS\Agregacion\Agregacion\bin\Debug\net6.0\Agregacion.runtimeconfig.json
+F:\VS\Agregacion\Agregacion\bin\Debug\net6.0\Agregacion.dll
+F:\VS\Agregacion\Agregacion\bin\Debug\net6.0\Agregacion.pdb
+F:\VS\Agregacion\Agregacion\obj\Debug\net6.0\Agregacion.dll
+F:\VS\Agregacion\Agregacion\obj\Debug\net6.0\refint\Agregacion.dll
+F:\VS\Agregacion\Agregacion\obj\Debug\net6.0\Agregacion.pdb
+F:\VS\Agregacion\Agregacion\obj\Debug\net6.0\Agregacion.genruntimeconfig.cache
+F:\VS\Agregacion\Agregacion\obj\Debug\net6.0\ref\Agregacion.dll
