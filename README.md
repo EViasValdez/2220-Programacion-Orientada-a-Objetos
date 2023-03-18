@@ -7,7 +7,7 @@ Estos trabajos de esta materia fueron los primeros en los que utilice para usar 
 <!----Notas---->
 **Notas**
 
-**- Para ejecutar sin problemas los archivos se necesita tener instalado el SDK de NET Core 6.0.**
+**- Para ejecutar sin problemas los proyectos se necesita tener instalado el SDK de NET Core 6.0.**
 
 **- Algunos documentos fueron modificados en aspectos ortográficos y redacción de comentarios con algunas instrucciones.**
 
