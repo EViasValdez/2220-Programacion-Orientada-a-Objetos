@@ -7,7 +7,7 @@ namespace MetodoGetSet
     class Practica
     {
         private int _Id;
-        public int Id
+        public int Id;
         {
             get { return _Id; }
             set { _Id = value; }
@@ -19,7 +19,7 @@ namespace MetodoGetSet
             set { _Nombre = value; }
         }
         private float _Iva;
-        public float Iva
+        public float Iva;
         {
             get
             {
@@ -30,13 +30,13 @@ namespace MetodoGetSet
             set { _Iva = value; }
         }
         private float _total;
-        public float total
+        public float total;
         {
             get { return _total; }
             set { _total = value; }
         }
         private float _totalIva;
-        public float totalIva
+        public float totalIva;
         {
             get
             {
@@ -46,7 +46,7 @@ namespace MetodoGetSet
             set { _totalIva = value; }
         }
         private float _descuento;
-        public float descuento
+        public float descuento;
         {
             get
             {

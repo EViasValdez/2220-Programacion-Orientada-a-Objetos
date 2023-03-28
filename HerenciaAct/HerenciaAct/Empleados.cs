@@ -6,9 +6,9 @@ namespace HerenciaAct
 {
     public class Empleados:Datos
     {
-        public string rfc { get; set; }
-        public string direccion { get; set; }
-        public string correo { get; set; }
-        public string numerotelefono { get; set; }
+        public string Rfc { get; set; }
+        public string Direccion { get; set; }
+        public string Correo { get; set; }
+        public string NumeroTelefono { get; set; }
     }
 }
