@@ -40,8 +40,8 @@ namespace MetodoGetSet
         {
             get
             {
-            _totalIva = total + 1.16f;
-            return _totalIva;
+                _totalIva = total + 1.16f;
+                return _totalIva;
             }
             set { _totalIva = value; }
         }
@@ -56,6 +56,7 @@ namespace MetodoGetSet
                     _descuento = totalIva - _descuento;
                 }
                 return _descuento; }
+            }
             set { _descuento = value; }
         }
     }
