@@ -32,6 +32,8 @@ Muestra informacion de un empleado de una compañia.
 ###### Calculadora1 - 24/01/20
 Calculadora creada en un solo archivo.
 
+<!----Separador---->
+
 ###### Calculadora2 - 25/01/20
 Otra calculadora, pero cada operacion es separada en diferentes clases.
 
