@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace metodoGetSet
+namespace MetodoGetSet
 {
     class Program
     {
