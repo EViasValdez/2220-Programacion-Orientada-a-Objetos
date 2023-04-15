@@ -15,7 +15,7 @@ namespace Proyecto1
         public string Categoria;
         public string Placa;
         public float Precio;
-        public string Submarca;
+        public string SubMarca;
         string x, y;
 
         public Auto(string Model, string Marca, string Nada)
@@ -40,7 +40,7 @@ namespace Proyecto1
             Modelo = "GT";
             Placa = "RSG - 012 - 201";
             Precio = 752400f;
-            Submarca = "Ford Mustang";
+            SubMarca = "Ford Mustang";
         }
     }
 }

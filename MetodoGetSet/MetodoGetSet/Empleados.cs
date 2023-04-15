@@ -7,22 +7,22 @@ namespace MetodoGetSet
     class Empleados
     {
         // public int id { get; set; }
-        // private string _nombre;
-        // public string nombre
+        // private string _Nombre;
+        // public string Nombre
         // {
         // get
         // {
-        //     if (_nombre == "Juanito")
+        //     if (_Nombre == "Juanito")
         //     {
-        //         _nombre = "Juanito es adoptado";
+        //         _Nombre = "Juanito es adoptado";
         //     }
         //     else
         //     {
-        //         _nombre = "Juanito no es adoptado";
+        //         _Nombre = "Juanito no es adoptado";
         //     }
-        //     return _nombre;
+        //     return _Nombre;
         // }
-        // set { _nombre = value; }
+        // set { _Nombre = value; }
         // }
         // }
     }
