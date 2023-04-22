@@ -30,7 +30,7 @@ Muestra informacion de un empleado de una compañia.
 <!----Separador---->
 
 ###### Calculadora1 - 24/01/20
-Calculadora creada en un solo archivo.
+Creada en un solo archivo.
 
 <!----Separador---->
 
