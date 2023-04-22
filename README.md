@@ -9,7 +9,7 @@ Estos trabajos de esta materia fueron los primeros en los que utilice para usar 
 
 **- Para ejecutar sin problemas los proyectos se necesita tener instalado el SDK de NET Core 6.0.**
 
-**- Algunos documentos fueron modificados en aspectos ortográficos y redacción de comentarios con algunas instrucciones.**
+**- Algunos textos fueron corregidos y se hizo tambien redacción de comentarios con algunas instrucciones.**
 
 **- Los proyectos "ActividadPendienteOO" y "OtraActividadOO" son actividades que no pude pasar a proyectos propios en su momento pero pude hacerlos desde cero y los puse aquí, también fueron ejercicios que hice durante el periodo extraordinario para recuperar materias.**
 
