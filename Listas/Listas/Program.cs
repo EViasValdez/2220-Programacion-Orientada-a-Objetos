@@ -21,7 +21,7 @@ namespace Listas
             {
                 Console.WriteLine("Ingrese un entero");
                 int Mundos = int.Parse(Console.ReadLine());
-                MiList.Add (Mundos);
+                MiList.Add(Mundos);
             }
             foreach (int i in MiList)
             {

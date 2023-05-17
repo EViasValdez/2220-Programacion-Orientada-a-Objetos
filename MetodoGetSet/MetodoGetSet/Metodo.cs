@@ -8,11 +8,11 @@ namespace MetodoGetSet
     {
         string Nombre;
 
-        public void setValor(string nom)
+        public void SetValor(string nom)
         {
             Nombre = nom;
         }
-        public string getValor()
+        public string GetValor()
         {
             if (Nombre == "Eduardo")
             {
