@@ -22,7 +22,7 @@ namespace Asesorias
                 string Accion;
                 Accion = (Console.ReadLine());
 
-                if (Accion == "mostrar")
+                if (Accion == "Mostrar")
                 {
                     Console.WriteLine("Usted eligió mostrar");
                     Console.WriteLine("Elige una clase");

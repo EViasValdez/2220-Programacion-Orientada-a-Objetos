@@ -10,7 +10,7 @@ namespace Repaso
         {
             Alumno Alum = new Alumno();
 
-            Console.WriteLine("El alumno " + Alum.nombre);
+            Console.WriteLine("El alumno " + Alum.Nombre);
             Alum.ApellidoPaterno;
             Alum.ApellidoMaterno;
         }

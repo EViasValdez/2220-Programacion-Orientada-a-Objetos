@@ -32,7 +32,7 @@ namespace MetodoGetSet
             Console.WriteLine("Con un total de: " + Pract.Total);
             Console.WriteLine("Un iva de: " + Pract.Iva);
             Console.WriteLine("El total iva es: " + Pract.TotalIva);
-            Console.WriteLine("El descuento es: " + Pract.descuento);
+            Console.WriteLine("El descuento es: " + Pract.Descuento);
             Console.WriteLine(Pract.Iva);
         }
     }

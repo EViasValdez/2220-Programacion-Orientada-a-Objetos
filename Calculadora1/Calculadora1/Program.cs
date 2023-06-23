@@ -32,32 +32,40 @@ namespace Calculadora1
 
             if (Opcion == "1")
             {
-                calc.suma (Numero1, Numero2);
+                calc.Suma (Numero1, Numero2);
             }
             else if (Opcion == "2")
             {
-                calc.resta (Numero1, Numero2);
+                calc.Resta (Numero1, Numero2);
+            }
+            else if (Opcion == "3")
+            {
+                calc.Multiplicacion(Numero1, Numero2);
+            }
+            else if (Opcion == "4")
+            {
+                calc.Division(Numero1, Numero2);
             }
         }
-        public void suma(float Numero1, float Numero2)
+        public void Suma(float Numero1, float Numero2)
         {
             double Resultado;
             Resultado = Numero1 + Numero2;
             Console.WriteLine("El Resultado es: " + Resultado);
         }
-        public void resta(float Numero1, float Numero2)
+        public void Resta(float Numero1, float Numero2)
         {
             double Resultado;
             Resultado = Numero1 - Numero2;
             Console.WriteLine("El Resultado es: " + Resultado);
         }
-        public void multiplicacion(float Numero1, float Numero2)
+        public void Multiplicacion(float Numero1, float Numero2)
         {
             double Resultado;
             Resultado = Numero1 * Numero2;
             Console.WriteLine("El Resultado es: " + Resultado);
         }
-        public void division(float Numero1, float Numero2)
+        public void Division(float Numero1, float Numero2)
         {
             double Resultado;
             Resultado = Numero1 / Numero2;

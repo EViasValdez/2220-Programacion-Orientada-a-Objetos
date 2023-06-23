@@ -29,24 +29,24 @@ namespace MetodoGetSet
             }
             set { _Iva = value; }
         }
-        private float _total;
+        private float _Total;
         public float total;
         {
-            get { return _total; }
-            set { _total = value; }
+            get { return _Total; }
+            set { _Total = value; }
         }
-        private float _totalIva;
-        public float totalIva;
+        private float _TotalIva;
+        public float TotalIva;
         {
             get
             {
-                _totalIva = total + 1.16f;
-                return _totalIva;
+                _TotalIva = Total + 1.16f;
+                return _TotalIva;
             }
             set { _totalIva = value; }
         }
         private float _descuento;
-        public float descuento;
+        public float Descuento;
         {
             get
             {
