@@ -30,7 +30,7 @@ namespace MetodoGetSet
             set { _Iva = value; }
         }
         private float _Total;
-        public float total;
+        public float Total;
         {
             get { return _Total; }
             set { _Total = value; }
@@ -45,19 +45,19 @@ namespace MetodoGetSet
             }
             set { _totalIva = value; }
         }
-        private float _descuento;
+        private float _Descuento;
         public float Descuento;
         {
             get
             {
-                if (total > 1000)
+                if (Total > 1000)
                 {
-                    _descuento = totalIva * 0.20f;
-                    _descuento = totalIva - _descuento;
+                    _Descuento = TotalIva * 0.20f;
+                    _Descuento = TotalIva - _Descuento;
                 }
-                return _descuento; }
+                return _Descuento; }
             }
-            set { _descuento = value; }
+            set { _Descuento = value; }
         }
     }
 }
