@@ -1,9 +1,5 @@
 # Programacion orientada a objetos
 
-<!----Descripción---->
-Estos trabajos de esta materia fueron los primeros en los que utilice para usar el lenguaje C#, se mucho sobre este lenguaje, aunque si es algo complicado de instalar.
-<!----Separador de la descripción---->
-
 <!----Notas---->
 **Notas**
 
