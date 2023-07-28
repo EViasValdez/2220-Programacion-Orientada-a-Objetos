@@ -36,12 +36,12 @@ Otra calculadora, pero cada operacion es separada en diferentes clases.
 <!----Separador---->
 
 ###### Empleados - 31/01/20
-Texto por ser escrito.
+Organizacion del nombre e informacion de un empleado.
 
 <!----Separador---->
 
 ###### Repaso - 01/02/20
-Texto por ser escrito.
+Segunda version del programas "Empleados".
 
 ## ● Unidad 2 ●
 ###### Herencia, HerenciaAct - 12/02/20
@@ -54,11 +54,11 @@ Texto por ser escrito.
 <!----Separador---->
 
 ###### Listas, Entities1 - 14/02/20
-Texto por ser escrito.
+Ingreso de elementos a lista.
 
 <!--Separador-->
 
-Texto por ser escrito.
+Agregacion de informacion a entidades.
 
 <!----Separador---->
 
@@ -73,7 +73,7 @@ Texto por ser escrito.
 <!----Separador---->
 
 ###### ActividadPendienteOO, OtraActividadOO - 10/10/2020
-Texto por ser escrito.
+Actividad no finalizada en su momento, pero fue concluida tiempo despues.
 
 <!--Separador-->
 
