@@ -45,11 +45,11 @@ Segunda version del programas "Empleados".
 
 ## ● Unidad 2 ●
 ###### Herencia, HerenciaAct - 12/02/20
-Texto por ser escrito.
+Muestra de informacion por medio de diferentes archivos.
 
 <!--Separador-->
 
-Texto por ser escrito.
+Version actualizada del programa anterior.
 
 <!----Separador---->
 
@@ -82,4 +82,5 @@ Texto por ser escrito.
 
 <!----
 ###### MetodoGetSet - 03/20
+Trabajo que usaba varios elementos separados, originalmente no funcionaba correctamente pero finalmente esta arreglado.
 ---->
