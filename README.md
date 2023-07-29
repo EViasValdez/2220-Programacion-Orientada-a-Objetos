@@ -56,7 +56,7 @@ Version actualizada del programa anterior.
 ###### Listas, Entities1 - 14/02/20
 Ingreso de elementos a lista.
 
-<!--Separador-->
+<!----Separador---->
 
 Agregacion de informacion a entidades.
 
