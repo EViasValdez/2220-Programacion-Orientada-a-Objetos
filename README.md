@@ -47,7 +47,7 @@ Segunda version del programas "Empleados".
 ###### Herencia, HerenciaAct - 12/02/20
 Muestra de informacion por medio de diferentes archivos.
 
-<!--Separador-->
+<!----Separador---->
 
 Version actualizada del programa anterior.
 
@@ -75,7 +75,7 @@ Texto por ser escrito.
 ###### ActividadPendienteOO, OtraActividadOO - 10/10/2020
 Actividad no finalizada en su momento, pero fue concluida tiempo despues.
 
-<!--Separador-->
+<!----Separador---->
 
 Texto por ser escrito.
 <!----Separador del directorio con descripcion de los programas---->
