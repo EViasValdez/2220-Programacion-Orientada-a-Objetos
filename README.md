@@ -72,15 +72,16 @@ Texto por ser escrito.
 
 <!----Separador---->
 
+###### MetodoGetSet - 03/20
+Trabajo que usaba varios elementos separados, originalmente no funcionaba correctamente pero finalmente esta arreglado.
+
+<!----Separador---->
+
 ###### ActividadPendienteOO, OtraActividadOO - 10/10/2020
 Actividad no finalizada en su momento, pero fue concluida tiempo despues.
 
 <!----Separador---->
 
-Texto por ser escrito.
-<!----Separador del directorio con descripcion de los programas---->
+Otra actividad no finalizada, no hay muchas diferencias.
 
-<!----
-###### MetodoGetSet - 03/20
-Trabajo que usaba varios elementos separados, originalmente no funcionaba correctamente pero finalmente esta arreglado.
----->
+<!----Separador del directorio con descripcion de los programas---->
