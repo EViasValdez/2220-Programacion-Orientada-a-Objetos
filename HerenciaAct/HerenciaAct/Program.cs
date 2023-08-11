@@ -43,13 +43,13 @@ namespace HerenciaAct
 
             Console.WriteLine("================");
 
-            Console.WriteLine("He aquí los datos del empleado");
+            Console.WriteLine("Aqui estan los datos del empleado");
             Console.WriteLine("El id es: " + Empl.Id);
             Console.WriteLine("El nombre es: " + Empl.Nombre);
             Console.WriteLine("El apellido paterno es: " + Empl.APaterno);
             Console.WriteLine("El apellido materno es: " + Empl.AMaterno);
 
-            Console.WriteLine("He aquí los datos del cliente");
+            Console.WriteLine("Aqui estan los datos del cliente");
             Console.WriteLine("El sueldo es: " + Clien.Sueldo);
             Console.WriteLine("El turno es: " + Clien.Turno);
             Console.WriteLine("El cargo es: " + Clien.Cargo);
