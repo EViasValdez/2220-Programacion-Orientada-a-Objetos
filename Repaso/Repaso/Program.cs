@@ -11,8 +11,8 @@ namespace Repaso
             Alumno Alum = new Alumno();
 
             Console.WriteLine("El alumno " + Alum.Nombre);
-            Alum.ApellidoPaterno;
-            Alum.ApellidoMaterno;
+            // Alum.ApellidoPaterno;
+            // Alum.ApellidoMaterno;
         }
     }
 }
