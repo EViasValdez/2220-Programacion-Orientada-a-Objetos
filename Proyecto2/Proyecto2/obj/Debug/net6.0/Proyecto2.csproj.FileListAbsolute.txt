@@ -18,7 +18,6 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Proy
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Proyecto2\Proyecto2\bin\Debug\net6.0\Proyecto2.runtimeconfig.json
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Proyecto2\Proyecto2\bin\Debug\net6.0\Proyecto2.dll
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Proyecto2\Proyecto2\bin\Debug\net6.0\Proyecto2.pdb
-D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Proyecto2\Proyecto2\obj\Debug\net6.0\Proyecto2.csproj.AssemblyReference.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Proyecto2\Proyecto2\obj\Debug\net6.0\Proyecto2.GeneratedMSBuildEditorConfig.editorconfig
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Proyecto2\Proyecto2\obj\Debug\net6.0\Proyecto2.AssemblyInfoInputs.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Proyecto2\Proyecto2\obj\Debug\net6.0\Proyecto2.AssemblyInfo.cs
