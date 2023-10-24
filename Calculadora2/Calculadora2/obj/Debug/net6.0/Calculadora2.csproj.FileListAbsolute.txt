@@ -18,7 +18,6 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Calc
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora2\Calculadora2\bin\Debug\net6.0\Calculadora2.runtimeconfig.json
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora2\Calculadora2\bin\Debug\net6.0\Calculadora2.dll
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora2\Calculadora2\bin\Debug\net6.0\Calculadora2.pdb
-D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora2\Calculadora2\obj\Debug\net6.0\Calculadora2.csproj.AssemblyReference.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora2\Calculadora2\obj\Debug\net6.0\Calculadora2.GeneratedMSBuildEditorConfig.editorconfig
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora2\Calculadora2\obj\Debug\net6.0\Calculadora2.AssemblyInfoInputs.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora2\Calculadora2\obj\Debug\net6.0\Calculadora2.AssemblyInfo.cs

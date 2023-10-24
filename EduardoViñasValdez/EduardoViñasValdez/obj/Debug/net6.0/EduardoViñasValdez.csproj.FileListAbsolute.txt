@@ -18,7 +18,6 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Edua
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\EduardoViñasValdez\EduardoViñasValdez\bin\Debug\net6.0\EduardoViñasValdez.runtimeconfig.json
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\EduardoViñasValdez\EduardoViñasValdez\bin\Debug\net6.0\EduardoViñasValdez.dll
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\EduardoViñasValdez\EduardoViñasValdez\bin\Debug\net6.0\EduardoViñasValdez.pdb
-D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\EduardoViñasValdez\EduardoViñasValdez\obj\Debug\net6.0\EduardoViñasValdez.csproj.AssemblyReference.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\EduardoViñasValdez\EduardoViñasValdez\obj\Debug\net6.0\EduardoViñasValdez.GeneratedMSBuildEditorConfig.editorconfig
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\EduardoViñasValdez\EduardoViñasValdez\obj\Debug\net6.0\EduardoViñasValdez.AssemblyInfoInputs.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\EduardoViñasValdez\EduardoViñasValdez\obj\Debug\net6.0\EduardoViñasValdez.AssemblyInfo.cs

@@ -18,7 +18,6 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Ases
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Asesorias\Asesorias\bin\Debug\net6.0\Asesorias.runtimeconfig.json
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Asesorias\Asesorias\bin\Debug\net6.0\Asesorias.dll
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Asesorias\Asesorias\bin\Debug\net6.0\Asesorias.pdb
-D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Asesorias\Asesorias\obj\Debug\net6.0\Asesorias.csproj.AssemblyReference.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Asesorias\Asesorias\obj\Debug\net6.0\Asesorias.GeneratedMSBuildEditorConfig.editorconfig
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Asesorias\Asesorias\obj\Debug\net6.0\Asesorias.AssemblyInfoInputs.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Asesorias\Asesorias\obj\Debug\net6.0\Asesorias.AssemblyInfo.cs

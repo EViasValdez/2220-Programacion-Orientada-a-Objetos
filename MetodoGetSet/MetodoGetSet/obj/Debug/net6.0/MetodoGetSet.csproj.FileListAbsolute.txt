@@ -18,7 +18,6 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Meto
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\MetodoGetSet\MetodoGetSet\bin\Debug\net6.0\MetodoGetSet.runtimeconfig.json
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\MetodoGetSet\MetodoGetSet\bin\Debug\net6.0\MetodoGetSet.dll
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\MetodoGetSet\MetodoGetSet\bin\Debug\net6.0\MetodoGetSet.pdb
-D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\MetodoGetSet\MetodoGetSet\obj\Debug\net6.0\MetodoGetSet.csproj.AssemblyReference.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\MetodoGetSet\MetodoGetSet\obj\Debug\net6.0\MetodoGetSet.GeneratedMSBuildEditorConfig.editorconfig
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\MetodoGetSet\MetodoGetSet\obj\Debug\net6.0\MetodoGetSet.AssemblyInfoInputs.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\MetodoGetSet\MetodoGetSet\obj\Debug\net6.0\MetodoGetSet.AssemblyInfo.cs
