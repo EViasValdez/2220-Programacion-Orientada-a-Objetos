@@ -33,7 +33,6 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Calc
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora1\Calculadora1\bin\Debug\net6.0\Calculadora1.runtimeconfig.json
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora1\Calculadora1\bin\Debug\net6.0\Calculadora1.dll
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora1\Calculadora1\bin\Debug\net6.0\Calculadora1.pdb
-D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora1\Calculadora1\obj\Debug\net6.0\Calculadora1.csproj.AssemblyReference.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora1\Calculadora1\obj\Debug\net6.0\Calculadora1.GeneratedMSBuildEditorConfig.editorconfig
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora1\Calculadora1\obj\Debug\net6.0\Calculadora1.AssemblyInfoInputs.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora1\Calculadora1\obj\Debug\net6.0\Calculadora1.AssemblyInfo.cs
