@@ -18,7 +18,6 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Acti
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\ActividadPendienteOO\ActividadPendienteOO\bin\Debug\net6.0\ActividadPendienteOO.runtimeconfig.json
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\ActividadPendienteOO\ActividadPendienteOO\bin\Debug\net6.0\ActividadPendienteOO.dll
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\ActividadPendienteOO\ActividadPendienteOO\bin\Debug\net6.0\ActividadPendienteOO.pdb
-D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\ActividadPendienteOO\ActividadPendienteOO\obj\Debug\net6.0\ActividadPendienteOO.csproj.AssemblyReference.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\ActividadPendienteOO\ActividadPendienteOO\obj\Debug\net6.0\ActividadPendienteOO.GeneratedMSBuildEditorConfig.editorconfig
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\ActividadPendienteOO\ActividadPendienteOO\obj\Debug\net6.0\ActividadPendienteOO.AssemblyInfoInputs.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\ActividadPendienteOO\ActividadPendienteOO\obj\Debug\net6.0\ActividadPendienteOO.AssemblyInfo.cs

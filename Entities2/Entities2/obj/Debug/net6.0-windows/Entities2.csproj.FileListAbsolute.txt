@@ -3,7 +3,6 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Enti
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Entities2\Entities2\bin\Debug\net6.0-windows\Entities2.runtimeconfig.json
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Entities2\Entities2\bin\Debug\net6.0-windows\Entities2.dll
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Entities2\Entities2\bin\Debug\net6.0-windows\Entities2.pdb
-D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Entities2\Entities2\obj\Debug\net6.0-windows\Entities2.csproj.AssemblyReference.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Entities2\Entities2\obj\Debug\net6.0-windows\Entities2.GeneratedMSBuildEditorConfig.editorconfig
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Entities2\Entities2\obj\Debug\net6.0-windows\Entities2.AssemblyInfoInputs.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Entities2\Entities2\obj\Debug\net6.0-windows\Entities2.AssemblyInfo.cs
