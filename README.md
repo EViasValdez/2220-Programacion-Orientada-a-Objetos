@@ -9,11 +9,11 @@
 
 **- Los proyectos "ActividadPendienteOO" y "OtraActividadOO" son actividades que no pude pasar a proyectos propios en su momento pero pude hacerlos desde cero y los puse aquí, también fueron ejercicios que hice durante el periodo extraordinario para recuperar materias.**
 
-**- Cambie los frameworks predeterminados que tenia NET 2.1 a NET 6.0, debido a que varios proyectos no funcionaban correctamente con el motor nuevo.**
+**- Cambie los frameworks predeterminados que tenía NET 2.1 a NET 6.0, debido a que varios proyectos no funcionaban correctamente con el motor nuevo.**
 <!----Separador de las notas---->
 
-<!----Directorio con descripcion de los programas---->
-# Descripcion de los programas
+<!----Directorio con descripción de los programas---->
+# Descripción de los programas
 ## ● Unidad 1 ●
 ###### Proyecto1 - 18/01/20
 Ingreso y registro de modelo y marca de auto. 
@@ -21,7 +21,7 @@ Ingreso y registro de modelo y marca de auto.
 <!----Separador---->
 
 ###### Proyecto2 - 22/01/20
-Muestra informacion de un empleado de una compañia.
+Muestra información de un empleado de una compañía.
 
 <!----Separador---->
 
@@ -31,21 +31,21 @@ Creada en un solo archivo.
 <!----Separador---->
 
 ###### Calculadora2 - 25/01/20
-Otra calculadora, pero cada operacion es separada en diferentes clases.
+Otra calculadora, pero cada operación es separada en diferentes clases.
 
 <!----Separador---->
 
 ###### Empleados - 31/01/20
-Organizacion del nombre e informacion de un empleado.
+Organizacion del nombre e información de un empleado.
 
 <!----Separador---->
 
 ###### Repaso - 01/02/20
-Segunda version del programas "Empleados".
+Segunda version del programa "Empleados".
 
 ## ● Unidad 2 ●
 ###### Herencia, HerenciaAct - 12/02/20
-Muestra de informacion por medio de diferentes archivos.
+Muestra de información por medio de diferentes archivos.
 
 <!----Separador---->
 
@@ -58,7 +58,7 @@ Ingreso de elementos a lista.
 
 <!----Separador---->
 
-Agregacion de informacion a entidades.
+Agregación de información a entidades.
 
 <!----Separador---->
 
@@ -73,7 +73,7 @@ Texto por ser escrito.
 <!----Separador---->
 
 ###### MetodoGetSet - 03/20
-Trabajo que usaba varios elementos separados, originalmente no funcionaba correctamente pero finalmente esta arreglado.
+Trabajo que usaba varios elementos separados, originalmente no funcionaba correctamente pero finalmente está arreglado.
 
 <!----Separador---->
 
@@ -84,4 +84,4 @@ Actividad no finalizada en su momento, pero fue concluida tiempo despues.
 
 Otra actividad no finalizada, no hay muchas diferencias.
 
-<!----Separador del directorio con descripcion de los programas---->
+<!----Separador del directorio con descripción de los programas---->
