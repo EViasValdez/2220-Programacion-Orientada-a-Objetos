@@ -9,7 +9,7 @@
 
 **- Los proyectos "ActividadPendienteOO" y "OtraActividadOO" son actividades que no pude pasar a proyectos propios en su momento pero pude hacerlos desde cero y los puse aquí, también fueron ejercicios que hice durante el periodo extraordinario para recuperar materias.**
 
-**- Cambie los frameworks de NET 2.1 a NET 6.0, debido a que varios proyectos no funcionaban correctamente con el motor nuevo.**
+**- Cambie los frameworks predeterminados que tenia NET 2.1 a NET 6.0, debido a que varios proyectos no funcionaban correctamente con el motor nuevo.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripcion de los programas---->
