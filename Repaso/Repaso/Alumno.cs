@@ -11,7 +11,6 @@ namespace Repaso
         public string ApellidoPaterno;
         public int Edad;
         public string Matricula;
-
         public Alumno()
         {
             Nombre = "Martin";
