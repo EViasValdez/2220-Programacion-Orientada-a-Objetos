@@ -103,7 +103,8 @@ namespace Asesorias
                     Console.WriteLine("¿Desea agregar otros datos?");
 			        Sino = Console.ReadLine();
 
-                    if (Sino.ToLower().Equals("no")) {
+                    if (Sino.ToLower().Equals("no"))
+                    {
                         Electo = false;
                     }
                 } while (Electo);
