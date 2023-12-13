@@ -63,12 +63,12 @@ Agregación de información a entidades.
 <!----Separador---->
 
 ###### Entities2 - 15/02/20
-Texto por ser escrito.
+Utilizacion de entidades con ingreso de uno o varios datos.
 
 <!----Separador---->
 
 ###### EduardoViñasValdez - 26/02/20
-Texto por ser escrito.
+Programa con el formato de una base de datos de libreria.
 
 <!----Separador---->
 
