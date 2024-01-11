@@ -63,7 +63,7 @@ Agregación de información a entidades.
 <!----Separador---->
 
 ###### Entities2 - 15/02/20
-Utilización de entidades con ingreso de uno o varios datos.
+Utilización de entidades por medio de un ingreso de uno o varios datos.
 
 <!----Separador---->
 
