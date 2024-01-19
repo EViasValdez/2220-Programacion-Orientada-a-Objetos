@@ -72,7 +72,7 @@ Programa con el formato de una base de datos de librería.
 
 <!----Separador---->
 
-###### MetodoGetSet - 03/20
+###### MetodoGetSet - 00/03/20
 Trabajo que usaba varios elementos separados, originalmente no funcionaba correctamente pero finalmente está arreglado.
 
 <!----Separador---->
