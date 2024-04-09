@@ -26,7 +26,7 @@ Muestra información de un empleado de una compañía.
 <!----Separador---->
 
 ###### Calculadora1 - 24/01/20
-Creada en un solo archivo.
+Creada en un solo archivo de proyecto.
 
 <!----Separador---->
 
