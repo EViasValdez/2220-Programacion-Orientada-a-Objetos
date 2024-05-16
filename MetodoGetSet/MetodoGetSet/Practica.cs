@@ -47,7 +47,6 @@ namespace MetodoGetSet
         {
             get
             {
-
                 _TotalIva = Total + 1.16f;
 
                 return _TotalIva;
