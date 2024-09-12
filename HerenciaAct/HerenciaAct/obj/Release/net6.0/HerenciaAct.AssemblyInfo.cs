@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HerenciaAct")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0c262656ed664fa14f03380bdc7f6c943281f13")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c770a7380277a28eb007e4cdf2979a259e545cf9")]
 [assembly: System.Reflection.AssemblyProductAttribute("HerenciaAct")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HerenciaAct")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
