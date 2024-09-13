@@ -36,18 +36,18 @@ namespace Calculadora2
 
                 if (Opcion == "1")
                 {
-                    Suma sum = new Suma (Numero1, Numero2);
-                    Rest = sum.Resultado;
+                    Suma Sum = new Suma (Numero1, Numero2);
+                    Rest = Sum.Resultado;
                 }
                 else if (Opcion == "2")
                 {
-                    Resta res = new Resta (Numero1, Numero2);
-                    Rest = res.Resultado;
+                    Resta Res = new Resta (Numero1, Numero2);
+                    Rest = Res.Resultado;
                 }
                 else if (Opcion == "3")
                 {
-                    Multiplicacion mult = new Multiplicacion (Numero1, Numero2);
-                    Rest = mult.Resultado;
+                    Multiplicacion Mult = new Multiplicacion (Numero1, Numero2);
+                    Rest = Mult.Resultado;
                 }
                 else if (Opcion == "4")
                 {
