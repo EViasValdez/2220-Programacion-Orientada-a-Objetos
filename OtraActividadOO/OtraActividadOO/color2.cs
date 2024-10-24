@@ -15,10 +15,10 @@ namespace OtraActividadOO
 
         public Color2()
         {
-            RojoGarante = "rgb(184, 0, 0)";
-            AmarilloOro = "rgb(255, 215, 0)";
-            AzulRey = "rgb(0, 3, 77)";
-            VerdeOscuro = "rgb(28, 168, 0)";
+            RojoGarante = "rgba(184, 0, 0)";
+            AmarilloOro = "rgba(255, 215, 0)";
+            AzulRey = "rgba(0, 3, 77)";
+            VerdeOscuro = "rgba(28, 168, 0)";
         }
     }
 }
