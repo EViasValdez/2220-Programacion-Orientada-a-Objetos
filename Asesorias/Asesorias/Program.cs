@@ -43,13 +43,13 @@ namespace Asesorias
                     if (Clase == "1")
                     {
                         Auto Vehiculo = new Auto(); // Llamada de la clase.
-                        Vehiculo.mostrarauto(); // Llamada del método.
+                        Vehiculo.MostrarAuto(); // Llamada del método.
                     }
                     else
                     if (Clase == "2")
                     {
                         Computadora Computador = new Computadora();
-                        Computador.mostrarcomputadora();
+                        Computador.MostrarComputadora();
                     }
                     else
                     if (Clase == "3")
@@ -119,7 +119,7 @@ namespace Asesorias
         public int NumSerie { get; set; }
         public int NumAsientos { get; set; }
 
-        public void mostrarauto() // Metodo para convocar por medio de la Clase.
+        public void MostrarAuto() // Metodo para convocar por medio de la Clase.
         {
             Console.WriteLine("Usted eligió la opción Automobil, ingrese cualquier tecla para continuar");
             Console.ReadKey();
@@ -151,7 +151,7 @@ namespace Asesorias
                 Console.WriteLine("Numero de asientos: " + Automobil.NumAsientos);
             }
         }
-        public void borrarauto() // Método para borrar datos por medio de la Clase.
+        public void BorrarAuto() // Método para borrar datos por medio de la Clase.
         {
             Console.WriteLine("Este método esta inconcluso");
         }
@@ -163,7 +163,7 @@ namespace Asesorias
         public string SistemaOperativo { get; set; }
         public string Procesador { get; set; }
 
-		public void mostrarcomputadora()
+		public void MostrarComputadora()
 		{
             Console.WriteLine("Usted eligió la opción Computadora, ingrese cualquier tecla para continuar");
             Console.ReadKey();
