@@ -15,9 +15,9 @@ namespace EduardoViñasValdez
             Console.WriteLine("1. Libros");
             Console.WriteLine("2. CDs");
 
-            EVV_Datos Data = new EVV_Datos();
-            EVV_Publicacion DatPubli = new EVV_Publicacion();
-            EVV_CD DatCD = new EVV_CD();
+            EVVDatos Data = new EVV_Datos();
+            EVVPublicacion DatPubli = new EVVPublicacion();
+            EVVCD DatCD = new EVV_CD();
 
             Console.WriteLine("Ingrese id");
             Data.Id = int.Parse(Console.ReadLine());

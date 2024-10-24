@@ -4,7 +4,7 @@ using System.Text;
 
 namespace EduardoViñasValdez
 {
-    class EVV_Publicacion
+    class EVVPublicacion
     {
         public string Titulo { get; set; }
         public int Precio { get; set; }

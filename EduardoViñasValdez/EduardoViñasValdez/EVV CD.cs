@@ -4,7 +4,7 @@ using System.Text;
 
 namespace EduardoViñasValdez
 {
-    class EVV_CD
+    class EVVCD
     {
         public char TiempoReproduccion { get; set; }
     }

@@ -35,11 +35,11 @@ namespace MetodoGetSet
             set { _Iva = value; }
         }
 
-        private float _total;
+        private float _Total;
         public float Total
         {
-            get { return _total; }
-            set { _total = value; }
+            get { return _Total; }
+            set { _Total = value; }
         }
 
         private float _TotalIva;
