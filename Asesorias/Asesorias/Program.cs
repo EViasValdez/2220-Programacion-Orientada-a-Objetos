@@ -95,7 +95,7 @@ namespace Asesorias
                         if (Clase2 == "1")
                         {
 			                Auto Auto2 = new Auto();
-			                Auto2.borrarauto();
+			                Auto2.BorrarAuto();
                         }
                         }
                         Electo = true;
