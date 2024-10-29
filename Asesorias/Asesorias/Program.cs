@@ -231,7 +231,7 @@ namespace Asesorias
                 Console.WriteLine("Nombre del banco: " + Banca.NombreBanco);
                 Console.WriteLine("Sucursal: " + Banca.Sucursal);
                 Console.WriteLine("Tipo de sucursal: " + Banca.TipodeSucursal);
-                Console.WriteLine("Horario:" + Banca.Horario);
+                Console.WriteLine("Horario: " + Banca.Horario);
             }
         }
     }
