@@ -31,7 +31,7 @@ namespace MetodoGetSet
             Pract.Iva = Pract.Total;
 
             Console.WriteLine("----------------");
-            Console.WriteLine("El Id es: " + Pract.Id + " con nombre: " + Pract.Nombre);
+            Console.WriteLine("El ID es: " + Pract.Id + " con nombre: " + Pract.Nombre);
             Console.WriteLine("Con un total de: " + Pract.Total);
             Console.WriteLine("Un IVA de: " + Pract.Iva);
             Console.WriteLine("El total iva es: " + Pract.TotalIva);
