@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Empleados\Empleados\bin\Debug\net8.0\Empleados.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Empleados\Empleados\bin\Debug\net8.0\Empleados.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Empleados\Empleados\bin\Debug\net8.0\Empleados.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Empleados\Empleados\bin\Debug\net8.0\Empleados.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Empleados\Empleados\bin\Debug\net8.0\Empleados.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Empleados\Empleados\obj\Debug\net8.0\Empleados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Empleados\Empleados\obj\Debug\net8.0\Empleados.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Empleados\Empleados\obj\Debug\net8.0\Empleados.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Empleados\Empleados\obj\Debug\net8.0\Empleados.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Empleados\Empleados\obj\Debug\net8.0\Empleados.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Empleados\Empleados\obj\Debug\net8.0\Empleados.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Empleados\Empleados\obj\Debug\net8.0\refint\Empleados.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Empleados\Empleados\obj\Debug\net8.0\Empleados.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Empleados\Empleados\obj\Debug\net8.0\Empleados.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Empleados\Empleados\obj\Debug\net8.0\ref\Empleados.dll

@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora1\Calculadora1\bin\Debug\net8.0\Calculadora1.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora1\Calculadora1\bin\Debug\net8.0\Calculadora1.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora1\Calculadora1\bin\Debug\net8.0\Calculadora1.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora1\Calculadora1\bin\Debug\net8.0\Calculadora1.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora1\Calculadora1\bin\Debug\net8.0\Calculadora1.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora1\Calculadora1\obj\Debug\net8.0\Calculadora1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora1\Calculadora1\obj\Debug\net8.0\Calculadora1.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora1\Calculadora1\obj\Debug\net8.0\Calculadora1.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora1\Calculadora1\obj\Debug\net8.0\Calculadora1.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora1\Calculadora1\obj\Debug\net8.0\Calculadora1.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora1\Calculadora1\obj\Debug\net8.0\Calculadora1.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora1\Calculadora1\obj\Debug\net8.0\refint\Calculadora1.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora1\Calculadora1\obj\Debug\net8.0\Calculadora1.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora1\Calculadora1\obj\Debug\net8.0\Calculadora1.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Calculadora1\Calculadora1\obj\Debug\net8.0\ref\Calculadora1.dll

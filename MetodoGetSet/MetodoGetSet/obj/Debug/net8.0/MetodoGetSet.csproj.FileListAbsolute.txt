@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\MetodoGetSet\MetodoGetSet\bin\Debug\net8.0\MetodoGetSet.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\MetodoGetSet\MetodoGetSet\bin\Debug\net8.0\MetodoGetSet.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\MetodoGetSet\MetodoGetSet\bin\Debug\net8.0\MetodoGetSet.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\MetodoGetSet\MetodoGetSet\bin\Debug\net8.0\MetodoGetSet.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\MetodoGetSet\MetodoGetSet\bin\Debug\net8.0\MetodoGetSet.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\MetodoGetSet\MetodoGetSet\obj\Debug\net8.0\MetodoGetSet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\MetodoGetSet\MetodoGetSet\obj\Debug\net8.0\MetodoGetSet.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\MetodoGetSet\MetodoGetSet\obj\Debug\net8.0\MetodoGetSet.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\MetodoGetSet\MetodoGetSet\obj\Debug\net8.0\MetodoGetSet.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\MetodoGetSet\MetodoGetSet\obj\Debug\net8.0\MetodoGetSet.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\MetodoGetSet\MetodoGetSet\obj\Debug\net8.0\MetodoGetSet.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\MetodoGetSet\MetodoGetSet\obj\Debug\net8.0\refint\MetodoGetSet.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\MetodoGetSet\MetodoGetSet\obj\Debug\net8.0\MetodoGetSet.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\MetodoGetSet\MetodoGetSet\obj\Debug\net8.0\MetodoGetSet.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\MetodoGetSet\MetodoGetSet\obj\Debug\net8.0\ref\MetodoGetSet.dll

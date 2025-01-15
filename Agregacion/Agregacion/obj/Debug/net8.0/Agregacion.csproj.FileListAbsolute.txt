@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Agregacion\Agregacion\bin\Debug\net8.0\Agregacion.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Agregacion\Agregacion\bin\Debug\net8.0\Agregacion.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Agregacion\Agregacion\bin\Debug\net8.0\Agregacion.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Agregacion\Agregacion\bin\Debug\net8.0\Agregacion.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Agregacion\Agregacion\bin\Debug\net8.0\Agregacion.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Agregacion\Agregacion\obj\Debug\net8.0\Agregacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Agregacion\Agregacion\obj\Debug\net8.0\Agregacion.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Agregacion\Agregacion\obj\Debug\net8.0\Agregacion.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Agregacion\Agregacion\obj\Debug\net8.0\Agregacion.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Agregacion\Agregacion\obj\Debug\net8.0\Agregacion.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Agregacion\Agregacion\obj\Debug\net8.0\Agregacion.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Agregacion\Agregacion\obj\Debug\net8.0\refint\Agregacion.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Agregacion\Agregacion\obj\Debug\net8.0\Agregacion.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Agregacion\Agregacion\obj\Debug\net8.0\Agregacion.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\Agregacion\Agregacion\obj\Debug\net8.0\ref\Agregacion.dll

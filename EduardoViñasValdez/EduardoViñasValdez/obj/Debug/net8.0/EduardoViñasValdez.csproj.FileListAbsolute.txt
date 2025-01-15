@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\EduardoViñasValdez\EduardoViñasValdez\bin\Debug\net8.0\EduardoViñasValdez.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\EduardoViñasValdez\EduardoViñasValdez\bin\Debug\net8.0\EduardoViñasValdez.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\EduardoViñasValdez\EduardoViñasValdez\bin\Debug\net8.0\EduardoViñasValdez.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\EduardoViñasValdez\EduardoViñasValdez\bin\Debug\net8.0\EduardoViñasValdez.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\EduardoViñasValdez\EduardoViñasValdez\bin\Debug\net8.0\EduardoViñasValdez.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\EduardoViñasValdez\EduardoViñasValdez\obj\Debug\net8.0\EduardoViñasValdez.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\EduardoViñasValdez\EduardoViñasValdez\obj\Debug\net8.0\EduardoViñasValdez.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\EduardoViñasValdez\EduardoViñasValdez\obj\Debug\net8.0\EduardoViñasValdez.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\EduardoViñasValdez\EduardoViñasValdez\obj\Debug\net8.0\EduardoViñasValdez.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\EduardoViñasValdez\EduardoViñasValdez\obj\Debug\net8.0\EduardoViñasValdez.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\EduardoViñasValdez\EduardoViñasValdez\obj\Debug\net8.0\EduardoViñasValdez.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\EduardoViñasValdez\EduardoViñasValdez\obj\Debug\net8.0\refint\EduardoViñasValdez.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\EduardoViñasValdez\EduardoViñasValdez\obj\Debug\net8.0\EduardoViñasValdez.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\EduardoViñasValdez\EduardoViñasValdez\obj\Debug\net8.0\EduardoViñasValdez.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2220-Programacion-Orientada-a-Objetos\EduardoViñasValdez\EduardoViñasValdez\obj\Debug\net8.0\ref\EduardoViñasValdez.dll
