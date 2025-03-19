@@ -3,13 +3,13 @@
 <!----Notas---->
 **Notas**
 
-**- Para ejecutar sin problemas los proyectos se necesita tener instalado el SDK de NET Core 6.0.**
+**- Para ejecutar sin problemas los proyectos se necesita tener instalado el SDK de NET Core 8.0.**
 
 **- Algunos textos fueron corregidos y se hizo tambien redacción de comentarios con algunas instrucciones.**
 
 **- Los proyectos "ActividadPendienteOO" y "OtraActividadOO" son actividades que no pude pasar a proyectos propios en su momento pero pude hacerlos desde cero y los puse aquí, también fueron ejercicios que hice durante el periodo extraordinario para recuperar materias.**
 
-**- Cambie los Frameworks y motores predeterminados que tenía NET 2.1 a NET 6.0, debido a que varios proyectos no funcionaban correctamente con el motor nuevo.**
+**- Cambie los Frameworks y motores predeterminados que tenía NET 2.1 a NET 8.0, debido a que varios proyectos no funcionaban correctamente con el motor nuevo.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripción de los programas---->
