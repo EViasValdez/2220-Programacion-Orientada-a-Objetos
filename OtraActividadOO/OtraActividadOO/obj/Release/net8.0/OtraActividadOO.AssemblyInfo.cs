@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OtraActividadOO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb0f82f7936e61f0bb2c8ee7ef95f54c559363bb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af91be57b7b7b5ade73cb5fb283e75113bea70c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("OtraActividadOO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OtraActividadOO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
