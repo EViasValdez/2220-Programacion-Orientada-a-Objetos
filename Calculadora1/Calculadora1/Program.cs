@@ -30,23 +30,23 @@ namespace Calculadora1
             Resultado = Console.ReadLine();
             Numero2 = float.Parse(Resultado);
 
-            Program calc = new Program();
+            Program Calc = new Program();
 
             if (Opcion == "1")
             {
-                calc.Suma (Numero1, Numero2);
+                Calc.Suma (Numero1, Numero2);
             }
             else if (Opcion == "2")
             {
-                calc.Resta (Numero1, Numero2);
+                Calc.Resta (Numero1, Numero2);
             }
             else if (Opcion == "3")
             {
-                calc.Multiplicacion(Numero1, Numero2);
+                Calc.Multiplicacion(Numero1, Numero2);
             }
             else if (Opcion == "4")
             {
-                calc.Division(Numero1, Numero2);
+                Calc.Division(Numero1, Numero2);
             }
         }
         public void Suma(float Numero1, float Numero2)
