@@ -58,7 +58,7 @@ Ingreso de elementos a lista.
 
 <!----Separador---->
 
-Agregación de información a entidades.
+Agregado de información a entidades.
 
 <!----Separador---->
 
