@@ -36,7 +36,7 @@ Otra calculadora, pero cada operación es separada en diferentes clases.
 <!----Separador---->
 
 ###### Empleados - 31/01/20
-Organizacion del nombre e información de un empleado.
+Organizacion del nombre e información de empleado.
 
 <!----Separador---->
 
