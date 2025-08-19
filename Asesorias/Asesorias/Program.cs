@@ -42,8 +42,9 @@ namespace Asesorias
                     // Pantalla de selección usando if.
                     if (Clase == "1")
                     {
-                        Auto Vehiculo = new Auto(); // Llamada de la clase.
-                        Vehiculo.MostrarAuto(); // Llamada del método.
+                        // Llamada de la clase y del metodo.
+                        Auto Vehiculo = new Auto(); 
+                        Vehiculo.MostrarAuto();
                     }
                     else
                     if (Clase == "2")
@@ -84,7 +85,8 @@ namespace Asesorias
 
                         string Clase2;
 
-                        Console.WriteLine("1. Auto"); // Unicamente funciona la primera opción.
+                        // Unicamente funciona la primera opción.
+                        Console.WriteLine("1. Auto"); 
                         Console.WriteLine("2. Computadora");
                         Console.WriteLine("3. Banco");
                         Console.WriteLine("4. Pizarron");
