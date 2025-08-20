@@ -20,7 +20,7 @@ namespace EduardoViñasValdez
             EVVCD DatCD = new EVVCD();
 
             Console.WriteLine("Ingrese id");
-            Data.Id = int.Parse(Console.ReadLine());
+            Data.ID = int.Parse(Console.ReadLine());
             Console.WriteLine("Ingrese nombre");
             Data.Nombre = Console.ReadLine();
             Console.WriteLine("Ingrese apellido materno");

@@ -6,7 +6,7 @@ namespace Asesorias
 {
     class A
     {
-        public int Id { get; set; }
+        public int ID { get; set; }
         public string TipoAuto { get; set; }
         public string Marca { get; set; }
         public string Modelo { get; set; }

@@ -8,7 +8,7 @@ namespace ActividadPendienteOO
 {
     class Acer
     {
-        public string Id;
+        public string ID;
         public string Marca;
         public string Modelo;
         public string Tipo;
@@ -20,7 +20,7 @@ namespace ActividadPendienteOO
 
         public Acer()
         {
-            Id = "N5CV2MYZ";
+            ID = "N5CV2MYZ";
             Marca = "Acer";
             Modelo = "Aspire C24";
             Tipo = "All-in-One";

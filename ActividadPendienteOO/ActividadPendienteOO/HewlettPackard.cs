@@ -8,7 +8,7 @@ namespace ActividadPendienteOO
 {
     class HewlettPackard
     {
-        public string Id;
+        public string ID;
         public string Marca;
         public string Modelo;
         public string Tipo;
@@ -20,7 +20,7 @@ namespace ActividadPendienteOO
 
         public HewlettPackard()
         {
-            Id = "KN7V6CTV";
+            ID = "KN7V6CTV";
             Marca = "HP";
             Modelo = "Pavilion 15-eh0003la";
             Tipo = "Laptop";

@@ -8,7 +8,7 @@ namespace ActividadPendienteOO
 {
     class Lenovo
     {
-        public string Id;
+        public string ID;
         public string Marca;
         public string Modelo;
         public string Tipo;
@@ -20,7 +20,7 @@ namespace ActividadPendienteOO
 
         public Lenovo()
         {
-            Id = "ZNAS6Z2M";
+            ID = "ZNAS6Z2M";
             Marca = "Lenovo";
             Modelo = "IdeaPad 5i";
             Tipo = "Laptop";

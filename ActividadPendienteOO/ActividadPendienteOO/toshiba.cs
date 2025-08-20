@@ -8,7 +8,7 @@ namespace ActividadPendienteOO
 {
     class Toshiba
     {
-        public string Id;
+        public string ID;
         public string Marca;
         public string Modelo;
         public string Tipo;
@@ -20,7 +20,7 @@ namespace ActividadPendienteOO
 
         public Toshiba()
         {
-            Id = "JE2S4B5G";
+            ID = "JE2S4B5G";
             Marca = "Toshiba";
             Modelo = "LX835-SP0361SM";
             Tipo = "All-in-One";
