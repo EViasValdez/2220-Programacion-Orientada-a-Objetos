@@ -21,7 +21,7 @@ namespace MetodoGetSet
             Practica Pract = new Practica();
 
             Console.WriteLine("Ingrese el Id");
-            Pract.Id = int.Parse(Console.ReadLine());
+            Pract.Identificacion = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Ingrese el nombre");
             Pract.Nombre = (Console.ReadLine());
@@ -31,7 +31,7 @@ namespace MetodoGetSet
             Pract.Iva = Pract.Total;
 
             Console.WriteLine("----------------");
-            Console.WriteLine("El ID es: " + Pract.Id + " con nombre: " + Pract.Nombre);
+            Console.WriteLine("El ID es: " + Pract.Identificacion + " con nombre: " + Pract.Nombre);
             Console.WriteLine("Con un total de: " + Pract.Total);
             Console.WriteLine("Un IVA de: " + Pract.Iva);
             Console.WriteLine("El total iva es: " + Pract.TotalIva);

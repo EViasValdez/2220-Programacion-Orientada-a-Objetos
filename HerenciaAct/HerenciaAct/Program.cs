@@ -17,7 +17,7 @@ namespace HerenciaAct
 
             Console.WriteLine("Datos del empleado");
             Console.WriteLine("Ingrese ID");
-            Empl.Id = Console.ReadLine();
+            Empl.Identificacion = Console.ReadLine();
 
             Console.WriteLine("Ingrese nombre");
             Empl.Nombre = Console.ReadLine();
@@ -46,7 +46,7 @@ namespace HerenciaAct
             Console.WriteLine("================");
 
             Console.WriteLine("Aqui estan los datos del empleado");
-            Console.WriteLine("El id es: " + Empl.Id);
+            Console.WriteLine("El id es: " + Empl.Identificacion);
             Console.WriteLine("El nombre es: " + Empl.Nombre);
             Console.WriteLine("El apellido paterno es: " + Empl.APaterno);
             Console.WriteLine("El apellido materno es: " + Empl.AMaterno);

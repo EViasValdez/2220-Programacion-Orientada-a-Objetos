@@ -6,7 +6,7 @@ namespace Entities2
 {
     class EntDatos
     {
-        public string Id { get; set; }
+        public string ID { get; set; }
         public string Nombre { get; set; }
         public string APaterno { get; set; }
         public string AMaterno { get; set; }

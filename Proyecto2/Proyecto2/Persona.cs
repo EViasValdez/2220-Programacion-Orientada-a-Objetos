@@ -6,7 +6,7 @@ namespace Proyecto2
 {
     class Persona
     {
-        public string Id;
+        public string Identificacion;
         public string Nombre;
         public string ApellidoPaterno;
         public string ApellidoMaterno;
@@ -15,7 +15,7 @@ namespace Proyecto2
 
         public Persona()
         {
-            Id = "123";
+            Identificacion = "123";
             Nombre = "Eduardo";
             ApellidoPaterno = "Viñas";
             ApellidoMaterno = "Valdez";

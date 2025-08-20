@@ -18,7 +18,7 @@ namespace Entities2
             do
             {
                 Console.WriteLine("Ingrese identificación");
-                Data.Id = Console.ReadLine();
+                Data.ID = Console.ReadLine();
                 Console.WriteLine("Ingrese nombre");
                 Data.Nombre = Console.ReadLine();
                 Console.WriteLine("Ingrese apellido paterno");
@@ -41,7 +41,7 @@ namespace Entities2
                 foreach (EntDatos datos in L)
                 {
                     Console.WriteLine("Nombre completo: " + Data.Nombre + " " + Data.APaterno + " " + Data.AMaterno);
-                    Console.WriteLine("Identificación: " + Data.Id);
+                    Console.WriteLine("Identificación: " + Data.ID);
                     Console.WriteLine("Numero de teléfono: " + Data.Telefono);
                     Console.WriteLine("Email: " + Data.Email);
                     Console.WriteLine("Dirección: " + Data.Direccion);

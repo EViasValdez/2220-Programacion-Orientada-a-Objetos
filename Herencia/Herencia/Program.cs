@@ -12,7 +12,7 @@ namespace Herencia
         {
             Hijo Javi = new Hijo();
 
-            Javi.Id = 12;
+            Javi.ID = 12;
             Javi.Nombre = "Javier ";
             Javi.APaterno = "Escobedo ";
             Javi.AMaterno = "Fernandez";

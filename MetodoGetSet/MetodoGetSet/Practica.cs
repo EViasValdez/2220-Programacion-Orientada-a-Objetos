@@ -8,11 +8,11 @@ namespace MetodoGetSet
 {
     class Practica
     {
-        private int _Id;
-        public int Id
+        private int _ID;
+        public int ID
         {
-            get { return _Id; }
-            set { _Id = value; }
+            get { return _ID; }
+            set { _ID = value; }
         }
 
         private string _Nombre;

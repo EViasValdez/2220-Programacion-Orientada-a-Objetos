@@ -7,7 +7,7 @@ namespace Proyecto1
 {
     class Auto
     {
-        public string Id;
+        public string Identificacion;
         public string Modelo;
         public string Marca;
         public string Color;
@@ -32,7 +32,7 @@ namespace Proyecto1
         }
         public Auto()
         {
-            Id = "62";
+            Identificacion = "62";
             Annio = 2018;
             Categoria = "A";
             Color = "Blanco";
