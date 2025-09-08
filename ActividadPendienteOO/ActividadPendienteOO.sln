@@ -1,6 +1,6 @@
 ﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36408.4 d17.14
+VisualStudioVersion = 17.14.36414.22 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ActividadPendienteOO", "ActividadPendienteOO\ActividadPendienteOO.csproj", "{C0169B7E-F281-4A0D-8F73-EF71C3F8D865}"
 EndProject
