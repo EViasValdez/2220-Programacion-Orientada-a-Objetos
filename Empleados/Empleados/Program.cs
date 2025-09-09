@@ -33,7 +33,7 @@ namespace Empleados
                 }
                 else
                 {
-                    Console.WriteLine("Ingrese los datos trabajados");
+                    Console.WriteLine("Ingrese los datos");
                     float Salario = Nom.calculo(Dias, Per.Sueldo);
 
                     Console.WriteLine("El empleado " + Per.Nombre + Per.Identificador + Per.FechadeNacimiento + "Tiene un saldo de: " + Salario);
