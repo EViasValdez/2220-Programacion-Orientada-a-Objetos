@@ -35,16 +35,19 @@ namespace Calculadora1
             if (Opcion == "1")
             {
                 Calc.Suma (Numero1, Numero2);
-            }
-            else if (Opcion == "2")
+            } 
+            else
+            if (Opcion == "2")
             {
-                Calc.Resta (Numero1, Numero2);
+                Calc.Resta(Numero1, Numero2);
             }
-            else if (Opcion == "3")
+            else
+            if (Opcion == "3")
             {
                 Calc.Multiplicacion(Numero1, Numero2);
             }
-            else if (Opcion == "4")
+            else
+            if (Opcion == "4")
             {
                 Calc.Division(Numero1, Numero2);
             }
