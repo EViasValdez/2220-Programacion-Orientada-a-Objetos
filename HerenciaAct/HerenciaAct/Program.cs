@@ -55,7 +55,7 @@ namespace HerenciaAct
             Console.WriteLine("El sueldo es: " + Clien.Sueldo);
             Console.WriteLine("El turno es: " + Clien.Turno);
             Console.WriteLine("El cargo es: " + Clien.Cargo);
-            Console.WriteLine("El cargo es: " + Clien.Antiguedad);
+            Console.WriteLine("El tiempo en el cargo es: " + Clien.Antiguedad);
         }
     }
 }
