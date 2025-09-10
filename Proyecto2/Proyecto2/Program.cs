@@ -19,13 +19,13 @@ namespace Proyecto2
             Console.WriteLine("El genero es: " + Eduardo.Genero);
             Console.WriteLine("Su dirección es: " + Eduardo.Direccion);
 
-            Persona info = new Persona();
-            info.Identificacion = "458";
-            info.Nombre = "";
-            info.ApellidoPaterno = "";
-            info.ApellidoMaterno = "";
-            info.Genero = "";
-            info.Direccion = "";
+            Persona Infor = new Persona();
+            Infor.Identificacion = "458";
+            Infor.Nombre = "";
+            Infor.ApellidoPaterno = "";
+            Infor.ApellidoMaterno = "";
+            Infor.Genero = "";
+            Infor.Direccion = "";
         }
     }
 }
