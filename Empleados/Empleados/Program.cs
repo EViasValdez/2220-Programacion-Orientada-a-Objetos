@@ -19,12 +19,12 @@ namespace Empleados
             do
             {
                 Console.WriteLine("Ingrese el id del empleado");
-                string ID = Console.ReadLine();
+                string Identificador = Console.ReadLine();
 
                 Console.WriteLine("Ingrese días trabajados");
                 int Dias = int.Parse(Console.ReadLine());
 
-                if (ID != Per.Identificador)
+                if (Identificador != Per.Identificador)
                 {
                     Console.WriteLine("Error usuario no valido");
                     Otra = "s";

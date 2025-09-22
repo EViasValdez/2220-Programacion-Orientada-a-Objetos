@@ -9,7 +9,7 @@ namespace MetodoGetSet
     class Practica
     {
         private int _ID;
-        public int ID
+        public int Identificacion
         {
             get { return _ID; }
             set { _ID = value; }
