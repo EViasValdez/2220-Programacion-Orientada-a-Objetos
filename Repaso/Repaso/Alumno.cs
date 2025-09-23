@@ -15,7 +15,7 @@ namespace Repaso
         {
             Nombre = "Martin";
             ApellidoMaterno = "Armando Salgado";
-            ApellidoPaterno = "Villareal";
+            ApellidoPaterno = "Villarreal";
             Edad = 20;
             Matricula = "1410204044";
         }
