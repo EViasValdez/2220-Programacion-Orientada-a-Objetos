@@ -36,7 +36,7 @@ namespace ActividadPendienteOO
             if (Opcion == "1")
             {
                 Console.WriteLine("► Detalles del producto ◄");
-                Console.WriteLine("Id del producto: " + Tsba.ID);
+                Console.WriteLine("ID del producto: " + Tsba.ID);
                 Console.WriteLine("Marca: " + Tsba.Marca);
                 Console.WriteLine("Modelo: " + Tsba.Modelo);
                 Console.WriteLine("Tipo de computadora: " + Tsba.Tipo);
@@ -49,7 +49,7 @@ namespace ActividadPendienteOO
             if (Opcion == "2")
             {
                 Console.WriteLine("► Detalles del producto ◄");
-                Console.WriteLine("Id del producto: " + Lnvo.ID);
+                Console.WriteLine("ID del producto: " + Lnvo.ID);
                 Console.WriteLine("Marca: " + Lnvo.Marca);
                 Console.WriteLine("Modelo: " + Lnvo.Modelo);
                 Console.WriteLine("Tipo de computadora: " + Lnvo.Tipo);
@@ -62,7 +62,7 @@ namespace ActividadPendienteOO
             if (Opcion == "3")
             {
                 Console.WriteLine("► Detalles del producto ◄");
-                Console.WriteLine("Id del producto: " + Hepa.ID);
+                Console.WriteLine("ID del producto: " + Hepa.ID);
                 Console.WriteLine("Marca: " + Hepa.Marca);
                 Console.WriteLine("Modelo: " + Hepa.Modelo);
                 Console.WriteLine("Tipo de computadora: " + Hepa.Tipo);
@@ -75,7 +75,7 @@ namespace ActividadPendienteOO
             if (Opcion == "4")
             {
                 Console.WriteLine("► Detalles del producto ◄");
-                Console.WriteLine("Id del producto: " + Ar.ID);
+                Console.WriteLine("ID del producto: " + Ar.ID);
                 Console.WriteLine("Marca: " + Ar.Marca);
                 Console.WriteLine("Modelo: " + Ar.Modelo);
                 Console.WriteLine("Tipo de computadora: " + Ar.Tipo);

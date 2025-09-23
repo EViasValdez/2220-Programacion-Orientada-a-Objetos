@@ -34,7 +34,7 @@ namespace Asesorias
                     Console.WriteLine("1. Auto");
                     Console.WriteLine("2. Computadora");
                     Console.WriteLine("3. Banco");
-                    Console.WriteLine("4. Pizarron");
+                    Console.WriteLine("4. Pizarrón");
                     Console.WriteLine("5. Teclado");
                     Console.WriteLine("6. Mouse");
                     Clase = (Console.ReadLine());
@@ -42,7 +42,7 @@ namespace Asesorias
                     // Pantalla de selección usando if.
                     if (Clase == "1")
                     {
-                        // Llamada de la clase y del metodo.
+                        // Llamada de la clase y del método.
                         Auto Vehiculo = new Auto(); 
                         Vehiculo.MostrarAuto();
                     }
@@ -89,7 +89,7 @@ namespace Asesorias
                         Console.WriteLine("1. Auto"); 
                         Console.WriteLine("2. Computadora");
                         Console.WriteLine("3. Banco");
-                        Console.WriteLine("4. Pizarron");
+                        Console.WriteLine("4. Pizarrón");
                         Console.WriteLine("5. Teclado");
                         Console.WriteLine("6. Mouse");
                         Clase2 = (Console.ReadLine());
@@ -121,9 +121,9 @@ namespace Asesorias
         public int NumSerie { get; set; }
         public int NumAsientos { get; set; }
 
-        public void MostrarAuto() // Metodo para convocar por medio de la Clase.
+        public void MostrarAuto() // Método para convocar por medio de la Clase.
         {
-            Console.WriteLine("Usted eligió la opción Automobil, ingrese cualquier tecla para continuar");
+            Console.WriteLine("Usted eligió la opción Automóvil, ingrese cualquier tecla para continuar");
             Console.ReadKey();
 
             Auto Automobil = new Auto();
@@ -237,7 +237,7 @@ namespace Asesorias
             }
         }
     }
-    public class Pizarron // Clase del pizarron.
+    public class Pizarron // Clase del pizarrón.
     {
         public string Marca { get; set; }
         public string Color { get; set; }
@@ -246,7 +246,7 @@ namespace Asesorias
 
 		public void MostrarPizarron()
 		{
-            Console.WriteLine("Usted eligió la opción pizarron, ingrese cualquier tecla para continuar");
+            Console.WriteLine("Usted eligió la opción pizarrón, ingrese cualquier tecla para continuar");
 			Console.ReadKey();
 
 			Pizarron pizarra = new Pizarron();
@@ -311,7 +311,7 @@ namespace Asesorias
                 Console.WriteLine("Marca: " + Key.Marca);
                 Console.WriteLine("Color: " + Key.Color);
                 Console.WriteLine("Tipo: " + Key.Tipo);
-                Console.WriteLine("Pad Numerico: " + Key.PadNumerico);
+                Console.WriteLine("Pad numérico: " + Key.PadNumerico);
             }
         }
     }
@@ -336,7 +336,7 @@ namespace Asesorias
             Mous.Color = Console.ReadLine();
             Console.WriteLine("Ponga el tipo de ratón");
             Mous.Tipo = Console.ReadLine();
-            Console.WriteLine("Ponga si el ratón es alambrico");
+            Console.WriteLine("Ponga si el ratón es alambico");
             Mous.Alambrico = Console.ReadLine();
 
             ListaMouse.Add(Mous);
