@@ -5,7 +5,7 @@
 
 **- Para ejecutar sin problemas los proyectos se necesita tener instalado el SDK de NET Core 8.0.**
 
-**- Algunos textos fueron corregidos y se hizo tambien redacción de comentarios que contienen algunas instrucciones.**
+**- Algunos textos fueron corregidos y se hizo también redacción de comentarios que contienen algunas instrucciones.**
 
 **- Los proyectos "ActividadPendienteOO" y "OtraActividadOO" son actividades que no pude pasar a proyectos propios en su momento pero pude hacerlos desde cero y los puse aquí, también fueron ejercicios que hice durante el periodo extraordinario para recuperar materias.**
 
@@ -78,7 +78,7 @@ Trabajo que usaba varios elementos separados, originalmente no funcionaba correc
 <!----Separador---->
 
 ###### ActividadPendienteOO, OtraActividadOO - 10/10/2020
-Actividad no finalizada en su momento, pero fue concluida tiempo despues.
+Actividad no finalizada en su momento, pero fue concluida tiempo después.
 
 <!----Separador---->
 
