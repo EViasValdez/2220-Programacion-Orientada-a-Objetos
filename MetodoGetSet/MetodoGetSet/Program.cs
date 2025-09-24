@@ -20,7 +20,7 @@ namespace MetodoGetSet
 
             Practica Pract = new Practica();
 
-            Console.WriteLine("Ingrese el Id");
+            Console.WriteLine("Ingrese el ID");
             Pract.Identificacion = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Ingrese el nombre");
