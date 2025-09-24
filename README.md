@@ -1,4 +1,4 @@
-# Programacion orientada a objetos
+# Programación orientada a objetos
 
 <!----Notas---->
 **Notas**
@@ -9,7 +9,7 @@
 
 **- Los proyectos "ActividadPendienteOO" y "OtraActividadOO" son actividades que no pude pasar a proyectos propios en su momento pero pude hacerlos desde cero y los puse aquí, también fueron ejercicios que hice durante el periodo extraordinario para recuperar materias.**
 
-**- Cambie los Frameworks y motores predeterminados que tenía NET 2.1 a NET 8.0, debido a que varios proyectos no funcionan con versiones recientes de Visual Studio.**
+**- Cambie los Frameworks y motores predeterminados que tenía NET de la version 2.1 a NET 8.0, debido a que varios proyectos no funcionan con versiones recientes de Visual Studio.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripción de los programas---->
