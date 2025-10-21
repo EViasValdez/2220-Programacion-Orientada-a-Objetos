@@ -11,9 +11,9 @@ namespace Proyecto1
         static void Main(string[] args)
         {
             // Console.WriteLine("Hola mundo");
-            Auto vehiculo = new Auto();
-            // Console.WriteLine("El modelo es: " + vehiculo.Modelo);
-            // Console.WriteLine("La marca es: " + vehiculo.Marca);
+            Auto Vehiculo = new Auto();
+            // Console.WriteLine("El modelo es: " + Vehiculo.Modelo);
+            // Console.WriteLine("La marca es: " + Vehiculo.Marca);
             string Mode;
             string Marc;
 
