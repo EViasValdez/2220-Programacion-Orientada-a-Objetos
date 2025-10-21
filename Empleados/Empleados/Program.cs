@@ -18,7 +18,7 @@ namespace Empleados
 
             do
             {
-                Console.WriteLine("Ingrese el id del empleado");
+                Console.WriteLine("Ingrese el ID del empleado");
                 string Identificador = Console.ReadLine();
 
                 Console.WriteLine("Ingrese días trabajados");
