@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MetodoGetSet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97fd1aca80e64a072b53e42aa5dc026f8ce7e7ee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa4f4d3a7e35776bd7cc9a97cd1fa42ee8d7abe5")]
 [assembly: System.Reflection.AssemblyProductAttribute("MetodoGetSet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MetodoGetSet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
