@@ -12,7 +12,7 @@ namespace Proyecto2
         {
             Persona Eduardo = new Persona();
             
-            Console.WriteLine("El curp / identificacion es: " + Eduardo.Identificacion);
+            Console.WriteLine("El CURP / identificación es: " + Eduardo.Identificacion);
             Console.WriteLine("El nombre es: " + Eduardo.Nombre);
             Console.WriteLine("El apellido paterno es: " + Eduardo.ApellidoPaterno);
             Console.WriteLine("El apellido materno es: " + Eduardo.ApellidoMaterno);
