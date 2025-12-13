@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Asesorias")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc21c8f980e38eb111ddb4dddb5f89362349dadb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc8206835bd378d27971b16bf72c4b85e8ccf48c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Asesorias")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Asesorias")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
