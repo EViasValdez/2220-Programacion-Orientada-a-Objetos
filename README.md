@@ -1,16 +1,11 @@
 # Programación orientada a objetos
 
 <!----Descripción---->
-Por ser escrita.
+Para esta materia empece a usar el lenguaje C#, que al final termino volviéndose mi lenguaje predilecto para trabajos grandes, fueron creados usando una version anterior de Visual Studio Community, por ello se necesita tener instalado el SDK de NET Core 8.0.
 <!----Separador de la descripción ---->
 
 <!----Notas---->
 **Notas**
-
-**- Para ejecutar sin problemas los proyectos se necesita tener instalado el SDK de NET Core 8.0.**
-
-**- Algunos textos fueron corregidos y se hizo también redacción de comentarios que contienen algunas instrucciones.**
-
 **- Los proyectos "ActividadPendienteOO" y "OtraActividadOO" son actividades que no pude pasar a proyectos propios en su momento pero pude hacerlos desde cero y los puse aquí, también fueron ejercicios que hice durante el periodo extraordinario para recuperar materias.**
 
 **- Cambie los Frameworks y motores predeterminados que tenía NET de la version 2.1 a NET 8.0, debido a que varios proyectos no funcionan con versiones recientes de Visual Studio.**
