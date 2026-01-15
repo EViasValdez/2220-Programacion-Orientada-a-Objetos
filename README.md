@@ -1,5 +1,9 @@
 # Programación orientada a objetos
 
+<!----Descripción---->
+Por ser escrita.
+<!----Separador de la descripción ---->
+
 <!----Notas---->
 **Notas**
 
