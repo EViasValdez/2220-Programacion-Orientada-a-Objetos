@@ -40,7 +40,7 @@ Organización del nombre e información de empleado.
 <!----Separador---->
 
 ###### Repaso - 01/02/20
-Segunda version del programa "Empleados", esta vez de manera separada.
+Segunda version del programa "Empleados", esta vez como un programa separado.
 
 ## ● Unidad 2 ●
 ###### Herencia, HerenciaAct - 12/02/20
