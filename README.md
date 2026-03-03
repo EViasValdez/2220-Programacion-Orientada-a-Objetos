@@ -2,7 +2,7 @@
 
 <!----Descripción---->
 Para esta materia empece a usar el lenguaje C#, que al final termino volviéndose mi lenguaje predilecto para trabajos grandes fueron creados usando una version anterior de Visual Studio Community, por ello se actualizaron los proyectos con el SDK de NET Core 8.0.
-<!----Separador de la descripción ---->
+<!----Separador de la descripción---->
 
 <!----Notas---->
 **Notas**
