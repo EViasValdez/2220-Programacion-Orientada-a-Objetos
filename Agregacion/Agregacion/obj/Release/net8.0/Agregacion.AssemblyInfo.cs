@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Agregacion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae1ac6ae9f47c9582ba638d9653ef4acbd74b11e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+945e1dfc7fb9e77cc0cff3da724936d1d9af7c4a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Agregacion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Agregacion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
