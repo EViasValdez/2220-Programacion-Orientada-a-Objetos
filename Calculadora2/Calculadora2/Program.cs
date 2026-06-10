@@ -55,7 +55,7 @@ namespace Calculadora2
                     Rest = Divi.Resultado;
                 }
                 Console.WriteLine("El resultado es: " + Rest);
-                Console.WriteLine("¿Desea hacer otra Opcion?");
+                Console.WriteLine("¿Desea hacer otra Opción?");
                 z = Console.ReadLine();
             }
             while (z == "s");

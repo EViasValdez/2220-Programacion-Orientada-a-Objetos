@@ -17,7 +17,7 @@ namespace Asesorias
             bool Electo = false;
             string Sino;
 
-            // Crear una repeticion en el programa.
+            // Crear una repetición en el programa.
             do
 			{
                 Console.WriteLine("¿Que acción desea realizar?");
@@ -78,7 +78,7 @@ namespace Asesorias
                     }
                     }
                     else
-                    if (Accion == "Borrar") // Abrir el método "borrar".
+                    if (Accion == "Borrar") // Abrir el método "Borrar".
                     {
                         Console.WriteLine("Usted eligió Borrar");
                         Console.WriteLine("Elige una clase");
@@ -350,7 +350,7 @@ namespace Asesorias
                 Console.WriteLine("Marca: " + Mous.Marca);
                 Console.WriteLine("Color: " + Mous.Color);
                 Console.WriteLine("Tipo: " + Mous.Tipo);
-                Console.WriteLine("Alambrico: " + Mous.Alambrico);
+                Console.WriteLine("Alámbrico: " + Mous.Alambrico);
             }
         }
     }
