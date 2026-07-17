@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EduardoViñasValdez")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18f8bb3f1247022762f3b3692163eac96ea35854")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97b9a5ac63f6ae3c1893270c94b2d3ceb0ba1b4a")]
 [assembly: System.Reflection.AssemblyProductAttribute("EduardoViñasValdez")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EduardoViñasValdez")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
