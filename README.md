@@ -81,6 +81,6 @@ Actividad no finalizada en su momento, pero fue concluida tiempo después.
 
 <!----Separador---->
 
-Otra actividad no terminada, no hay muchas diferencias relevantes con la anterior.
+Otra actividad no terminada, no hay muchas diferencias que se destaquen con la anterior.
 
 <!----Separador del directorio con descripción de los programas---->
