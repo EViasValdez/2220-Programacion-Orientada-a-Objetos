@@ -15,7 +15,7 @@ Para esta materia empece a usar el lenguaje C#, que al final termino volviéndos
 # Descripción de los programas
 ## ● Unidad 1 ●
 ###### Proyecto1 - 18/01/20
-Ingreso y registro de modelo y marca de auto. 
+Ingreso con registro de modelo y marca de auto. 
 
 <!----Separador---->
 
