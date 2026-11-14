@@ -252,13 +252,13 @@ namespace Asesorias
 			Pizarron pizarra = new Pizarron();
             List <Pizarron> ListaPizarron = new List <Pizarron>();
 
-			Console.WriteLine("Ponga la Marca del pizarron");
+			Console.WriteLine("Ponga la Marca del pizarrón");
 			pizarra.Marca = Console.ReadLine();
-			Console.WriteLine("Ponga el color del pizarron");
+			Console.WriteLine("Ponga el color del pizarrón");
 			pizarra.Color = Console.ReadLine();
-			Console.WriteLine("Ponga el tipo de pizarron");
+			Console.WriteLine("Ponga el tipo de pizarrón");
 			pizarra.Tipo = Console.ReadLine();
-            Console.WriteLine("Ponga el tamaño del pizarron");
+            Console.WriteLine("Ponga el tamaño del pizarrón");
 			pizarra.Tamaño = Console.ReadLine();
 
             ListaPizarron.Add(pizarra);
