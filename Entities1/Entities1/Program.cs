@@ -11,7 +11,7 @@ namespace Entities1
         static void Main(string[] args)
         {
             List <Datos> ListDatos = new List<Datos>();
-
+            
             ListDatos.Add(new Datos {ID = 1, Nombre = "Felix", APaterno = "Amador", AMaterno = "Bosqueda", Direccion = "Estado De Mexico, Mexico", Telefono = "" });
             ListDatos.Add(new Datos {ID = 2, Nombre = "Armando", APaterno = "Vazquez Montes", AMaterno = "Villalba", Direccion = "Guadalajara, Mexico", Telefono = "" });
             ListDatos.Add(new Datos {ID = 3, Nombre = "Maria", APaterno = "Salgado", AMaterno = "Martinez", Direccion = "Puebla, Mexico", Telefono = "" });

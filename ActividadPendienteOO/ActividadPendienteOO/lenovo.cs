@@ -17,7 +17,7 @@ namespace ActividadPendienteOO
         public string MemoriaRam;
         public string Procesador;
         public string TarjetaGrafica;
-
+        
         public Lenovo()
         {
             ID = "ZNAS6Z2M";

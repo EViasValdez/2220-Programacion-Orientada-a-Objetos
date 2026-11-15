@@ -17,19 +17,19 @@ namespace MetodoGetSet
             // Empleados e = new Empleados();
             // e.nombre = "Javier";
             // Console.ReadKey();
-
+            
             Practica Pract = new Practica();
-
+            
             Console.WriteLine("Ingrese el ID");
             Pract.Identificacion = int.Parse(Console.ReadLine());
-
+            
             Console.WriteLine("Ingrese el nombre");
             Pract.Nombre = (Console.ReadLine());
-
+            
             Console.WriteLine("Ingrese el total");
             Pract.Total = float.Parse(Console.ReadLine());
             Pract.Iva = Pract.Total;
-
+            
             Console.WriteLine("----------------");
             Console.WriteLine("El ID es: " + Pract.Identificacion + " con nombre: " + Pract.Nombre);
             Console.WriteLine("Con un total de: " + Pract.Total);

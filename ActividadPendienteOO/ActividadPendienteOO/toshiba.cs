@@ -17,7 +17,7 @@ namespace ActividadPendienteOO
         public string MemoriaRam;
         public string Procesador;
         public string TarjetaGrafica;
-
+        
         public Toshiba()
         {
             ID = "JE2S4B5G";

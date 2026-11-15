@@ -12,7 +12,7 @@ namespace OtraActividadOO
         public string AmarilloOro;
         public string AzulRey;
         public string VerdeOscuro;
-
+        
         public Color2()
         {
             RojoGarante = "rgba(184, 0, 0)";

@@ -17,7 +17,7 @@ namespace ActividadPendienteOO
         public string MemoriaRam;
         public string Procesador;
         public string TarjetaGrafica;
-
+        
         public HewlettPackard()
         {
             ID = "KN7V6CTV";

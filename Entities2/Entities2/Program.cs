@@ -35,9 +35,9 @@ namespace Entities2
                 Data.Edad = Console.ReadLine();
                 Console.WriteLine("Ingrese CURP");
                 Data.CURP = Console.ReadLine();
-
+                
                 L.Add(Data);
-
+                
                 foreach (EntDatos datos in L)
                 {
                     Console.WriteLine("Nombre completo: " + Data.Nombre + " " + Data.APaterno + " " + Data.AMaterno);
@@ -48,7 +48,7 @@ namespace Entities2
                     Console.WriteLine("Edad: " + Data.Edad);
                     Console.WriteLine("CURP: " + Data.CURP);
                 }
-
+                
                 Console.ReadKey();
                 Console.WriteLine("¿Quiere agregar otro?");
                 sino = Boolean.Parse(Console.ReadLine());

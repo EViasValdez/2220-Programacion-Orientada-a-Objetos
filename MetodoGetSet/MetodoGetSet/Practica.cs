@@ -14,14 +14,14 @@ namespace MetodoGetSet
             get { return _ID; }
             set { _ID = value; }
         }
-
+        
         private string _Nombre;
         public string Nombre
         {
             get { return _Nombre; }
             set { _Nombre = value; }
         }
-
+        
         private float _Iva;
         public float Iva
         {
@@ -34,7 +34,7 @@ namespace MetodoGetSet
             }
             set { _Iva = value; }
         }
-
+        
         private float _Total;
         public float Total
         {
@@ -53,7 +53,7 @@ namespace MetodoGetSet
             }
             set { _TotalIva = value; }
         }
-
+        
         private float _Descuento;
         public float Descuento
         {
@@ -64,7 +64,7 @@ namespace MetodoGetSet
                     _Descuento = TotalIva * 0.20f;
                     _Descuento = TotalIva - _Descuento;
                 }
-
+                
                 return _Descuento;
             }
             set { _Descuento = value; }

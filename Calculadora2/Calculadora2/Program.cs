@@ -33,7 +33,7 @@ namespace Calculadora2
                 Console.WriteLine("Numero 2");
                 Resultado = Console.ReadLine();
                 Numero2 = float.Parse(Resultado);
-
+                
                 if (Opcion == "1")
                 {
                     Suma Sum = new Suma (Numero1, Numero2);

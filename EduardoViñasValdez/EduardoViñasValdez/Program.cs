@@ -14,11 +14,11 @@ namespace EduardoViñasValdez
             Console.WriteLine("Productos disponibles");
             Console.WriteLine("1. Libros");
             Console.WriteLine("2. CDs");
-
+            
             EVVDatos Data = new EVVDatos();
             EVVPublicacion DatPubli = new EVVPublicacion();
             EVVCD DatCD = new EVVCD();
-
+            
             Console.WriteLine("Ingrese id");
             Data.ID = int.Parse(Console.ReadLine());
             Console.WriteLine("Ingrese nombre");
@@ -27,7 +27,7 @@ namespace EduardoViñasValdez
             Data.APaterno = Console.ReadLine();
             Console.WriteLine("Ingrese apellido paterno");
             Data.AMaterno = Console.ReadLine();
-
+            
             Console.WriteLine("Libro");
             Console.WriteLine("Ingrese titulo");
             DatPubli.Titulo = Console.ReadLine();

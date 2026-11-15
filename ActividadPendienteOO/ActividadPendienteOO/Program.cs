@@ -32,7 +32,7 @@ namespace ActividadPendienteOO
             Lenovo Lnvo = new Lenovo();
             HewlettPackard Hepa = new HewlettPackard();
             Acer Ar = new Acer();
-
+            
             if (Opcion == "1")
             {
                 Console.WriteLine("► Detalles del producto ◄");

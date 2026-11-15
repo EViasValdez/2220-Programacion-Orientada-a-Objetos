@@ -17,7 +17,7 @@ namespace Proyecto1
         public float Precio;
         public string SubMarca;
         string x, y;
-
+        
         public Auto(string Model, string Marca, string Nada)
         {
             Console.WriteLine("Escriba la marca");

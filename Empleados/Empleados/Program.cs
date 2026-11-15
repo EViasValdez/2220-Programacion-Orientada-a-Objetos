@@ -12,10 +12,10 @@ namespace Empleados
         {
             Personal Per = new Personal();
             Nomina Nom = new Nomina();
-
+            
             string Otra = "";
             int i = 0;
-
+            
             do
             {
                 Console.WriteLine("Ingrese el ID del empleado");

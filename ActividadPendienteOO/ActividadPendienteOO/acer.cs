@@ -17,7 +17,7 @@ namespace ActividadPendienteOO
         public string MemoriaRam;
         public string Procesador;
         public string TarjetaGrafica;
-
+        
         public Acer()
         {
             ID = "N5CV2MYZ";

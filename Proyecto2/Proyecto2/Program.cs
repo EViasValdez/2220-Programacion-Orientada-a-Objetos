@@ -18,7 +18,7 @@ namespace Proyecto2
             Console.WriteLine("El apellido materno es: " + Eduardo.ApellidoMaterno);
             Console.WriteLine("El genero es: " + Eduardo.Genero);
             Console.WriteLine("Su dirección es: " + Eduardo.Direccion);
-
+            
             Persona Infor = new Persona();
             Infor.Identificacion = "458";
             Infor.Nombre = "";

@@ -343,14 +343,14 @@ namespace Asesorias
 
             Console.WriteLine("====================");
             Console.ReadKey();
-
+            
             foreach (Mouse mou in ListaMouse)
             {
                 Console.WriteLine("Aquí están los datos ingresados");
                 Console.WriteLine("Marca: " + Mous.Marca);
                 Console.WriteLine("Color: " + Mous.Color);
                 Console.WriteLine("Tipo: " + Mous.Tipo);
-                Console.WriteLine("Alámbrico: " + Mous.Alambrico);
+                Console.WriteLine("Alambrico: " + Mous.Alambrico);
             }
         }
     }

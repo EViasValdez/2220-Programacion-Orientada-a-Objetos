@@ -12,12 +12,12 @@ namespace Listas
         {
             int Num;
             int Elem;
-
+            
             List <int> MiList = new List<int>();
-
+            
             Console.WriteLine("Ingrese el numero de elementos");
             Elem = int.Parse(Console.ReadLine());
-
+            
             Console.WriteLine("=================");
             for (int i = 0; i < Elem; i++)
             {

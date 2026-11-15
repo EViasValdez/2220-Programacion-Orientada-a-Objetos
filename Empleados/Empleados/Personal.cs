@@ -10,7 +10,7 @@ namespace Empleados
         public string Nombre;
         public string FechadeNacimiento;
         public int Sueldo;
-
+        
         public Personal()
         {
             Identificador = "74JF84S";

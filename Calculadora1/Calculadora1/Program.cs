@@ -19,9 +19,9 @@ namespace Calculadora1
             Console.WriteLine("2. Resta");
             Console.WriteLine("3. Multiplicación");
             Console.WriteLine("4. Division");
-
+            
             Opcion = (Console.ReadLine());
-
+            
             Console.WriteLine("Ingresa los números");
             Console.WriteLine("Numero 1");
             Resultado = Console.ReadLine();
@@ -29,9 +29,9 @@ namespace Calculadora1
             Console.WriteLine("Numero 2");
             Resultado = Console.ReadLine();
             Numero2 = float.Parse(Resultado);
-
+            
             Program Calc = new Program();
-
+            
             if (Opcion == "1")
             {
                 Calc.Suma (Numero1, Numero2);
